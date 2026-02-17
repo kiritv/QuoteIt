@@ -1,4 +1,4 @@
-# Quote It — User Guide
+\# Quote It — User Guide
 
 Welcome to **Quote It**, your personal collection of inspirational quotes, proverbs, and sayings paired with beautiful photography.
 
@@ -42,6 +42,8 @@ When you tap the share button, you'll see two options:
 - **Share Text** — Shares the quote text and author as plain text to any app (Messages, Notes, etc.)
 - **Share Image** — Creates a beautifully styled card with the quote, author name, and background image, then opens the share sheet so you can send it anywhere
 
+Shared images are cached to disk, so sharing the same quote again is instant.
+
 ### Saving to Photos
 Tap the download icon to instantly render a styled quote card and save it to your device's Photos library. The card includes:
 - The full quote text (centered)
@@ -64,7 +66,7 @@ Use the search bar at the top to find quotes by:
 - **Author name** — Full or partial name
 - **Topic/tags** — Categories like "love", "wisdom", "success"
 
-Search results appear as you type with a short delay to keep the interface smooth.
+Search results appear as you type with a short delay to keep the interface smooth. Search runs on a background thread so the UI stays responsive even with thousands of quotes.
 
 ### Viewing Quotes
 Tap any quote in a list to view it full-screen with a background image. From there you can:
@@ -91,11 +93,20 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 - **Time** — Choose what time of day you'd like to receive the notification
 - You'll need to grant notification permissions when prompted
 
+### Background Images
+Control which photo services provide background images for your quotes.
+
+- **Unsplash** — Toggle high-quality photos from Unsplash on or off
+- **Pexels** — Toggle free stock photography from Pexels on or off
+- **Download on Cellular** — Control whether images download on mobile data
+
+Disable both Unsplash and Pexels to view quotes without background images.
+
 ### Image Cache
 Background images are downloaded and stored on your device for faster loading and offline use.
 
 - **Cache Size** — Choose how many images to keep cached (50–500)
-- **Clear Image Cache** — Remove all cached images to free up storage space
+- **Clear Image Cache** — Remove all cached images to free up storage space. The app shows how many images were cleared.
 
 ### Help
 A quick reference guide for the app's features is available in the Settings screen.
@@ -112,17 +123,48 @@ Quote It displays beautiful photography behind your quotes. Images are sourced f
 - **Unsplash** — High-quality free photos
 - **Pexels** — Free stock photography
 
+You can enable or disable each source independently in Settings > Background Images.
+
 ### How It Works
 - A new background image is fetched when you navigate to a new quote
 - Images are cached on your device for quick access
 - The app automatically adapts text colors based on image brightness — light text on dark images, dark text on light images
 - Image photographer attribution is shown at the bottom of the quote screen
 
+### Offline Use
+Previously downloaded images are available offline from the cache. The app gracefully handles no-network situations by using cached images.
+
+---
+
+## iPad & Landscape
+
+Quote It works on both iPhone and iPad, in portrait and landscape orientations. The action bar and tab bar stay compact and centered on wider screens so the background image remains visible.
+
+---
+
+## Accessibility
+
+Quote It supports VoiceOver and other assistive technologies:
+- All action bar buttons have descriptive accessibility labels (e.g., "Add to favorites", "Read aloud", "Share quote", "Save to Photos")
+- Tab bar items announce their label and selected state
+- Quote content is combined for VoiceOver as "quote text, by author"
+- The back button is labeled "Go back"
+
 ---
 
 ## watchOS Companion
 
 Quote It includes a watchOS companion app that displays a **Quote of the Day** on your Apple Watch. The quote is selected deterministically based on the date, so you'll always see the same quote on the same day.
+
+---
+
+## Home Screen Widget
+
+Add a **Quote of the Day** widget to your home screen. The widget displays a new inspirational quote each day, using the same deterministic selection as the watchOS companion.
+
+Available in three sizes: **small**, **medium**, and **large**.
+
+To add the widget: long-press your home screen, tap the **+** button, search for "Quote It", and choose your preferred size.
 
 ---
 
@@ -133,3 +175,4 @@ Quote It includes a watchOS companion app that displays a **Quote of the Day** o
 - **Share beautifully** — Use "Share Image" to create styled cards perfect for social media
 - **Listen while you work** — Use the speaker icon to hear quotes read aloud
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
+- **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
