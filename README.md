@@ -118,9 +118,6 @@ Quote It displays beautiful photography behind your quotes. Images are sourced f
 - The app automatically adapts text colors based on image brightness — light text on dark images, dark text on light images
 - Image photographer attribution is shown at the bottom of the quote screen
 
-### Offline Use
-Previously downloaded images are available offline from the cache. The app gracefully handles no-network situations by using cached images.
-
 ---
 
 ## watchOS Companion
