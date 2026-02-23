@@ -5,6 +5,18 @@ You can also create your own quotes with your own images, stored locally on your
 
 ---
 
+## Version 4.6.0 Highlights
+
+- Multi-dataset reading with quick dataset switching from the Quote screen
+- Continuous Reader mode with Card/Reader transitions
+- Swipe up/down in Card mode to enter Reader mode quickly
+- Full-screen Quote Builder Wizard with style presets
+- Full-screen Dataset Import Wizard with model-assisted review
+- iPad supplemental details panel for supported study datasets
+- Expanded Voice & Dictation controls with system and Personal Voice support
+
+---
+
 ## Getting Started
 
 When you first open Quote It, you'll see a random quote displayed over a background image. The app has four main sections accessible from the floating tab bar at the bottom of the screen:
@@ -24,6 +36,16 @@ The Quote screen is where you'll spend most of your time. It displays a full-scr
 - Tap the **right arrow** (chevron) on the action bar to see a new random quote
 - Tap the **left arrow** to go back to the previous quote
 - Tap anywhere on the screen to **show or hide** the toolbar and tab bar
+- Double-tap quote text to toggle **Reader** / **Card** layout
+- Swipe up/down in **Card** layout to quickly enter **Reader** layout
+
+### Reader Mode
+- Reader mode shows quotes/items as a continuous stream separated by visual dividers.
+- Scroll up/down to read previous and next entries continuously.
+- In Reader mode, the centered item becomes the current item as you read.
+- When you exit Reader mode, Card mode opens on the last centered item.
+- Copy quick actions are available in Card mode (long-press), not in Reader mode.
+- When Reader opens, a short tip reminds you that double-tap returns to Card mode.
 
 ### Action Bar
 The floating action bar appears at the bottom of the screen with these actions:
@@ -32,6 +54,7 @@ The floating action bar appears at the bottom of the screen with these actions:
 |------|--------|-------------|
 | Heart | **Favorite** | Save or unsave the quote to your Favorites |
 | Speaker | **Listen** | Hear the quote read aloud using text-to-speech |
+| Photo | **Choose Background** | Open background picker and refresh/favorite image options |
 | Share | **Share** | Share the quote as text or as a styled image card |
 | Download | **Save to Photos** | Save a styled quote card image to your Photos library |
 
@@ -51,7 +74,7 @@ On large iPad layouts, supported study datasets can show a details panel.
 When you tap the share button, you'll see two options:
 
 - **Share Text** — Shares quote text and author only
-- **Share Image** — Creates a styled card and includes source credit links when using Unsplash/Pexels backgrounds
+- **Share Image** — Creates a styled card and includes dataset photo credit links when using Unsplash/Pexels backgrounds
 
 Shared images are cached to disk, so sharing the same quote again is instant.
 
@@ -106,6 +129,9 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 - Use the **Create Your Quote** action to add a personal quote directly from Favorites
 - Use the **My Quotes** filter (person badge icon) to show only your personal quotes
 - Swipe personal quotes to **Edit** or **Delete**
+- Use **Dataset Scope** to switch between:
+  - **All Datasets** (favorites across every dataset)
+  - **Current Dataset** (favorites only for the active dataset)
 
 ---
 
@@ -152,9 +178,9 @@ Disable both Unsplash and Pexels to view quotes without background images.
 - **Decorative Quote Mark** — Shows/hides the large stylized opening quote mark behind the quote text
 
 ### Voice & Dictation
-- **Use System Default Voice** — Follow iOS voice settings
+- **Use System Voices** — Use installed iOS voices that match active dataset language
 - **Personal Voice** — Dedicated picker for Personal Voice when available and authorized
-- **Standard Voice** — Choose a specific built-in system voice
+- **System Voice** — Choose a specific built-in system voice
 - **Speech Rate** — Adjust read-aloud speed
 - **Preview Voice** — Test current voice settings
 - **Dictation** — In Create/Edit Quote, use Dictate Quote to transcribe speech into quote text
@@ -163,19 +189,20 @@ Personal Voice is available only after app-level permission is granted in Voice 
 Microphone permission handling for dictation uses the latest iOS APIs and remains compatible with older supported versions.
 
 ### Content & Navigation
-- **Data Source** — Switch between all discovered bundled/imported sources
+- **Dataset** — Switch between all discovered bundled/imported datasets
 - **Reading Mode** — Random or Browse sequence
-- **Auto Mode Switch** — When moving from `QuoteIt` to any other source, the app switches Reading Mode to `Browse`
-- **Source Details** — Language, edition, and item count for the active source
+- **Auto Mode Switch** — When moving from `QuoteIt` to any other dataset, the app switches Reading Mode to `Browse`
+- **Dataset Details** — Language, edition, and item count for the active dataset
+- **Quick Dataset Chip** — On the Quote screen (toolbar visible), use the dataset chip under Jump To to switch datasets without opening Settings
 
-### Source Import & Import Models
+### Dataset Import & Import Models
 - Open **Settings > Content & Navigation > Open Import Wizard** to import local datasets.
 - Import Wizard flow:
-  - **File**: select source package/folder or raw file (`.txt`, `.md`, `.csv`, `.tsv`, `.json`, `.pdf`)
+  - **File**: select dataset package/folder or raw file (`.txt`, `.md`, `.csv`, `.tsv`, `.json`, `.pdf`)
   - **Intent**: provide optional dataset hints
   - **Model**: choose runtime (`Rules Only`, `Bundled`, `Imported`, `Automatic`)
   - **Review**: inspect parsed records and refine selection
-  - **Finalize**: publish source metadata and add to app
+  - **Finalize**: publish dataset metadata and add to app
 - Open **Manage Import Model** for model management (install, select active imported model, delete imported models).
 - Model install methods:
   - **Install from URL**: direct `.mlmodel` or `.mlpackage` URL
@@ -196,6 +223,7 @@ Background images are stored locally for faster loading and offline use, with se
 - **Clear Web Image Cache** — Removes only downloaded Unsplash/Pexels cache entries
 - **Clear Selected Photos Backgrounds** — Removes only backgrounds you added from Photos in background chooser
 - **Custom Quote Photos** — Shows count of photos attached to custom quotes; these are removed when the quote is deleted
+- **Dataset Performance Cache** — Large datasets use on-device cache databases for faster load/search; you can clear and rebuild this cache in Storage
 
 ### Help & About
 - **Help** — In-app quick reference for key app workflows
@@ -225,7 +253,7 @@ You can enable or disable each source independently in Settings > Appearance > B
 - Tap the photo button to open **Choose Background**
 - Use **Refresh from Web** to force a new online fetch attempt
 - Use **Choose from Photos** to add your own image into the chooser
-- Thumbnails show source badge: **Your Photo**, **Unsplash**, or **Pexels**
+- Thumbnails show dataset badge: **Your Photo**, **Unsplash**, or **Pexels**
 - Long-press a thumbnail to remove that specific background from Quote It storage
 
 ### Offline Use
@@ -280,8 +308,3 @@ To add the widget: long-press your home screen, tap the **+** button, search for
 - **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
 
 ---
-
-## Developer Reference
-
-For dataset/source schema details (manifest, primary data, and supplemental data), see:
-- `Documentation/4.6.0/DATASET_SCHEMA.md`
