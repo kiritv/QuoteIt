@@ -5,15 +5,17 @@ You can also create your own quotes with your own images, stored locally on your
 
 ---
 
-## Version 4.6.0 Highlights
+## Version 5.0.0 Highlights
 
 - Multi-dataset reading with quick dataset switching from the Quote screen
+- Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
 - Swipe up/down in Card mode to enter Reader mode quickly
 - Full-screen Quote Builder Wizard with style presets
 - Full-screen Dataset Import Wizard with model-assisted review
 - iPad supplemental details panel for supported study datasets
 - Expanded Voice & Dictation controls with system and Personal Voice support
+- Daily notification tap opens the exact item in-app when available
 
 ---
 
@@ -38,6 +40,7 @@ The Quote screen is where you'll spend most of your time. It displays a full-scr
 - Tap anywhere on the screen to **show or hide** the toolbar and tab bar
 - Double-tap quote text to toggle **Reader** / **Card** layout
 - Swipe up/down in **Card** layout to quickly enter **Reader** layout
+- Double-tap the **QuoteIt** tab button to run **Surprise Me** (random visible dataset + item + background)
 
 ### Reader Mode
 - Reader mode shows quotes/items as a continuous stream separated by visual dividers.
@@ -91,8 +94,8 @@ Tap the download icon to instantly render a styled quote card and save it to you
 
 The Explore screen lets you discover quotes by browsing and searching.
 
-### Create Your Quote
-- Use the **Create Your Quote** action in Explore to add your own quote text and image.
+### Create Your Own
+- Use the **Create Your Own** action in Explore to add your own text and image.
 - You can import an image from Photos or capture one with Camera.
 - New personal quotes are saved locally and automatically added to Favorites.
 
@@ -114,7 +117,7 @@ Tap any quote in a list to view it full-screen with a background image. From the
 - Tap the back button (top-left) to return to the list
 
 ### Personal Quotes
-- Use the **My Quotes** filter (person badge icon) to show only your own quotes.
+- Use the **My Items** filter (person badge icon) to show only your own items.
 - In Explore results, swipe a personal quote to **Edit** or **Delete** it.
 
 ---
@@ -126,8 +129,8 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 - Tap any favorite to view it full-screen
 - Tap the heart icon again on any quote to remove it from favorites
 - Your favorites are never uploaded or shared — they stay on your device
-- Use the **Create Your Quote** action to add a personal quote directly from Favorites
-- Use the **My Quotes** filter (person badge icon) to show only your personal quotes
+- Use the **Create Your Own** action to add a personal item directly from Favorites
+- Use the **My Items** filter (person badge icon) to show only your personal items
 - Swipe personal quotes to **Edit** or **Delete**
 - Use **Dataset Scope** to switch between:
   - **All Datasets** (favorites across every dataset)
@@ -139,43 +142,56 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 
 Settings is organized into grouped sections:
 - **General**
+  - **Reading & Display**
   - **Daily Notifications**
-  - **Appearance**
   - **Voice & Dictation**
 - **Output**
   - **Export & Sharing**
   - **Storage**
+- **Library**
+  - **Dataset Import**
 - **Support**
-  - **Help & About**
+  - **About & Help**
 
 Each settings screen includes a short description so every option is self-explanatory.
 
 ### Daily Notifications
-- **Enable Daily Quote** — Receive a notification once a day with an inspirational quote
+- **Enable Daily Notification** — Receive one notification each day with an inspirational item
 - **Time** — Choose what time of day you'd like to receive the notification
+- Tapping the notification opens that exact dataset item when it is still available
 - You'll need to grant notification permissions when prompted
 
-### Appearance
+### Settings Search
+- Use the search field at the top of Settings to find controls by keyword.
+- Search results now support deep links to the exact setting row/control, not only the parent screen.
+- When you open a result, the matched row receives a subtle temporary highlight so it is easy to spot.
+- Going back from a result preserves your search term and result list so you can continue to the next match.
+
+### Reading & Display
 
 #### Background & Layout
-Control which photo services provide background images for your quotes.
+Control which photo services provide background images for your items.
 
 - **Unsplash** — Toggle high-quality photos from Unsplash on or off
 - **Pexels** — Toggle free stock photography from Pexels on or off
 - **Download on Cellular** — Control whether images download on mobile data
 - **Blur** — Softens image detail behind text
-- **Dim Strength** — Darkens image for better quote readability
+- **Dim Strength** — Darkens image for better item readability
 - **Gradient Tint** — Adds a mood color tint
 - **Tint Strength** — Controls tint intensity
 - **Zoom** — Controls background crop scale
 - **Horizontal Position** / **Vertical Position** — Reposition image framing
 - **Reset Background Controls** — Restores visual defaults
 
-Disable both Unsplash and Pexels to view quotes without background images.
+Disable both Unsplash and Pexels to view items without background images.
 
-#### Quote Text Styling
-- **Text Color** — Auto, light, dark, or gradient quote text modes
-- **Decorative Quote Mark** — Shows/hides the large stylized opening quote mark behind the quote text
+#### Text Styling
+- **Quick Preset** / **Quick Layout** — Fast typography/layout bundles
+- **Text Color** — Auto, light, dark, or gradient item text modes
+- **Text Alignment** / **Vertical Placement** — Position item text and author
+- **Text Size**, **Line Spacing**, **Letter Spacing**, **Text Opacity**, **Shadow Strength** — Fine typography controls
+- **Decorative Quote Mark** — Shows/hides the large stylized opening mark behind the item text
+- **Suggest for Current Background** — Applies readability-focused styling for the currently displayed image
 
 ### Voice & Dictation
 - **Use System Voices** — Use installed iOS voices that match active dataset language
@@ -183,31 +199,43 @@ Disable both Unsplash and Pexels to view quotes without background images.
 - **System Voice** — Choose a specific built-in system voice
 - **Speech Rate** — Adjust read-aloud speed
 - **Preview Voice** — Test current voice settings
-- **Dictation** — In Create/Edit Quote, use Dictate Quote to transcribe speech into quote text
+- **Dictation** — In Create/Edit, use Dictate to transcribe speech into item text
 
 Personal Voice is available only after app-level permission is granted in Voice & Dictation and a Personal Voice is configured on the device.
 Microphone permission handling for dictation uses the latest iOS APIs and remains compatible with older supported versions.
 
-### Content & Navigation
-- **Dataset** — Switch between all discovered bundled/imported datasets
+### Reading & Display (Navigation)
 - **Reading Mode** — Random or Browse sequence
 - **Auto Mode Switch** — When moving from `QuoteIt` to any other dataset, the app switches Reading Mode to `Browse`
-- **Dataset Details** — Language, edition, and item count for the active dataset
-- **Quick Dataset Chip** — On the Quote screen (toolbar visible), use the dataset chip under Jump To to switch datasets without opening Settings
+- **Quick Dataset Chip** — On the main card screen (toolbar visible), use the dataset chip under Jump To to open full-screen **Choose Dataset**
+- **Choose Dataset (Full Screen)** — Built for daily switching and list management (outside Settings):
+  - `QuoteIt` is always first and required (cannot be hidden)
+  - Single ordered list for fast switching (no grouped sections)
+  - Swipe left on dataset rows for **Pin/Unpin** and **Hide/Unhide**
+  - **Show Hidden** top-left button reveals hidden datasets when needed
+  - **Show Hidden** defaults to off each time the screen opens, so users see their focused visible list
+  - Tapping a hidden dataset auto-unhides it and switches immediately
+  - Dataset rows show visual state badges (for example **Online**, **Hidden**, **Pinned**) for quick scanning
+  - **Discover Online Datasets** is available directly inside Choose Dataset and only shows datasets not installed on this device
+  - For **Online** datasets, swipe left and use **Remove Download** to delete local copy; it can be downloaded again anytime
 
 ### Dataset Import & Import Models
-- Open **Settings > Content & Navigation > Open Import Wizard** to import local datasets.
+- Open **Choose Dataset > Discover Online Datasets** for quick install of missing public GitHub datasets.
+- Open **Settings > Dataset Import > Import Wizard** to import local datasets.
 - Import Wizard flow:
   - **File**: select dataset package/folder or raw file (`.txt`, `.md`, `.csv`, `.tsv`, `.json`, `.pdf`)
   - **Intent**: provide optional dataset hints
   - **Model**: choose runtime (`Rules Only`, `Bundled`, `Imported`, `Automatic`)
   - **Review**: inspect parsed records and refine selection
   - **Finalize**: publish dataset metadata and add to app
-- Open **Manage Import Model** for model management (install, select active imported model, delete imported models).
+- Open **Settings > Dataset Import > Import AI Models** for model management (install, select active imported model, delete imported models).
 - Model install methods:
   - **Install from URL**: direct `.mlmodel` or `.mlpackage` URL
   - **Install from Files (AirDrop)**: local `.mlmodel`, `.mlpackage`, or `.mlmodelc`
 - If imported models exist, the app defaults runtime to **Automatic** (unless you explicitly set **Rules Only**).
+- Source package sharing (`.quoteit`) uses an encrypted anti-tamper envelope for exports.
+- Legacy plaintext `.quoteit` packages are still accepted on import for compatibility.
+- Discover Datasets supports install/update from `.quoteit` package URLs defined in catalog metadata.
 
 ### Export & Sharing
 - **Layout** — Export framing/aspect preset
@@ -222,16 +250,16 @@ Background images are stored locally for faster loading and offline use, with se
 - **Cache Size** — Choose how many downloaded web images to keep cached (50–500)
 - **Clear Web Image Cache** — Removes only downloaded Unsplash/Pexels cache entries
 - **Clear Selected Photos Backgrounds** — Removes only backgrounds you added from Photos in background chooser
-- **Custom Quote Photos** — Shows count of photos attached to custom quotes; these are removed when the quote is deleted
+- **Custom Item Photos** — Shows count of photos attached to custom items; these are removed when the item is deleted
 - **Dataset Performance Cache** — Large datasets use on-device cache databases for faster load/search; you can clear and rebuild this cache in Storage
 
-### Help & About
+### About & Help
 - **Help** — In-app quick reference for key app workflows
 - **About** — App name and current version
 
-### Export Behavior for Personal Quotes
-- Exports for built-in catalog quotes include Quote It branding.
-- Exports for your own created quotes do not include Quote It branding.
+### Export Behavior for Personal Items
+- Exports for built-in catalog items include Quote It branding.
+- Exports for your own created items do not include Quote It branding.
 
 ---
 
@@ -242,7 +270,7 @@ Quote It displays beautiful photography behind your quotes. Images are sourced f
 - **Unsplash** — High-quality free photos
 - **Pexels** — Free stock photography
 
-You can enable or disable each source independently in Settings > Appearance > Background & Layout.
+You can enable or disable each source independently in Settings > Reading & Display > Background & Layout.
 
 ### How It Works
 - A new background image is fetched when you navigate to a new quote
@@ -306,5 +334,3 @@ To add the widget: long-press your home screen, tap the **+** button, search for
 - **Dictate faster** — In Create/Edit Quote, use Dictate Quote to transcribe your voice
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
 - **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
-
----
