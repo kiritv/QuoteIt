@@ -5,10 +5,13 @@ You can also create your own quotes with your own images, stored locally on your
 
 ---
 
-## Version 5.0.0 Highlights
+## Version 5.1.0 Highlights
 
 - Multi-dataset reading with quick dataset switching from the Quote screen
-- Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
+- Explore search scope control: current dataset or all visible datasets
+- New **For Me** tab for personalized recommendation flow
+- Organized Choose Dataset with Quick Access + collapsible category/subcategory library
+- Surprise Me shortcut (double-tap QuoteIt tabmakr) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
 - Swipe up/down in Card mode to enter Reader mode quickly
 - Full-screen Quote Builder Wizard with style presets
@@ -21,12 +24,13 @@ You can also create your own quotes with your own images, stored locally on your
 
 ## Getting Started
 
-When you first open Quote It, you'll see a random quote displayed over a background image. The app has four main sections accessible from the floating tab bar at the bottom of the screen:
+When you first open Quote It, you'll see a random quote displayed over a background image. The app has five main sections accessible from the floating tab bar at the bottom of the screen:
 
 1. **Quote** — The main screen with daily inspiration
-2. **Explore** — Search and browse quotes by author
+2. **Explore** — Search and browse quotes/items across dataset scopes
 3. **Favorites** — Your saved collection
-4. **Settings** — Preferences and help
+4. **For Me** — Personalized feed surface (favorites/search-driven recommendations)
+5. **Settings** — Preferences and help
 
 ---
 
@@ -108,7 +112,15 @@ Use the search bar at the top to find quotes by:
 - **Author name** — Full or partial name
 - **Topic/tags** — Categories like "love", "wisdom", "success"
 
-Search results appear as you type with a short delay to keep the interface smooth. Search runs on a background thread so the UI stays responsive even with thousands of quotes.
+Use the scope control under the search field to choose:
+- **All Datasets** — search across visible (not hidden) datasets
+- **<Current Dataset>** — search only the active dataset
+
+Search behavior:
+- **Current dataset** search updates as you type (debounced).
+- **All datasets** search runs when you tap keyboard **Search** (for better performance on large libraries).
+- In **All Datasets** results, each row shows the dataset name badge.
+- In current-dataset search, dataset badges are hidden (source is already obvious).
 
 ### Viewing Quotes
 Tap any quote in a list to view it full-screen with a background image. From there you can:
@@ -135,6 +147,21 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 - Use **Dataset Scope** to switch between:
   - **All Datasets** (favorites across every dataset)
   - **Current Dataset** (favorites only for the active dataset)
+
+---
+
+## For Me
+
+`For Me` is the personalization surface for quote discovery.
+
+- Uses your interactions (favorites, reading behavior, and search/open signals) to improve suggestions over time
+- Uses the `sparkles` tab entry (`#F7C04A`) for clear discovery
+- Shows a recommendation feed with reason chips (no separate search mode in this tab)
+- Includes runtime controls:
+  - **More Like This** — boosts similar items
+  - **Less Like This** — suppresses similar results from the feed
+  - **Reset** — clears For Me tuning signals
+- Opens any selected item directly in the main Quote screen for normal reading flow
 
 ---
 
@@ -210,14 +237,17 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 - **Quick Dataset Chip** — On the main card screen (toolbar visible), use the dataset chip under Jump To to open full-screen **Choose Dataset**
 - **Choose Dataset (Full Screen)** — Built for daily switching and list management (outside Settings):
   - `QuoteIt` is always first and required (cannot be hidden)
-  - Single ordered list for fast switching (no grouped sections)
+  - Starts with a **Quick Access** block that combines core, pinned, and recent datasets in one compact list (no subsection headers)
+  - Main dataset library is organized into collapsible **Category** and **Subcategory** groups
   - Swipe left on dataset rows for **Pin/Unpin** and **Hide/Unhide**
+  - Swipe left on eligible downloaded online datasets for **Delete** to remove local copy (built-in datasets cannot be deleted)
+  - Swipe left on category/subcategory rows for bulk **Hide/Show** actions
   - **Show Hidden** top-left button reveals hidden datasets when needed
   - **Show Hidden** defaults to off each time the screen opens, so users see their focused visible list
   - Tapping a hidden dataset auto-unhides it and switches immediately
-  - Dataset rows show visual state badges (for example **Online**, **Hidden**, **Pinned**) for quick scanning
+  - Dataset rows show visual state badges (for example **Online**, **Hidden**, **Pinned**) for quick scanning; built-in datasets do not show the **Online** badge
   - **Discover Online Datasets** is available directly inside Choose Dataset and only shows datasets not installed on this device
-  - For **Online** datasets, swipe left and use **Remove Download** to delete local copy; it can be downloaded again anytime
+  - Deleted online datasets can be downloaded again anytime from Discover Online Datasets
 
 ### Dataset Import & Import Models
 - Open **Choose Dataset > Discover Online Datasets** for quick install of missing public GitHub datasets.
@@ -311,13 +341,14 @@ Quote It supports VoiceOver and other assistive technologies:
 
 ## watchOS Companion
 
-Quote It includes a watchOS companion app that displays a **Quote of the Day** on your Apple Watch. The quote is selected deterministically based on the date, so you'll always see the same quote on the same day.
+Watch support is enabled in the 5.1.0 release build.
+It is available in 5.1.0 after release packaging hardening and signing updates.
 
 ---
 
 ## Home Screen Widget
 
-Add a **Quote of the Day** widget to your home screen. The widget displays a new inspirational quote each day, using the same deterministic selection as the watchOS companion.
+Add a **Quote of the Day** widget to your home screen. The widget displays a new inspirational quote each day.
 
 Available in three sizes: **small**, **medium**, and **large**.
 
@@ -334,3 +365,10 @@ To add the widget: long-press your home screen, tap the **+** button, search for
 - **Dictate faster** — In Create/Edit Quote, use Dictate Quote to transcribe your voice
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
 - **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
+
+---
+
+## Developer Reference
+
+For dataset schema details (manifest, primary data, and supplemental data), see:
+- `Documentation/4.6.0/DATASET_SCHEMA.md` (current schema reference used by 5.1.0)
