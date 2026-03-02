@@ -2,16 +2,17 @@
 
 Welcome to **Quote It**, your personal collection of inspirational quotes, proverbs, and sayings paired with beautiful photography.
 You can also create your own quotes with your own images, stored locally on your device.
+This guide covers end-user features only.
 
 ---
 
-## Version 5.1.0 Highlights
+## Current Build Highlights
 
 - Multi-dataset reading with quick dataset switching from the Quote screen
 - Explore search scope control: current dataset or all visible datasets
 - New **For Me** tab for personalized recommendation flow
 - Organized Choose Dataset with Quick Access + collapsible category/subcategory library
-- Surprise Me shortcut (double-tap QuoteIt tabmakr) for random visible dataset + item + background
+- Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
 - Swipe up/down in Card mode to enter Reader mode quickly
 - Full-screen Quote Builder Wizard with style presets
@@ -19,6 +20,15 @@ You can also create your own quotes with your own images, stored locally on your
 - iPad supplemental details panel for supported study datasets
 - Expanded Voice & Dictation controls with system and Personal Voice support
 - Daily notification tap opens the exact item in-app when available
+- Apple Watch now includes:
+  - Quote glance app with Next + Favorite actions
+  - Mood and context filters (`Motivated`, `Calm`, `Focus`, `Confidence`, `Gratitude`)
+  - Watch-side For Me recommendations
+  - Daily motivation scheduling and optional workout cadence prompts
+  - Siri/App Intent quote shortcut ("Get Quote")
+  - Favorites sync bridge between watch and iPhone
+  - Complication data source with daily (and optional intraday) quote rotation
+  - Watch streak tracking
 
 ---
 
@@ -29,8 +39,11 @@ When you first open Quote It, you'll see a random quote displayed over a backgro
 1. **Quote** — The main screen with daily inspiration
 2. **Explore** — Search and browse quotes/items across dataset scopes
 3. **Favorites** — Your saved collection
-4. **For Me** — Personalized feed surface (favorites/search-driven recommendations)
+4. **For Me** — Personalized feed surface (favorites and reading-behavior recommendations)
 5. **Settings** — Preferences and help
+
+On first install (and once after major upgrades), Quote It can show a guided feature wizard and interactive tour.
+You can replay the tour anytime from **Settings > About & Help > Replay App Tour**.
 
 ---
 
@@ -45,6 +58,7 @@ The Quote screen is where you'll spend most of your time. It displays a full-scr
 - Double-tap quote text to toggle **Reader** / **Card** layout
 - Swipe up/down in **Card** layout to quickly enter **Reader** layout
 - Double-tap the **QuoteIt** tab button to run **Surprise Me** (random visible dataset + item + background)
+- Use the **Choose Dataset | <Current Dataset>** button to open full-screen **Choose Dataset**
 
 ### Reader Mode
 - Reader mode shows quotes/items as a continuous stream separated by visual dividers.
@@ -234,7 +248,7 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 ### Reading & Display (Navigation)
 - **Reading Mode** — Random or Browse sequence
 - **Auto Mode Switch** — When moving from `QuoteIt` to any other dataset, the app switches Reading Mode to `Browse`
-- **Quick Dataset Chip** — On the main card screen (toolbar visible), use the dataset chip under Jump To to open full-screen **Choose Dataset**
+- **Quick Dataset Button** — On the main card screen (toolbar visible), use **Choose Dataset | <Current Dataset>** to open full-screen **Choose Dataset**
 - **Choose Dataset (Full Screen)** — Built for daily switching and list management (outside Settings):
   - `QuoteIt` is always first and required (cannot be hidden)
   - Starts with a **Quick Access** block that combines core, pinned, and recent datasets in one compact list (no subsection headers)
@@ -286,6 +300,7 @@ Background images are stored locally for faster loading and offline use, with se
 ### About & Help
 - **Help** — In-app quick reference for key app workflows
 - **About** — App name and current version
+- **Replay App Tour** — Relaunches the interactive tour on demand
 
 ### Export Behavior for Personal Items
 - Exports for built-in catalog items include Quote It branding.
@@ -341,8 +356,26 @@ Quote It supports VoiceOver and other assistive technologies:
 
 ## watchOS Companion
 
-Watch support is enabled in the 5.1.0 release build.
-It is available in 5.1.0 after release packaging hardening and signing updates.
+After installing Quote It on iPhone, open Apple's **Watch** app and install **Quote It** from the available apps list.
+
+### Watch Features
+- **Quote glance app**: one-quote reading optimized for quick sessions.
+- **Next quote action**: tap **Next** (or tap the quote) to move forward with haptic feedback.
+- **Favorite on watch**: tap heart to save/remove favorites from watch.
+- **Mood picker**: filter quotes by `Motivated`, `Calm`, `Focus`, `Confidence`, `Gratitude`, or `All`.
+- **Context picker**: switch tone by `General`, `Focus`, `Workout`, or `Sleep`.
+- **For Me on watch**: recommendation rows adapt to your watch favorites and reading behavior.
+- **Favorites list**: quick watch access to saved items.
+- **Daily motivation reminder**: watch-side daily reminder scheduling.
+- **Workout cadence reminder**: optional repeating motivational prompts (minutes-based).
+- **Complication support**: Quote It complication uses short quote snippets; tap complication to open app.
+- **Siri shortcut / App Intent**: "Get Quote" intent with optional mood.
+- **Streak tracking**: watch app tracks consecutive inspiration days.
+
+### Watch + iPhone Sync
+- Favorites are synced through the watch/iPhone bridge.
+- Watch favorite changes are sent to iPhone.
+- iPhone favorites are mirrored back to watch for consistency.
 
 ---
 
@@ -365,10 +398,5 @@ To add the widget: long-press your home screen, tap the **+** button, search for
 - **Dictate faster** — In Create/Edit Quote, use Dictate Quote to transcribe your voice
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
 - **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
-
----
-
-## Developer Reference
-
-For dataset schema details (manifest, primary data, and supplemental data), see:
-- `Documentation/4.6.0/DATASET_SCHEMA.md` (current schema reference used by 5.1.0)
+- **Use Watch filters** — On Apple Watch, combine Mood + Context to get more relevant quick quotes
+- **Pin Quote It complication** — Best daily habit loop is quote-on-face + one-tap open
