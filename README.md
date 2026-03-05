@@ -10,7 +10,15 @@ This guide covers end-user features only.
 
 - Multi-dataset reading with quick dataset switching from the Quote screen
 - Explore search scope control: current dataset or all visible datasets
+- Semantic-assisted Explore ranking for better meaning-based relevance
 - New **For Me** tab for personalized recommendation flow
+- For Me hybrid ranking (favorites, recency, dataset/category weighting, and semantic affinity)
+- Streak system with weekly goals and milestone celebration
+- Reading Programs with enroll/progress surfaces and in-flow progress chip
+- Reflection prompts with automatic fallback (`dynamic -> hybrid -> static`)
+- Daily Mood Check-In and Wisdom Timeline history view
+- Collections create/share/import flow with deep-link import support
+- About Author panel from long-press with lightweight context and web links
 - Organized Choose Dataset with Quick Access + collapsible category/subcategory library
 - Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
@@ -29,6 +37,14 @@ This guide covers end-user features only.
   - Favorites sync bridge between watch and iPhone
   - Complication data source with daily (and optional intraday) quote rotation
   - Watch streak tracking
+- Home/Lock Screen widgets now support:
+  - Quote of the Day
+  - For Me Spotlight
+  - Dataset Spotlight
+  - Widget refresh action in supported families
+- iMessage extension share flow with deterministic source/item routing
+- Safari New Tab extension with "Open in QuoteIt" deep-link handoff
+- CarPlay quote playback with `For Me`, `Discover`, `Favorites`, and `Themes` tabs plus `Now Quote` text view
 
 ---
 
@@ -38,8 +54,8 @@ When you first open Quote It, you'll see a random quote displayed over a backgro
 
 1. **Quote** — The main screen with daily inspiration
 2. **Explore** — Search and browse quotes/items across dataset scopes
-3. **Favorites** — Your saved collection
-4. **For Me** — Personalized feed surface (favorites and reading-behavior recommendations)
+3. **For Me** — Personalized feed surface (favorites and reading-behavior recommendations)
+4. **Favorites** — Your saved collection
 5. **Settings** — Preferences and help
 
 On first install (and once after major upgrades), Quote It can show a guided feature wizard and interactive tour.
@@ -135,6 +151,7 @@ Search behavior:
 - **All datasets** search runs when you tap keyboard **Search** (for better performance on large libraries).
 - In **All Datasets** results, each row shows the dataset name badge.
 - In current-dataset search, dataset badges are hidden (source is already obvious).
+- Results are blended using exact-match + semantic ranking to improve relevance for natural-language queries.
 
 ### Viewing Quotes
 Tap any quote in a list to view it full-screen with a background image. From there you can:
@@ -162,6 +179,20 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
   - **All Datasets** (favorites across every dataset)
   - **Current Dataset** (favorites only for the active dataset)
 
+### Favorites Sub-tabs
+Favorites includes dedicated sub-tabs for:
+- **Favorites**: your saved quote/item list
+- **Journal**: your reflection entries
+- **Collections**: your curated quote collections
+
+### Collections
+Collections let you group quotes and share/import them with deep links.
+
+- Create a collection with name + emoji
+- Add/remove/reorder items in each collection
+- Share collection links
+- Open shared collection links in Quote It and import directly
+
 ---
 
 ## For Me
@@ -169,13 +200,65 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 `For Me` is the personalization surface for quote discovery.
 
 - Uses your interactions (favorites, reading behavior, and search/open signals) to improve suggestions over time
+- Adds semantic affinity so recommendations can match intent even when wording differs
 - Uses the `sparkles` tab entry (`#F7C04A`) for clear discovery
 - Shows a recommendation feed with reason chips (no separate search mode in this tab)
 - Includes runtime controls:
   - **More Like This** — boosts similar items
   - **Less Like This** — suppresses similar results from the feed
+  - **Refresh** — regenerates recommendations from current signals
   - **Reset** — clears For Me tuning signals
 - Opens any selected item directly in the main Quote screen for normal reading flow
+
+---
+
+## Reflection, Mood, and Journal
+
+Quote It includes guided reflection features designed for daily consistency.
+
+### Reflection Prompts
+- After staying on a quote for a short time, a reflection prompt can appear.
+- Prompt generation uses automatic fallback:
+  - dynamic (meaning-aware) prompt when available
+  - hybrid prompt from tagged prompt library
+  - static safe prompt fallback
+- Prompts are deterministic enough to avoid noisy random behavior for the same quote/session context.
+
+### Mood Check-In
+- Mood check-in is available once per day.
+- Current mood options: `Grateful`, `Energized`, `Focused`, `Calm`, `Reflective`, `Struggling`.
+- Complete it from the prompt flow/surfaces when shown.
+- Same-day repeat attempts are skipped automatically.
+
+### Journal
+- Save reflections as journal entries linked to quote context.
+- Access entries from **Favorites > Journal**.
+- Use Wisdom Timeline to review mood + reflection history over time.
+
+---
+
+## Reading Programs
+
+Reading Programs help you follow a structured daily sequence of quotes/items.
+
+Access:
+- **Settings > Engagement > Browse Reading Programs**
+
+What you can do:
+- Enroll in bundled programs (for example, Stoicism and Gratitude tracks)
+- Create generated programs from **Program Wizard** (`+` button in Reading Programs)
+- Set one program as your **Active Program**
+- Open **Today's Quote** directly from program detail
+- Regenerate generated program days (`Regenerate Day`, `Regenerate All`) and lock/unlock specific days
+
+Progress behavior:
+- Program progress is day-based and persists across relaunches
+- Active program progress appears on the main quote screen as a progress chip
+
+Sharing/import:
+- Generated programs can be exported/imported as `.quoteitprogram`
+- Import validates file integrity and schema before adding to your programs
+- If an exact source/item is unavailable on import, Quote It applies a safe fallback path
 
 ---
 
@@ -287,6 +370,7 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 - **Style** — Export presentation style
 - **Include Photo Attribution** — Adds photo credit in exported card when enabled
 - **Accessibility Export Mode** — Improves readability in exported images
+- **Include QR Code in Exports** — Adds a scannable deep-link QR in the card (bottom-right)
 
 ### Storage
 Background images are stored locally for faster loading and offline use, with separate groups to avoid accidental deletion.
@@ -302,9 +386,10 @@ Background images are stored locally for faster loading and offline use, with se
 - **About** — App name and current version
 - **Replay App Tour** — Relaunches the interactive tour on demand
 
-### Export Behavior for Personal Items
-- Exports for built-in catalog items include Quote It branding.
-- Exports for your own created items do not include Quote It branding.
+### Export Behavior
+- Export cards now prefer QR identity over legacy branding marks.
+- QR code is rendered in the bottom-right and encodes an app deep link.
+- With custom backgrounds, QR is still included when enabled in Export settings.
 
 ---
 
@@ -341,6 +426,61 @@ Quote It works on both iPhone and iPad, in portrait and landscape orientations. 
 For supported study datasets on iPad, Quote It presents supplemental context as:
 - Side panel in landscape
 - Top/bottom split in portrait
+
+## Mac (Apple Silicon)
+
+Quote It can run on Apple silicon Mac using the iOS app runtime.
+
+- Core reading, Explore, Favorites, For Me, and Settings flows remain the same.
+- Apple Watch bridge features are iPhone/watch specific and are skipped on Mac runtime.
+
+---
+
+## Safari Extension (New Tab)
+
+If Safari extension is enabled, new tabs can show a Quote It quote card with an **Open in QuoteIt** action.
+
+Setup:
+- iPhone: **Settings > Safari > Extensions > QuoteIt**
+- Enable:
+  - **Allow Extension**
+  - **Allow in Private Browsing** (optional)
+- In Safari extension settings, select **Open New Tabs** behavior as preferred.
+
+Behavior:
+- Quote content is sourced from app-shared runtime payloads.
+- **Open in QuoteIt** routes to the matching source/item when available.
+- If exact routing metadata is unavailable, Quote It opens safely with fallback navigation.
+
+---
+
+## iMessage Extension
+
+Use Quote It inside iMessage to send quote cards/messages with deep links.
+
+Behavior:
+- Shared payload includes deterministic source/item routing metadata when available.
+- Recipient can tap link to open Quote It directly.
+- If exact item is unavailable, Quote It falls back safely.
+- Link payload is optimized for deterministic IDs first (`sourceId` + `quoteId`) to avoid oversized URLs.
+
+---
+
+## CarPlay
+
+Quote It supports in-car quote playback and text display surfaces.
+
+Tabs:
+- **For Me**
+- **Discover**
+- **Favorites**
+- **Themes**
+
+Playback behavior:
+- Play actions route to **Now Quote** for readable quote text/author/source.
+- **Now Playing** controls remain available.
+- Back from **Now Quote** stops active playback.
+- Rendered-audio path is default for stable physical head-unit playback.
 
 ---
 
@@ -381,11 +521,23 @@ After installing Quote It on iPhone, open Apple's **Watch** app and install **Qu
 
 ## Home Screen Widget
 
-Add a **Quote of the Day** widget to your home screen. The widget displays a new inspirational quote each day.
+Add a **Quote It** widget to your home screen for quick discovery.
 
-Available in three sizes: **small**, **medium**, and **large**.
+Widget modes:
+- **Quote of the Day**: one deterministic daily quote.
+- **For Me Spotlight**: personalized spotlight entry point into For Me.
+- **Dataset Spotlight**: one highlighted quote from a selected dataset.
+- **Refresh** (where shown): rotate to the next quote candidate in the current widget mode.
 
-To add the widget: long-press your home screen, tap the **+** button, search for "Quote It", and choose your preferred size.
+Supported families:
+- Home Screen: **small**, **medium**, **large**
+- Lock Screen: **inline**, **circular**, **rectangular** (where supported by iOS/watch face context)
+
+Tap behavior:
+- If the exact target exists, the app opens directly to that item or destination.
+- If the target is no longer available, Quote It opens safely with a fallback message.
+
+To add the widget: long-press your home screen, tap the **+** button, search for "Quote It", choose size, then long-press the widget and tap **Edit Widget** to choose mode/dataset.
 
 ---
 
@@ -393,10 +545,14 @@ To add the widget: long-press your home screen, tap the **+** button, search for
 
 - **Discover new quotes** — Keep tapping the forward arrow on the Quote screen to browse randomly
 - **Build a collection** — Favorite quotes you love and revisit them anytime
+- **Use Programs daily** — Enroll in a program and track progress from the Quote screen chip
+- **Reflect consistently** — Follow prompt cards and save short journal entries
 - **Share beautifully** — Use "Share Image" to create styled cards perfect for social media
 - **Listen while you work** — Use the speaker icon to hear quotes read aloud
 - **Dictate faster** — In Create/Edit Quote, use Dictate Quote to transcribe your voice
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
 - **Go image-free** — Disable both Unsplash and Pexels in Settings for a clean text-only experience
+- **Use Safari new-tab card** — Open a new tab and jump back into Quote It with one tap
+- **Use iMessage sharing** — Send quote links that can open directly in Quote It
 - **Use Watch filters** — On Apple Watch, combine Mood + Context to get more relevant quick quotes
 - **Pin Quote It complication** — Best daily habit loop is quote-on-face + one-tap open
