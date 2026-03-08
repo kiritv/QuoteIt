@@ -1,0 +1,12 @@
+{
+  "formatVersion": 1,
+  "algorithm": "ed25519",
+  "generatedAt": "2026-03-08T16:11:31Z",
+  "keyId": "54c7a4b1c1c0a0d4",
+  "files": {
+    "index-manifest.json": {
+      "sha256": "613915325d2605015ae4f490c043f7aa9634208ee413adabf5b3ef07f7f9f113",
+      "signatureFile": "index-manifest.json.sig"
+    }
+  }
+}
