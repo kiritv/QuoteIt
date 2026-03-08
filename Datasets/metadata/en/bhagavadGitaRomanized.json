@@ -1,0 +1,27 @@
+{
+  "sourceId": "bhagavadGitaRomanized",
+  "displayName": "Bhagavad Gita (Romanized Sanskrit)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Bhagavad Gita Romanized (18 Chapters)",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Hindu",
+  "audienceTags": [
+    "scripture",
+    "devotional"
+  ],
+  "itemCount": 700,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "chapterVerse",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/bhagavadGitaRomanized.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

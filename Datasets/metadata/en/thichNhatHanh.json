@@ -1,0 +1,31 @@
+{
+  "sourceId": "thichNhatHanh",
+  "displayName": "Thich Nhat Hanh",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Thich Nhat Hanh",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Zen Buddhism",
+  "audienceTags": [
+    "tradition:buddhism",
+    "tradition:zen",
+    "theme:mindfulness",
+    "theme:compassion",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 68,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/thichNhatHanh.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

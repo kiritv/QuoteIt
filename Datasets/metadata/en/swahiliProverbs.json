@@ -1,0 +1,28 @@
+{
+  "sourceId": "swahiliProverbs",
+  "displayName": "Swahili Proverbs",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Swahili Proverbs",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Methali za Kiswahili — Taylor & TUKI",
+  "primaryCategory": "Proverbs & Folk Wisdom",
+  "subcategory": "African",
+  "audienceTags": [
+    "tradition:animism",
+    "theme:wisdom",
+    "theme:community"
+  ],
+  "itemCount": 201,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/swahiliProverbs.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

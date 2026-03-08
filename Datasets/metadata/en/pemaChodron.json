@@ -1,0 +1,30 @@
+{
+  "sourceId": "pemaChodron",
+  "displayName": "Pema Chödrön",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Pema Chodron",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Tibetan Buddhism",
+  "audienceTags": [
+    "tradition:buddhism",
+    "theme:mindfulness",
+    "theme:self-compassion",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 28,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/pemaChodron.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

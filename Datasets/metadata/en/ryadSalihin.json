@@ -1,0 +1,27 @@
+{
+  "sourceId": "ryadSalihin",
+  "displayName": "Riyad as-Salihin",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Imam An-Nawawi, Gardens of the Righteous",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Islamic",
+  "audienceTags": [
+    "hadith",
+    "devotional"
+  ],
+  "itemCount": 50,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/ryadSalihin.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "mencius",
+  "displayName": "Mencius",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "James Legge Translation, 1861",
+  "primaryCategory": "Philosophy & Thought",
+  "subcategory": "Confucian",
+  "audienceTags": [
+    "philosophy",
+    "ethics"
+  ],
+  "itemCount": 31,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/mencius.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "kabirSongs",
+  "displayName": "Songs of Kabir",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Songs of Kabir",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Tagore Translation, 1915",
+  "primaryCategory": "Poetry & Devotion",
+  "subcategory": "Sufi & Hindu",
+  "audienceTags": [
+    "tradition:hindu",
+    "tradition:sufi",
+    "theme:mysticism",
+    "theme:god",
+    "audience:spiritual"
+  ],
+  "itemCount": 117,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/kabirSongs.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

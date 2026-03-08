@@ -1,0 +1,29 @@
+{
+  "sourceId": "sobrietyRecovery",
+  "displayName": "Recovery & Sobriety",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Recovery & Sobriety",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Curated Wisdom",
+  "primaryCategory": "Mind & Well-being",
+  "subcategory": "Recovery",
+  "audienceTags": [
+    "theme:recovery",
+    "theme:resilience",
+    "audience:recovery",
+    "audience:morning"
+  ],
+  "itemCount": 250,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/sobrietyRecovery.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

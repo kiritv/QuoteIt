@@ -1,0 +1,30 @@
+{
+  "sourceId": "paliSuttas",
+  "displayName": "Pali Canon Suttas",
+  "version": "2.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Pali Canon Suttas",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Warren, Woodward Public Domain Translations",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Theravada Buddhism",
+  "audienceTags": [
+    "tradition:buddhism",
+    "theme:liberation",
+    "theme:impermanence",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 1100,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/paliSuttas.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

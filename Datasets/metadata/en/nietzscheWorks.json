@@ -1,0 +1,27 @@
+{
+  "sourceId": "nietzscheWorks",
+  "displayName": "Nietzsche — Selected Works",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Common & Zimmern Translations, 1896-1910",
+  "primaryCategory": "Philosophy & Thought",
+  "subcategory": "Modern Philosophy",
+  "audienceTags": [
+    "philosophy",
+    "critical-thinking"
+  ],
+  "itemCount": 3905,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/nietzscheWorks.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

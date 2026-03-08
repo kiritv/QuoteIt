@@ -1,0 +1,29 @@
+{
+  "sourceId": "affirmationsCore",
+  "displayName": "Daily Affirmations",
+  "version": "2.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Daily Affirmations",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "QuoteIt Curated",
+  "primaryCategory": "Mind & Well-being",
+  "subcategory": "Affirmations",
+  "audienceTags": [
+    "theme:mental-health",
+    "theme:self-worth",
+    "audience:morning",
+    "audience:meditation"
+  ],
+  "itemCount": 804,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/affirmationsCore.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

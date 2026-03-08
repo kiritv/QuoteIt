@@ -1,0 +1,29 @@
+{
+  "sourceId": "mindfulnessWisdom",
+  "displayName": "Mindfulness & Presence",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Mindfulness & Presence",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Wikiquote Verified & Public Domain",
+  "primaryCategory": "Mind & Well-being",
+  "subcategory": "Mindfulness",
+  "audienceTags": [
+    "theme:mindfulness",
+    "theme:presence",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 600,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/mindfulnessWisdom.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

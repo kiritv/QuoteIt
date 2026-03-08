@@ -1,0 +1,27 @@
+{
+  "sourceId": "bibleKjv",
+  "displayName": "Bible (KJV)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "King James Version",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Christian",
+  "audienceTags": [
+    "scripture",
+    "devotional"
+  ],
+  "itemCount": 31100,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "chapterVerse",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/bibleKjv.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

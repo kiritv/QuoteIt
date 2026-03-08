@@ -1,0 +1,31 @@
+{
+  "sourceId": "faiz-ur",
+  "displayName": "فیض احمد فیض",
+  "version": "1.0",
+  "languageCode": "ur",
+  "displayNameEnglish": "Faiz Ahmed Faiz — Selected Poems",
+  "script": "Nastaliq",
+  "isRTL": true,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Urdu",
+  "edition": "Public Domain & Curated / Hindi Wikiquote",
+  "primaryCategory": "Philosophy & Spirituality",
+  "subcategory": "Urdu Poetry",
+  "audienceTags": [
+    "language:ur",
+    "script:nastaliq",
+    "tradition:urdu",
+    "theme:hope",
+    "theme:justice",
+    "theme:love"
+  ],
+  "itemCount": 30,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ur/faiz-ur.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

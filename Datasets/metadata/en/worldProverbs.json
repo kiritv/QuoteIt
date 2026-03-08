@@ -1,0 +1,27 @@
+{
+  "sourceId": "worldProverbs",
+  "displayName": "Proverbs",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Public Domain Collection",
+  "primaryCategory": "Proverbs & Folk Wisdom",
+  "subcategory": "Global",
+  "audienceTags": [
+    "wisdom",
+    "short-form"
+  ],
+  "itemCount": 1880,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/worldProverbs.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

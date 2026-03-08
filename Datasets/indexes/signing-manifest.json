@@ -1,11 +1,23 @@
 {
   "formatVersion": 1,
   "algorithm": "ed25519",
-  "generatedAt": "2026-03-08T16:11:31Z",
+  "generatedAt": "2026-03-08T17:26:56Z",
   "keyId": "54c7a4b1c1c0a0d4",
   "files": {
+    "datasets-en.json": {
+      "sha256": "c05a53506073bbc11cce1a731929637b49f022cc3aeac6d2b873a15c33effdfa",
+      "signatureFile": "datasets-en.json.sig"
+    },
+    "datasets-hi.json": {
+      "sha256": "9ff86cb0efb5d82825b44ee1d76899add240aec7c9fa881fa10359eef8b5f5d7",
+      "signatureFile": "datasets-hi.json.sig"
+    },
+    "datasets-ur.json": {
+      "sha256": "44172edb1d71acddf1fa91651fae45708be1337d024953bb2b39fe827166c3dc",
+      "signatureFile": "datasets-ur.json.sig"
+    },
     "index-manifest.json": {
-      "sha256": "613915325d2605015ae4f490c043f7aa9634208ee413adabf5b3ef07f7f9f113",
+      "sha256": "a2be0ae1596cfb62b73981a5b1729381d085953f975b33bf19f0deb437adf163",
       "signatureFile": "index-manifest.json.sig"
     }
   }

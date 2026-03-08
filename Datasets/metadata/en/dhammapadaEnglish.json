@@ -1,0 +1,27 @@
+{
+  "sourceId": "dhammapadaEnglish",
+  "displayName": "Dhammapada (English)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "F. Max Muller Translation",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Buddhist",
+  "audienceTags": [
+    "scripture",
+    "daily-reading"
+  ],
+  "itemCount": 423,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "chapterVerse",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/dhammapadaEnglish.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

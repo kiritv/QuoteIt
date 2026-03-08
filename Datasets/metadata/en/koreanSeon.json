@@ -1,0 +1,30 @@
+{
+  "sourceId": "koreanSeon",
+  "displayName": "Korean Seon",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Korean Seon",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Curated & Public Domain",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Korean Buddhism",
+  "audienceTags": [
+    "tradition:buddhism",
+    "tradition:zen",
+    "theme:mindfulness",
+    "theme:awakening",
+    "audience:meditation"
+  ],
+  "itemCount": 200,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/koreanSeon.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

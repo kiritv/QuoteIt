@@ -1,0 +1,29 @@
+{
+  "sourceId": "traumaResilience",
+  "displayName": "Resilience & Strength",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Resilience & Strength",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Wikiquote Verified",
+  "primaryCategory": "Mind & Well-being",
+  "subcategory": "Resilience",
+  "audienceTags": [
+    "theme:resilience",
+    "theme:strength",
+    "audience:morning",
+    "audience:grief-healing"
+  ],
+  "itemCount": 500,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/traumaResilience.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

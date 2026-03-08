@@ -1,0 +1,30 @@
+{
+  "sourceId": "bhagavadGita",
+  "displayName": "Bhagavad Gita",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Bhagavad Gita",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Edwin Arnold Translation (Song Celestial), 1885",
+  "primaryCategory": "Sacred Texts",
+  "subcategory": "Hindu Scripture",
+  "audienceTags": [
+    "tradition:hindu",
+    "theme:dharma",
+    "theme:philosophy",
+    "theme:wisdom",
+    "audience:spiritual"
+  ],
+  "itemCount": 245,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/bhagavadGita.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

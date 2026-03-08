@@ -1,0 +1,29 @@
+{
+  "sourceId": "chanakyaNiti",
+  "displayName": "Chanakya Niti",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Chanakya Niti",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Wikiquote & Public Domain",
+  "primaryCategory": "Philosophy & Wisdom",
+  "subcategory": "Ancient Indian",
+  "audienceTags": [
+    "tradition:hindu",
+    "theme:wisdom",
+    "theme:leadership",
+    "audience:inspiration"
+  ],
+  "itemCount": 118,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/chanakyaNiti.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

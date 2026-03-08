@@ -1,0 +1,29 @@
+{
+  "sourceId": "rumiMasnavi",
+  "displayName": "Rumi — Masnavi & Divan",
+  "version": "2.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Rumi — Masnavi & Divan",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Whinfield, Nicholson Translations",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Sufism",
+  "audienceTags": [
+    "tradition:sufism",
+    "theme:love",
+    "theme:wisdom",
+    "audience:meditation"
+  ],
+  "itemCount": 1469,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/rumiMasnavi.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

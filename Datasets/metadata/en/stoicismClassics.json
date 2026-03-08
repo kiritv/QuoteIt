@@ -1,0 +1,30 @@
+{
+  "sourceId": "stoicismClassics",
+  "displayName": "Stoicism Classics",
+  "version": "2.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Stoicism Classics",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Marcus Aurelius, Seneca, Epictetus, Zeno of Citium",
+  "primaryCategory": "Philosophy & Thought",
+  "subcategory": "Stoicism",
+  "audienceTags": [
+    "tradition:stoicism",
+    "theme:wisdom",
+    "theme:resilience",
+    "audience:morning",
+    "audience:productivity"
+  ],
+  "itemCount": 2645,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/stoicismClassics.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}

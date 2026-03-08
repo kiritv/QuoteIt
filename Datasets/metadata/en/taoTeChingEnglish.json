@@ -1,0 +1,27 @@
+{
+  "sourceId": "taoTeChingEnglish",
+  "displayName": "Tao Te Ching (English)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "James Legge Translation",
+  "primaryCategory": "Faith & Devotion",
+  "subcategory": "Taoist",
+  "audienceTags": [
+    "scripture",
+    "wisdom"
+  ],
+  "itemCount": 81,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/taoTeChingEnglish.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-08T17:17:35Z"
+}
