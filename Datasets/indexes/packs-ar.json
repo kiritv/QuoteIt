@@ -2,7 +2,7 @@
   "kind": "packs",
   "language": "ar",
   "count": 1,
-  "generatedAt": "2026-03-08T18:37:53Z",
+  "generatedAt": "2026-03-09T02:01:14Z",
   "items": [
     {
       "packId": "sufi-poetry-heart",
@@ -14,7 +14,7 @@
       "isFeatured": true,
       "priority": 7,
       "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
-      "packSha256": "4a4bf18ddd7ac4320a76a676a4452b28750837f81b8b96fd671fe58022b35d0f"
+      "packSha256": "6e2e13e9e56fe4d4ec057b13b804c0eb2afaec2fcfff3bf7b0a9f504fe1601ff"
     }
   ]
 }

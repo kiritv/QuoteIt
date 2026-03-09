@@ -1,5 +1,5 @@
 {
-  "ciphertext": "c0in7Kny4txdc51g//BmQI7CiSj5vQH9eugQ2U8e6XohuH5apjriyryuZNoV9jjbv5axepRapYb6Zxt36veTk2fQYZmN5uf9wTZvFbbqJoX61lyDaK1OphcY9qjaKP1oUOFrUpw21MeZn1PS0N47t9GuijFvNX43IF82v3laMZQ85712CIGloa40WXqy9tanMHwgRIka863AVZtMQ1GNbOGbI4Eoga2zSg4fUefVmhAe0QVvUlxgTnLQqGKnyFor008OEsdexSjRBpOBc5h4IppEY8VccGdDprMuYzP2mzkuu7dqik4855rW9u0TWU5wdvKGWNh4U21k9yhqxZoJ3leweBy43zyQ1KF8bFfCNKLKNOyws9NIElcrs+9ioFoeR0N8XhfaiJ1wHCsH6td5Ocb49EaYlCofOQdrImgeXJGPx9t6GVeMx6lYp4a9tEaDGgELbwEWK3kXq0vc7GnoqVmGVCeB",
+  "ciphertext": "cjqqwa911xcP1U4LtjFLDC7DQ2kN4paotAtWkH7C/YYMXQKyAqqgK5TNCRwnjY9Eqd6ph0kS1cIKM3q+WkMK600DNlfwsXm/8Kh94Kh4CcKlorg5On3qZ0Ue52zSEp7wXq+k9+jN+0+Z8hzwewoTUUFne0zvAkK7qSY08sf9TLnn92wrKfipADIC+emR9fMass5woGqLvjeMtATCD3w0jxi6wfZcIIsFlHB1gJu6bVKFPGRdCBxf8rornG4kM9eqrqt8T7RIpvaF5ugYsP0jnGwZwVMVLM3035AoG6BdYK2baDdy9jKk+5GfNrPvtqyqH/RSQjAV2tPb61TgMcdbiEjs5krEcWF9f7ei9aj60Y2wlDHNiqb16ZjE/yZhX159+R/y5O2zulmT5o0m+zNhFlYODboXbbZx+smDP/wPExag88w9ZLIU5lcNXJvQJXCIeaA6plvn8/CH8BdxYbtEYqtATHz5",
   "encryption": "AES.GCM",
   "format": "quoteit-pack",
   "formatVersion": 1,
@@ -8,6 +8,6 @@
     "displayName": "African Wisdom",
     "packId": "african-wisdom"
   },
-  "nonce": "o/Ng0irTiXOroSP8",
-  "tag": "/vkoAaf+e/NFBxrwclw9zQ=="
+  "nonce": "tnoSAX3uL0E+W2S8",
+  "tag": "vM27cfNh6aWOMq5+B9w+Yw=="
 }

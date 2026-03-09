@@ -2,7 +2,7 @@
   "kind": "programs",
   "language": "en",
   "count": 12,
-  "generatedAt": "2026-03-08T18:37:53Z",
+  "generatedAt": "2026-03-09T02:01:14Z",
   "items": [
     {
       "programId": "14-days-healing",
@@ -18,7 +18,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/14-days-healing.quoteitprogram",
-      "programSha256": "7a2fcde29e7554da47c372ba3e4d11f5a12c7e3c4a9cb611185739240ac6f2ab"
+      "programSha256": "0d08f1179677002e6c8200926edf3c00c82b1ec6162c6e6a80a2c7424e83014d"
     },
     {
       "programId": "21-days-latin-america",
@@ -32,7 +32,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/21-days-latin-america.quoteitprogram",
-      "programSha256": "3e1f7aa9faf22f26a04c38b4f323843429a735355a780e1dbe41583f8272c68d"
+      "programSha256": "44abfcee2b397aaa473b86c6e289780efbb1cd2b01d2fe2ec0c74960c8550e60"
     },
     {
       "programId": "21-days-rumi",
@@ -47,7 +47,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/21-days-rumi.quoteitprogram",
-      "programSha256": "6978347114778ad3187ebcc3581a979169a344e91a57dc96108ebccc93ca44db"
+      "programSha256": "437b1a66fc1bb6d92c731083b58965089913ad15af8b79f20dddcc698ae1093e"
     },
     {
       "programId": "30-days-buddhism",
@@ -63,7 +63,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-buddhism.quoteitprogram",
-      "programSha256": "a9bf03422d33263b66d623c88cd5f49b66085698166be644c6c9219cdcd05249"
+      "programSha256": "f0cd0374061a272b53b716fa644c665b21f3bb4f9d37c1b3a86966082c0c707b"
     },
     {
       "programId": "30-days-stoicism",
@@ -77,7 +77,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-stoicism.quoteitprogram",
-      "programSha256": "d424322c9a730ced2d35bf6a595119dfee7e416a171ba6e709daf5594575955a"
+      "programSha256": "5425b4dbc229882d3f9c54f9e4e5eaaab035cb68eba27d4cc54c963b7c60694c"
     },
     {
       "programId": "30-days-vedic",
@@ -93,7 +93,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-vedic.quoteitprogram",
-      "programSha256": "0cabc61f7f5180c46ab6d75d79d45bb03895ad60064b6b015b959dd6f97ad6a0"
+      "programSha256": "a8ac5957d0fdde08b1f946426ca659bba44c468f1d8392abea7dda5497cdfd57"
     },
     {
       "programId": "30-days-morning-affirmations",
@@ -108,7 +108,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-morning-affirmations.quoteitprogram",
-      "programSha256": "d566a3d0e127b7d60f812e931016f4c5dc9498aa17b81f4ddeed5674acf02ae0"
+      "programSha256": "fae402ed7e26e8e9361fc980c74dba7b4dc37f70fb477f465ca3f82e323b1b00"
     },
     {
       "programId": "7-days-africa",
@@ -128,7 +128,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/7-days-africa.quoteitprogram",
-      "programSha256": "77a3961a1354933bcef920a466bc3513d08925b674c3180a0accc1a213355a3f"
+      "programSha256": "1c3e2c88bb4989dd4d4ee32c0a1c73fc6d4fb182d2a3dcb217643d47e8c727a1"
     },
     {
       "programId": "eastern-wisdom",
@@ -144,7 +144,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/eastern-wisdom.quoteitprogram",
-      "programSha256": "6cb3fdcc4765484664d255573e5e8217fde0418e024bca478c6dd15697be3727"
+      "programSha256": "86764bad01818daf631f782d30571aede6b1faba36f52af7e9bd478766f389da"
     },
     {
       "programId": "morning-gratitude",
@@ -158,7 +158,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/morning-gratitude.quoteitprogram",
-      "programSha256": "5ab32f781c826d21e9c3f4eb922c38072ce1bf38134b94c10a2733134fec9646"
+      "programSha256": "abaf0eb40f2e16d2ba8588b30a6a854fdd978d81a8353d83293a9aef042573c1"
     },
     {
       "programId": "power-of-words",
@@ -172,7 +172,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/power-of-words.quoteitprogram",
-      "programSha256": "6d32d33203c4c80ccffee64f7a768c2dbac5670bdca9733cfbb99a50b33e03f8"
+      "programSha256": "ed47162ccc28a97838d6d8a5f6dd10c5ed25867c4303f28b67852887cda7b7c9"
     },
     {
       "programId": "thirukkural-journey",
@@ -186,7 +186,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/thirukkural-journey.quoteitprogram",
-      "programSha256": "c20180bc6e8a840a8a4d97c30524a56f5c8a6892e85b9726505a7bdd889cdba3"
+      "programSha256": "9de23bae0214b405764b94ebd3f1031bc332083d080e30150e85d141c34f7850"
     }
   ]
 }

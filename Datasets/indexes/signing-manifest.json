@@ -1,55 +1,55 @@
 {
   "formatVersion": 1,
   "algorithm": "ed25519",
-  "generatedAt": "2026-03-09T00:52:48Z",
+  "generatedAt": "2026-03-09T02:01:14Z",
   "keyId": "54c7a4b1c1c0a0d4",
   "files": {
     "datasets-en.json": {
-      "sha256": "0c149a461ea0c2f307521edbec3ce7781e1eadd94c3db128406ab9d14b84b7f2",
+      "sha256": "4c61899a90ab74a20f473169222733772dd26159f892e641a4cb3d40dadb9eba",
       "signatureFile": "datasets-en.json.sig"
     },
     "datasets-hi.json": {
-      "sha256": "b14394d67367324366a6a8c118eb347320d2bd72877271909b1d8fa6b0982291",
+      "sha256": "7ea2834763ddd976a17ab3688b53e091dec34c9c6114a47aaa31a64a5c7f56a2",
       "signatureFile": "datasets-hi.json.sig"
     },
     "datasets-ur.json": {
-      "sha256": "2493a0973fad0c50b55c48b819e694ffc41a1df384624052466e28a741a5a152",
+      "sha256": "ff11b869007bd2a6fe204540ab6a7d06599e468eced379088f4379e209033804",
       "signatureFile": "datasets-ur.json.sig"
     },
     "index-manifest.json": {
-      "sha256": "47c17a9a3caa8657a08fc8a01657b6637c32695a8ba066cf7c0202d41d9301bb",
+      "sha256": "836c1cc5a7646366ff0ec923fc9af71253e70ace265960971d9ecb6bf3c16136",
       "signatureFile": "index-manifest.json.sig"
     },
     "packs-ar.json": {
-      "sha256": "787d5d45f7be9127c922425456e44ef06b7d6a5e52c3347bc071c513090fe556",
+      "sha256": "44ec70c8eace36df9b88df3663c0aae50de31891c52e5d18e608cec684e4e923",
       "signatureFile": "packs-ar.json.sig"
     },
     "packs-en.json": {
-      "sha256": "c7f55b5df723aa2215517cb03e47a291e79412bd363b8379a7d5ee35992f59c4",
+      "sha256": "857d69383e77ce664891e8e33bba86254b42989edd699b93e51cb6ae347820e0",
       "signatureFile": "packs-en.json.sig"
     },
     "packs-es.json": {
-      "sha256": "c46c52631b9f7bc268afe34c20170aa597d42f9d9451e8b18a01cbdc6bdbbc6c",
+      "sha256": "cc7adae9dbb6b8fc7579d5bede9f8e97bf9536f26e3fd9802a7473fa7fd5b428",
       "signatureFile": "packs-es.json.sig"
     },
     "packs-fa.json": {
-      "sha256": "46f95ae1f4d088da570acd87cf97708a2fac9a358981f8cad3f388d74d85d513",
+      "sha256": "c866596e3a393c4557b207b90415885c2c74a63394016a64d7f7a1afb015007b",
       "signatureFile": "packs-fa.json.sig"
     },
     "packs-hi.json": {
-      "sha256": "9cad5c24503d0b0c2bae5d4a844c40bad61b92e4b7d91f6d75ef7b35885e75c1",
+      "sha256": "9dfc57a95cd8dcff8c2375eb3572b4f20327042f2ac00b48990437198eb7f8ac",
       "signatureFile": "packs-hi.json.sig"
     },
     "packs-pt.json": {
-      "sha256": "60e915a0f404763c311f0092ea5f6983294a0890ae813f53d2c0bb576f7cbb96",
+      "sha256": "e74dd6451b50778075db8567f14eabb309545d235632ca113ee56d9282b43bc3",
       "signatureFile": "packs-pt.json.sig"
     },
     "packs-ur.json": {
-      "sha256": "3d5ecf0c7a786ad5269bf4c97aaea1f8b0ddd3271ffd41c716866dd224af32d8",
+      "sha256": "7ef92803dc5df95eef521aa291d09d34aea5b81add1790bd4cc29ec0cc3b2fb8",
       "signatureFile": "packs-ur.json.sig"
     },
     "programs-en.json": {
-      "sha256": "326e6b5195f42fae6ba96e910f6ce51bbb6a84d42f6644d2bc39fabf4dcb90bd",
+      "sha256": "876e8a11496b2a5d4e0c759b1caa6c4cfe3cfac4467c086a895435807dbc6e8c",
       "signatureFile": "programs-en.json.sig"
     }
   }

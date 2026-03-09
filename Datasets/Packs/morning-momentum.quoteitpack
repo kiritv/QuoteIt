@@ -1,5 +1,5 @@
 {
-  "ciphertext": "4Yzb7PDIMCo8VmJVakrc1PCTMi1s8vtwKJwm7/lGvJmufzlnytTz952KCrIM1nKxW0fEnS9CoZH1oEumWciPVZYz2gtqJh3jjsRVLRBq3EF3v5oHAiiaSae1ElfFt1MDo/gxewStFoHkPEC+AywhqFM7ADqZZB7JQ1E6cRM8HEC5yHWEJKpdo51YMDP3j0N6eritJ58tPTUOwZ/ZohFpbewXafdsDzyBqDmKqZA3qZUD8Aw2g7QDOiqX4+n/XWyLR7Z4VFwvmdcGDmBc+fTn4GD8LdTbWxgakrgyc3uCqIPBRdHYusaGnh+zBaMiuxz1L0Bzw9w97dh0CC37q1/OH9h8XEzaWSrQWW8kXUV/B1XGiXFYhNTSPjoHKlsxnZW/TNgcvhgleW2wEIWC7sD4wIoku2HeoVD/X/sdKqaNvod9Z2i3LsQKpQ==",
+  "ciphertext": "qYGpBHTGe92I3sNPTcg4vBMJnUaIH19lUxIR/HYgDRdGQipYkGVVAjiVfM5E2tVk9acswilDYkBCjJ6Fr8X5f9yXUJlw3XNvKgiPTectITPRe1mVGxOtV2x5FoFdOdKEjrGFb2k5ocmwzZNvMwi2uhE6zcs9WyFZRyt4k02xnoBXRx3goYBnjefsdNA0GQ3j9u20OS+U2u6FXzeUasNfeTtG/+79epbGjkqVmetlNUrsQVIpySps1XNV4i8UaKGUqUsY43bxD1aiaQ25c2eNsXGCtJDHdATc94pUXS/zJFuM+q4FPVa00Emamo47YtjoBT/jAV7ViIHKnNwWsP2B5/g0dTAKQAmVv/JLwW0QfyYCvkzfaa8ae3rQyIVqAgLeHKKArglsHX4C6cEbaYsl/5ACQLMRLHBUTg/XGXngtcyf0Gxeb8qa9w==",
   "encryption": "AES.GCM",
   "format": "quoteit-pack",
   "formatVersion": 1,
@@ -8,6 +8,6 @@
     "displayName": "Morning Momentum",
     "packId": "morning-momentum"
   },
-  "nonce": "4/JWejYEsAP2Ev3T",
-  "tag": "fvXiqW6luyIHsDppGG6aOg=="
+  "nonce": "xaWl1MrzDIlKRol8",
+  "tag": "p1WNvvCalgyQc3JVtjFiOg=="
 }
