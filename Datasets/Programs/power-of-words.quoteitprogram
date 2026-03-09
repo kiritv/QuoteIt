@@ -1,0 +1,13 @@
+{
+  "ciphertext": "rxgw7Dnpa93i7jHvoxq2aIzrBRd58Im6ouiOQp65ymq3hYetzQZqJR9CT279wbFarr2nmYLe2DjJFajFIr5WQJ52m/97n//G/Mq5gsIrbbejdO4M6MdWVg13ECr7e5achmEU0zCtWdUnubcQGmaxRInX2RHdiRSTm2w3YnWBtikbcTxKPq3hKAqXJN10wwNsIPONRyGMV99fM6n+/qNIkVvDkDJtSfwQ3j5Yg2L6PW27eI7nJ0x6yHzuiqul4I5KCc5BoI/mDtOvKwzN4wSGEK/jmY2UgYyDjI6RPyYn5S3bPBev7ryPsMsMJWBZEoIf2VlLFPQVvvth2sP3IOBR99n3AcUhlUyNXovoEJDlZhLXtZcD072TBXi+mAFfmj6a3eVGTJ6XxZHpOPx4bSTGgT2JIn6Hya/asTJ/XYSscuolVbuNEpHVGfeJ6uyIIfpMIpp7f34KVQjeHS722aAPBByLX9uSbl3sIyZFzRprL8DMH56XZTiDx8jZ1yuDnKK4qyxO0Q7dl/OpbU1+wRM8TkkZa+waIcsPguU4SajnCrP92szTEDD54NMzWfy5X7NdbcVdYxKeb64f6eqVJdnH80CtZpAdDPDlVRp7LQ8MPk8KN3UhjzXqTxb7nxo4JBg2D3oWxfzJgbRhhL6F02WQ4b0pXV0nae3kvBoLbr8bI9pHKU7Wt4sI2TbeTrqk8KWOKvA1u7edTaI5gLdPgralUJiY+S5Pu+tlpTiMF0SAkKVLy5YHCkI5mBql43aMr2cMHUbXpk58P4sKTwY4Dw2RUAKEnuA+d3lJ+hnD3kVE4zSOEXHITyF1+Rdd6e8gBETsi9CHl3sCGN0WUj56EnQsAbFYrTz6m/BwpMbJkvi3PaT03HneeS4EimUZKauQ6O/OdRuRIkLnOPEUzcI6npgZDEaMvd6923t3BbKGX02LH0daeyeWQQVzQ+PipR5/REPWKEsoL8tB9tfayjxPgYIMHE/H1CDbq6DLiJWaQvao593BAvuJEaTP276ynDrw/J1De+YivLeO7X1V1YhZ813f6fmYI6r+p+FOxQxLfYi9OB+H3zfHBPx5NBgpCvWqW9zmDQ11CweHv0Ub6bnERaO99yhBOGJteLRqq5Jti5O2WG+euL94zmfdGFNayY6YndoNstttubz1x4PqlZ+oMnKxTUubQJ6V5+xcoVNG4ynLJ7NXZmsBeSpL+gl1jjiiLZKDrrpNP4bJfeWhhQyWEbVr7LZYkLlqc6A=",
+  "encryption": "AES.GCM",
+  "format": "quoteit-program",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "programId": "power-of-words",
+    "title": "Power of Words"
+  },
+  "nonce": "HDAPGh/YctcM+qC4",
+  "tag": "rf6A5xRZsrqqw59SZI4EPw=="
+}

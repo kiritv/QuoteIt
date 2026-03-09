@@ -1,0 +1,13 @@
+{
+  "ciphertext": "4Yzb7PDIMCo8VmJVakrc1PCTMi1s8vtwKJwm7/lGvJmufzlnytTz952KCrIM1nKxW0fEnS9CoZH1oEumWciPVZYz2gtqJh3jjsRVLRBq3EF3v5oHAiiaSae1ElfFt1MDo/gxewStFoHkPEC+AywhqFM7ADqZZB7JQ1E6cRM8HEC5yHWEJKpdo51YMDP3j0N6eritJ58tPTUOwZ/ZohFpbewXafdsDzyBqDmKqZA3qZUD8Aw2g7QDOiqX4+n/XWyLR7Z4VFwvmdcGDmBc+fTn4GD8LdTbWxgakrgyc3uCqIPBRdHYusaGnh+zBaMiuxz1L0Bzw9w97dh0CC37q1/OH9h8XEzaWSrQWW8kXUV/B1XGiXFYhNTSPjoHKlsxnZW/TNgcvhgleW2wEIWC7sD4wIoku2HeoVD/X/sdKqaNvod9Z2i3LsQKpQ==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Morning Momentum",
+    "packId": "morning-momentum"
+  },
+  "nonce": "4/JWejYEsAP2Ev3T",
+  "tag": "fvXiqW6luyIHsDppGG6aOg=="
+}

@@ -1,0 +1,13 @@
+{
+  "ciphertext": "g2mI8b3h6nlV3rwAuDBrmA6TdW4BYRzu9toVUWjm2DLectVlhXGtOW7G1m9iuo6jrCTGSMe746o9X+CK7Og601XOfWCzyvC5XKgu+OdAM8rgBJtEZbnD7kM1dK5lG8akDvf4gSvaOmpMOfIJXCWOhOVSbS3CIj+x0z/CqUO1ckBwOSnmOSm8Xm+HbTvsQhClWGbZmeaNuOSFKfL9sMjZqd1qNrtiqovcDQCufH8RS2Lv7fJjHlwtL/BOj4VjvKwoA/clSg/838Ka4gMt14WXXhF+f89RxLsFEQ9DXfQQpMT16xU2zaLWd/mk04kEV2dfK9ebXfT3jLXCFy5c/AMaEGWCOeVE3NPeWIHqzjBhiVJa3Xa7/8tgY1ePKX0C7ALSTRAP9BS55HRWT/FlxT6SwxTBSi7ONzGNvUFv7pVmnTwDOriwU9FI02KQB6q+ziO6IpuC5GRpJDaB1jbwR/p9Q1IJImkb0rydcLJO1vePLHmW2wZcGQBwS5Uzkl8Hv1jB5ibnB/mb6Ogg2c3WkfhsNS85H/Ug/L4DZB3LpmZ0SbLslDtQ04PqoNrp02sjV7ocUhclEVzprb4W/8zzMU2N1/BQZyut3PEfNF4Fq4y23hAaI2ZsqUWoXiJ+rJWXqcEnkLKHvAOO6BEj9cW1awMU3AHja4yTB9hEm/uUa00rZnW5iMI7RJytfP3EcsDVuzEFq1vQlc+5ZYFsY0oNtqZI8QwEJlfMEzUlviEn3ndxadMAx27xeCi+MxfeOp+glzJpqiqckvkvds4mI6f1BhIYQ+bgTUG3MoeLcwZn2VQK3HS1azkswQ63X9uAsnjHedpGjocXNpfE3m0m6/EbMulZSwiZ5bvPtlRhd6Bc7R87LSynGKivy6WBORNAcdtkw2JIAUm/JYII9VPueIWZ+V1Kypz8VcXABu8MJMyk+MfIbK756pWJxT9kej+thlMEY1zki8scGkpZaPt+V9msUyMaZYI0tbzOyzWPhIZrqnJcuXuNzR0uWtq7WV5kFHSLthD3n5ylY7T/R44xJGEqJaq0DpBAxyAuZyS+Bl7FIE3oEJvxmj+1iKSNKJyhbhhJcPanM6WDSJQ0eiUrVd6PhkHWpAZzPBzOBiqZFKGjwQfuJ8B/Ajjjbp3fmHQfv4CxwLpat37/eoUU97HhV3JQ9JV4z0zE22mRIWTclI1CeBBCSuIH/vi9fYuYQ6l2EHkgLtvzoLuPKFX0hjKZKo33fywB9BGytDO1Euh9Kin0v5cJL+UeUiKs10XuXw1fe3vYNhNi2adPCn3vlBNwk8AYhLXe7eXcJdIrBTIT3AWWDKPv1uWyIkBcrwnHDpHWLpH39hNxuggreNOLGqIgR3NSzu+JpkGwr4F5K0YTudFBRpE9bggr5qvFNQ==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-program",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "programId": "7-days-africa",
+    "title": "7 Days of African Wisdom"
+  },
+  "nonce": "ZDyyPQTOjYagP5fF",
+  "tag": "TNucQ250BQRqiEZZ9LBAfg=="
+}

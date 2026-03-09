@@ -1,0 +1,20 @@
+{
+  "kind": "packs",
+  "language": "ur",
+  "count": 1,
+  "generatedAt": "2026-03-08T18:37:53Z",
+  "items": [
+    {
+      "packId": "sufi-poetry-heart",
+      "displayName": "Sufi Poetry Heart",
+      "languageCode": "ur",
+      "audience": "Poetry and devotional readers",
+      "objective": "Heart-centered reflection and inner depth",
+      "estimatedItemCount": 3568,
+      "isFeatured": true,
+      "priority": 7,
+      "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
+      "packSha256": "4a4bf18ddd7ac4320a76a676a4452b28750837f81b8b96fd671fe58022b35d0f"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ciphertext": "c0in7Kny4txdc51g//BmQI7CiSj5vQH9eugQ2U8e6XohuH5apjriyryuZNoV9jjbv5axepRapYb6Zxt36veTk2fQYZmN5uf9wTZvFbbqJoX61lyDaK1OphcY9qjaKP1oUOFrUpw21MeZn1PS0N47t9GuijFvNX43IF82v3laMZQ85712CIGloa40WXqy9tanMHwgRIka863AVZtMQ1GNbOGbI4Eoga2zSg4fUefVmhAe0QVvUlxgTnLQqGKnyFor008OEsdexSjRBpOBc5h4IppEY8VccGdDprMuYzP2mzkuu7dqik4855rW9u0TWU5wdvKGWNh4U21k9yhqxZoJ3leweBy43zyQ1KF8bFfCNKLKNOyws9NIElcrs+9ioFoeR0N8XhfaiJ1wHCsH6td5Ocb49EaYlCofOQdrImgeXJGPx9t6GVeMx6lYp4a9tEaDGgELbwEWK3kXq0vc7GnoqVmGVCeB",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "African Wisdom",
+    "packId": "african-wisdom"
+  },
+  "nonce": "o/Ng0irTiXOroSP8",
+  "tag": "/vkoAaf+e/NFBxrwclw9zQ=="
+}

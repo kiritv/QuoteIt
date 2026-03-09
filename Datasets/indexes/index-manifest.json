@@ -1,13 +1,23 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-03-08T17:17:35Z",
+  "generatedAt": "2026-03-08T18:37:53Z",
   "files": {
     "datasets": [
       "datasets-en.json",
       "datasets-hi.json",
       "datasets-ur.json"
     ],
-    "packs": [],
-    "programs": []
+    "packs": [
+      "packs-ar.json",
+      "packs-en.json",
+      "packs-es.json",
+      "packs-fa.json",
+      "packs-hi.json",
+      "packs-pt.json",
+      "packs-ur.json"
+    ],
+    "programs": [
+      "programs-en.json"
+    ]
   }
 }

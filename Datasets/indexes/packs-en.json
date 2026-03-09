@@ -1,0 +1,116 @@
+{
+  "kind": "packs",
+  "language": "en",
+  "count": 9,
+  "generatedAt": "2026-03-08T18:37:53Z",
+  "items": [
+    {
+      "packId": "morning-momentum",
+      "displayName": "Morning Momentum",
+      "languageCode": "en",
+      "audience": "Busy professionals",
+      "objective": "Start the day with focus, energy, and optimism",
+      "estimatedItemCount": 4049,
+      "isFeatured": true,
+      "priority": 1,
+      "relativePath": "Datasets/Packs/morning-momentum.quoteitpack",
+      "packSha256": "efca0246683cb0211656659be16dd130581ed20c54805ea1ede12de221086a49"
+    },
+    {
+      "packId": "calm-focus-starter",
+      "displayName": "Calm & Focus Starter",
+      "languageCode": "en",
+      "audience": "Students, creators, professionals",
+      "objective": "Reduce stress and improve focus",
+      "estimatedItemCount": 2191,
+      "isFeatured": true,
+      "priority": 2,
+      "relativePath": "Datasets/Packs/calm-focus-starter.quoteitpack",
+      "packSha256": "ea58443edde3c48ca07976e5d4bcfcd3c5768f719b00ceef07c918c4ddafbfe5"
+    },
+    {
+      "packId": "healing-recovery",
+      "displayName": "Healing & Recovery",
+      "languageCode": "en",
+      "audience": "Users in emotional recovery",
+      "objective": "Build emotional resilience and self-compassion",
+      "estimatedItemCount": 2132,
+      "isFeatured": true,
+      "priority": 3,
+      "relativePath": "Datasets/Packs/healing-recovery.quoteitpack",
+      "packSha256": "1fe62bebb37bfafad9b43306b9a2c94ea371ebc7214d00b3d9cda1cc0b73adff"
+    },
+    {
+      "packId": "sobriety-support",
+      "displayName": "Sobriety Support",
+      "languageCode": "en",
+      "audience": "Recovery journey users",
+      "objective": "Daily support for sobriety and self-regulation",
+      "estimatedItemCount": 1650,
+      "isFeatured": false,
+      "priority": 4,
+      "relativePath": "Datasets/Packs/sobriety-support.quoteitpack",
+      "packSha256": "74a0bfa2ea0a410fda9bf4f732c75f32e9ce00bfc0e24b967cb70c6cbd186bd2"
+    },
+    {
+      "packId": "stoic-execution",
+      "displayName": "Stoic Execution",
+      "languageCode": "en",
+      "audience": "Leaders, founders, operators",
+      "objective": "Discipline, clarity, and action under pressure",
+      "estimatedItemCount": 4795,
+      "isFeatured": false,
+      "priority": 5,
+      "relativePath": "Datasets/Packs/stoic-execution.quoteitpack",
+      "packSha256": "0d40ee55b16c54c57344f2041423f3072b2c0c76fc1c3c66688f791ffbb578ba"
+    },
+    {
+      "packId": "eastern-wisdom-core",
+      "displayName": "Eastern Wisdom Core",
+      "languageCode": "en",
+      "audience": "Spiritual seekers",
+      "objective": "Foundational contemplative wisdom",
+      "estimatedItemCount": 2069,
+      "isFeatured": true,
+      "priority": 6,
+      "relativePath": "Datasets/Packs/eastern-wisdom-core.quoteitpack",
+      "packSha256": "ee8c4e654d307921913ee17c28f4a752d34d3c51ecefbfb16aa49551ddfa4c84"
+    },
+    {
+      "packId": "sufi-poetry-heart",
+      "displayName": "Sufi Poetry Heart",
+      "languageCode": "en",
+      "audience": "Poetry and devotional readers",
+      "objective": "Heart-centered reflection and inner depth",
+      "estimatedItemCount": 3568,
+      "isFeatured": true,
+      "priority": 7,
+      "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
+      "packSha256": "4a4bf18ddd7ac4320a76a676a4452b28750837f81b8b96fd671fe58022b35d0f"
+    },
+    {
+      "packId": "buddhist-path",
+      "displayName": "Buddhist Path",
+      "languageCode": "en",
+      "audience": "Mindfulness and meditation users",
+      "objective": "Non-reactivity, awareness, and compassion",
+      "estimatedItemCount": 2911,
+      "isFeatured": false,
+      "priority": 8,
+      "relativePath": "Datasets/Packs/buddhist-path.quoteitpack",
+      "packSha256": "fd8d26f484174f3765a6dee4ceaf6e54053b93207006d8dd57e4c60d13a26968"
+    },
+    {
+      "packId": "african-wisdom",
+      "displayName": "African Wisdom",
+      "languageCode": "en",
+      "audience": "Proverb and tradition readers",
+      "objective": "Practical, community-rooted wisdom",
+      "estimatedItemCount": 918,
+      "isFeatured": false,
+      "priority": 9,
+      "relativePath": "Datasets/Packs/african-wisdom.quoteitpack",
+      "packSha256": "5fbb59bf36ff1edf9301a5b717b853cebeb7ee5bafb130b121a2f62d5d850895"
+    }
+  ]
+}

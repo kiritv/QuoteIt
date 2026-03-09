@@ -1,0 +1,13 @@
+{
+  "ciphertext": "KgNKuvTLxIlqGZsfwc1I6ZBiH0leXmpGeZt7GRpy+7PwTRbET176gINQW3jD3zCqOCgRYfgUiZwNEdMr4w0FG08RZA184IiKeWxSZwl2wnoV98dhFM0aIJKc9rqOauvZAPFggzKabCS2Ic1R/1wDKcXThOdB4cVH2hZ6hV7YZsnZPWBOyTL+3/06IgywEpqn4mj97W667twvGMMw3rQHkXGSUCcB50BaUB/bHy7AvwIy7WgixtuAQWHO9zWf9CLPdYeqXF4CuEnVy8DqI6PwzzBvZhIFeSFHj48gVaomnw0FucoHos5pXXNkSs4Ilr0jm0+7np3zQbo6DETFfZtDZo7vTp7dcpRLpDC0T0t2AcDsVsTyfovRMneYW7IbNWrOeRbFbvcGsGUaxs104gaPZzs8v9OqapfnsviNwPpmsNqDS8GEWVkAMdG53UbaNiQuAAKX2I7AVg==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Stoic Execution",
+    "packId": "stoic-execution"
+  },
+  "nonce": "AciHWDzhF/F0b1Jy",
+  "tag": "GFQo/Ms3rbqsELVSrVp2DA=="
+}

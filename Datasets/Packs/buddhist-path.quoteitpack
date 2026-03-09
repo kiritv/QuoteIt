@@ -1,0 +1,13 @@
+{
+  "ciphertext": "fre+JogSIq0ciXEaTHbktWmMtvy2d+ViadGFMjcjZkJ31hlIeiTb18k8K+TvZiOKAgrVa/U+mdJOfGxp34nNlLybABD0bk6kHfCJfo9RCyNujJtAUr5k/s7ovJXlJvANE9ILrKoZs6wAOt+GIX2hkEbVs+Ve5ASJ+PMT4ESPylhnxk8+i83E0/RVDlR+H5uL3cv19prbaKMSDhRytliRjDXDMCZEhhp5fWCYWs2OxP3TMnp89XGimOyD5j9CqrO6QriI476vgJ+xqE/FNseRm7KTjzNmvcPEpxzd5jgvFbXGdqROdCVeC7jUFWQW7Kb86CtpNT8RbEvmR7+/QGdpYkkOmoGkzV8LOKma1nntsETLQWjXBD+o/GtVwuEzV/W6ki0Wm+Z+4sDMA9NsbiJeTlzSW6Sg7NBuZS1WONN7wqZc1rQljCkPVvyCpZVPckIocAHlJXCcNkI=",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Buddhist Path",
+    "packId": "buddhist-path"
+  },
+  "nonce": "tk5uMltqazdv2Zbb",
+  "tag": "ywflDtRXMB2YpbfPKTC22A=="
+}

@@ -1,0 +1,192 @@
+{
+  "kind": "programs",
+  "language": "en",
+  "count": 12,
+  "generatedAt": "2026-03-08T18:37:53Z",
+  "items": [
+    {
+      "programId": "14-days-healing",
+      "displayName": "14 Days of Healing",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "affirmationsCore",
+        "mentalHealthHealing",
+        "traumaResilience"
+      ],
+      "dayCount": 14,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/14-days-healing.quoteitprogram",
+      "programSha256": "7a2fcde29e7554da47c372ba3e4d11f5a12c7e3c4a9cb611185739240ac6f2ab"
+    },
+    {
+      "programId": "21-days-latin-america",
+      "displayName": "21 Days in Latin America",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "latinAmericanVoices"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/21-days-latin-america.quoteitprogram",
+      "programSha256": "3e1f7aa9faf22f26a04c38b4f323843429a735355a780e1dbe41583f8272c68d"
+    },
+    {
+      "programId": "21-days-rumi",
+      "displayName": "21 Days with Rumi",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "hafizDivan",
+        "rumiMasnavi"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/21-days-rumi.quoteitprogram",
+      "programSha256": "6978347114778ad3187ebcc3581a979169a344e91a57dc96108ebccc93ca44db"
+    },
+    {
+      "programId": "30-days-buddhism",
+      "displayName": "30 Days of Buddhist Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "dhammapadaEnglish",
+        "paliSuttas",
+        "zenTexts"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-buddhism.quoteitprogram",
+      "programSha256": "a9bf03422d33263b66d623c88cd5f49b66085698166be644c6c9219cdcd05249"
+    },
+    {
+      "programId": "30-days-stoicism",
+      "displayName": "30 Days of Stoicism",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "stoicismClassics"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-stoicism.quoteitprogram",
+      "programSha256": "d424322c9a730ced2d35bf6a595119dfee7e416a171ba6e709daf5594575955a"
+    },
+    {
+      "programId": "30-days-vedic",
+      "displayName": "30 Days of Vedic Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "bhagavadGita",
+        "vivekanandaWisdom",
+        "yogaSutras"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-vedic.quoteitprogram",
+      "programSha256": "0cabc61f7f5180c46ab6d75d79d45bb03895ad60064b6b015b959dd6f97ad6a0"
+    },
+    {
+      "programId": "30-days-morning-affirmations",
+      "displayName": "30-Day Morning Affirmations",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "affirmationsCore",
+        "mindfulnessWisdom"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-morning-affirmations.quoteitprogram",
+      "programSha256": "d566a3d0e127b7d60f812e931016f4c5dc9498aa17b81f4ddeed5674acf02ae0"
+    },
+    {
+      "programId": "7-days-africa",
+      "displayName": "7 Days of African Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "akanProverbs",
+        "amharicWisdom",
+        "igboProverbs",
+        "modernAfricanVoices",
+        "swahiliProverbs",
+        "yorubaProverbs",
+        "zuluProverbs"
+      ],
+      "dayCount": 7,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/7-days-africa.quoteitprogram",
+      "programSha256": "77a3961a1354933bcef920a466bc3513d08925b674c3180a0accc1a213355a3f"
+    },
+    {
+      "programId": "eastern-wisdom",
+      "displayName": "Eastern Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "confuciusAnalects",
+        "dhammapadaEnglish",
+        "taoTeChingEnglish"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/eastern-wisdom.quoteitprogram",
+      "programSha256": "6cb3fdcc4765484664d255573e5e8217fde0418e024bca478c6dd15697be3727"
+    },
+    {
+      "programId": "morning-gratitude",
+      "displayName": "Morning Gratitude",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "affirmationsCore"
+      ],
+      "dayCount": 14,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/morning-gratitude.quoteitprogram",
+      "programSha256": "5ab32f781c826d21e9c3f4eb922c38072ce1bf38134b94c10a2733134fec9646"
+    },
+    {
+      "programId": "power-of-words",
+      "displayName": "Power of Words",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "standardQuotes"
+      ],
+      "dayCount": 7,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/power-of-words.quoteitprogram",
+      "programSha256": "6d32d33203c4c80ccffee64f7a768c2dbac5670bdca9733cfbb99a50b33e03f8"
+    },
+    {
+      "programId": "thirukkural-journey",
+      "displayName": "The Thirukkural Journey",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "tirukural"
+      ],
+      "dayCount": 45,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/thirukkural-journey.quoteitprogram",
+      "programSha256": "c20180bc6e8a840a8a4d97c30524a56f5c8a6892e85b9726505a7bdd889cdba3"
+    }
+  ]
+}

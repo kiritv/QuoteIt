@@ -363,6 +363,8 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 - Source package sharing (`.quoteit`) uses an encrypted anti-tamper envelope for exports.
 - Legacy plaintext `.quoteit` packages are still accepted on import for compatibility.
 - Discover Datasets supports install/update from `.quoteit` package URLs defined in catalog metadata.
+- Online pack installs use encrypted `.quoteitpack` payloads (pack source lists are decrypted at install time).
+- Online program installs use encrypted `.quoteitprogram` payloads with SHA-256 verification before import.
 
 ### Export & Sharing
 - **Layout** — Export framing/aspect preset
