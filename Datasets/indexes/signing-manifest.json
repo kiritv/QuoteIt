@@ -1,91 +1,95 @@
 {
   "formatVersion": 1,
   "algorithm": "ed25519",
-  "generatedAt": "2026-03-11T03:23:39Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "keyId": "54c7a4b1c1c0a0d4",
   "files": {
     "datasets-ar.json": {
-      "sha256": "da0cb41ff622be6b9edd3c8651ebe83b9083a99df4011276355b1d899fdeddbd",
+      "sha256": "8e214dadf94281c2fbea88df665cd7867182fca66d8556edbfe1b2c377b614ec",
       "signatureFile": "datasets-ar.json.sig"
     },
     "datasets-de.json": {
-      "sha256": "c5b9d3ef471df9d94e0d3798b42169aafb35926a2cc4a2d9ce9d63d846730f99",
+      "sha256": "c353fb6da59d9f59a2d39c523ef1ec8432e4064daecebdc421db6a2ff596b8b5",
       "signatureFile": "datasets-de.json.sig"
     },
     "datasets-en.json": {
-      "sha256": "5298e64775a47ee38adf18e684ee0726e1a3bdec4ab0468a1a7cd7b2040e616f",
+      "sha256": "897dd62759b96612e58eef96eae6ec7e312327f7a2446ffc33d97b954550cf55",
       "signatureFile": "datasets-en.json.sig"
     },
     "datasets-es.json": {
-      "sha256": "4a4f09b1cc843837450c8ed8a84d8585dd523aaf5c18580cf2f2e87552110ab4",
+      "sha256": "c32af0813ae8bbd0ab52754780e793608e3f8ce3ae5d95b6ef46f237224807b5",
       "signatureFile": "datasets-es.json.sig"
     },
     "datasets-fr.json": {
-      "sha256": "ab92334727401d7cde559d7bf957650640e8dd85d3569c8a4623527f5fca6505",
+      "sha256": "af7037fcb3d73ace5d3327b4b308784f513cdb4a799aa6f59129fa747b12895e",
       "signatureFile": "datasets-fr.json.sig"
     },
     "datasets-hi.json": {
-      "sha256": "9c2e353c1fac89316b672fbca3ba8a73bb41bb8014c19e6d8d05042c29fee857",
+      "sha256": "d6bf17cafbd085133ef99cc96e426654bff07f03d2b272a7b3cc45b278eaa936",
       "signatureFile": "datasets-hi.json.sig"
     },
     "datasets-id.json": {
-      "sha256": "acbdfac8cbca59e22f149b7e89c71860b96fb53f89fc2ee7f26e7f3bff922bc8",
+      "sha256": "921a12d2d7427a3befa36403f7ccc52990ed1cba5d499b1e3bb5cf7824dc0b44",
       "signatureFile": "datasets-id.json.sig"
     },
     "datasets-ja.json": {
-      "sha256": "ab78f9963f8436dc9e07796571f5ca5ff77499e2f5e7305731556c09d00aad34",
+      "sha256": "db8d792ce9e7899ae8ba4d12a2075800e748ca15c69f95a0c03f62474dfd9a23",
       "signatureFile": "datasets-ja.json.sig"
     },
+    "datasets-pa.json": {
+      "sha256": "690941935c01ecd7af3ccf62674a08f93511b8aea21198136c144b711985cd64",
+      "signatureFile": "datasets-pa.json.sig"
+    },
     "datasets-pt-br.json": {
-      "sha256": "015ef80d55eb92816a7337ac598e1b57b5781bd72f8e1481139fae8a9b37a514",
+      "sha256": "c1b2a3b1c7b6916290bfa69167d6760c3add638d8778e1ac8bbe7dcd77a21cc4",
       "signatureFile": "datasets-pt-br.json.sig"
     },
     "datasets-pt.json": {
-      "sha256": "121b02f392a449bae9aca827d2be8b2e934680cc31d7eea63f83704eb537e328",
+      "sha256": "f473c5ac3463c86306831f9423efce9b68d4d29380b042bc521e861cf272bd0f",
       "signatureFile": "datasets-pt.json.sig"
     },
     "datasets-tr.json": {
-      "sha256": "c668386097923ca67a2ffa7918c7b971e79eea7245e5ca52e26a1fc341613d62",
+      "sha256": "4e4dad7d092e57fe2e68f0f2da229a2abbaf5092cde382ad917ae3dbc9321bd7",
       "signatureFile": "datasets-tr.json.sig"
     },
     "datasets-ur.json": {
-      "sha256": "743a5e2888b8ae2c1f2a1b61e6adb9908b1b544d23a97dfd4c0237a545adad9a",
+      "sha256": "64cc4ba0c2c4ce3b0b3432aff9aa8b2b5a26276ea98e4aa04e1beeccc199e23e",
       "signatureFile": "datasets-ur.json.sig"
     },
     "index-manifest.json": {
-      "sha256": "de96095a8b00fc021a8b949cb9e1422e05643ccf16882242e049d38cc09f62d6",
+      "sha256": "a11d8049265c7e8362be8778b560c5115104d12bcc32aef173cdd418d45fd459",
       "signatureFile": "index-manifest.json.sig"
     },
     "packs-ar.json": {
-      "sha256": "68664ec465669e05ba627967d55ae442c9014d0004e417ca6444ecd8d4aea5f4",
+      "sha256": "a3de98b501b694ca2091fa81906a7c7d0b40ca5d517183d2f91f14c3b91ff95b",
       "signatureFile": "packs-ar.json.sig"
     },
     "packs-en.json": {
-      "sha256": "5c454278d89e82ad22142f26ae9da0a6c696094aba4cdbcafe886aa30403a9cb",
+      "sha256": "bc67f7c6efd2c896b94b0593a0ccc149e11d8c4602bb7d6bfa0222e9737785eb",
       "signatureFile": "packs-en.json.sig"
     },
     "packs-es.json": {
-      "sha256": "ef307d23c57789be100b709eb07ff35364e75b50e550eddabfb349c379b0886d",
+      "sha256": "395948ae83a36e520b065512ec4d0d3b04ef3619c151827c1d6103ad986bfda3",
       "signatureFile": "packs-es.json.sig"
     },
     "packs-fa.json": {
-      "sha256": "836f3f029ff68c86527a638353e132c8cc8f9ac071f48dbfd6a381e01c8511cb",
+      "sha256": "053d8abb76e6547e6c0208668368a247264a004f428ae9747bd73561ea1b8381",
       "signatureFile": "packs-fa.json.sig"
     },
     "packs-hi.json": {
-      "sha256": "6d0e7b138f827e00475bfa9042889837bb7d6f77b4052393112834d9b0c8eb24",
+      "sha256": "f0917d890d91b9035572dcf4d388c0291add94d579e1b70b1c110d916167e2c0",
       "signatureFile": "packs-hi.json.sig"
     },
     "packs-pt.json": {
-      "sha256": "0ea8b106e4e847588b529712fec9a2b362eb036747b471b26ef8493e41213b2a",
+      "sha256": "1bef6c3dd6cd436f5747130aa0e19f2b34538d2ec62e90b3aad2d7061251fedb",
       "signatureFile": "packs-pt.json.sig"
     },
     "packs-ur.json": {
-      "sha256": "468ab7e97ece979b819f2f3d15693962b4ed2a9fcc19b87a88b2aa789a0b1c97",
+      "sha256": "182de480d287217629d2a80de9f03dd3fabc741d8a5b64d88dcfaa7108ab5722",
       "signatureFile": "packs-ur.json.sig"
     },
     "programs-en.json": {
-      "sha256": "f5f7d8dab38e11eb5835da4b30a01fabf62a017e4d2e05e744e945d75981c205",
+      "sha256": "5d274cc82d7f89ea751d54d3f7dbe38f13192fa31d6281aab4db743682fb185d",
       "signatureFile": "programs-en.json.sig"
     }
   }

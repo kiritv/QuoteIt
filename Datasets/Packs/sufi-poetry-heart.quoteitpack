@@ -1,5 +1,5 @@
 {
-  "ciphertext": "N8mwqQ1oNEfOHy6VbNRgeUYLD5ucCYubeukKBc0AgXtolIpCPtg2Rt27ft6hNmi4EAqZmvh1wpThkm+4TbCEXOizMnAZmK5PYdeHDz/xMbXSjwBWznFJUu4YRJfmb/wi7dBuiStMZKsRJsBcV7tkybyd+Me59Kl+blhleFknyV2CeJmLZ5OtdU/jGDfalO9GARBZJEJoew7AkBLJPyDQGGCgTzxmwf3GVi34z7TUUJ14s1K5HyEqj4DxUZ9ueiaCWP62pCcfA6XFFake5mjx2VikhuPVPj401Gw1afQ9F8RGgv3odTPHrrkDZc+WTdcNwQlO/2dErkEcy9J1iWswnl1bu95w4q6EfgamYbg17ToS7KRzJ6fdQ4EQktGP0pLlmIKAz6Pd3ZfL9h/bqFL8v9lXorTWRsFRcRiNwi3FAH/2LJbWYXkciZ+uCgF8HHQ8DexJ9mJbqACb5WCVwiFwKC133NLc7pdO4iY=",
+  "ciphertext": "sKil9iCk3KOURKpdonmE2i6BCrIudRaSqOypGUEnW4rMnbwADER6UnHbinnYFuTU+t8BcrshBsEeBkuseNYbwbafp2LjeoqvMzeAXSw+OJogO1WrNX5rWp7DmmldP8BYQt5GQnmnYgbMeke6VFYhwjgJHihgt+KJ6RIs2BNTZs9Xp2pMR8g8m2JkDWJFf2oFD+FRo8lTHJOe7y6PXIjt6Jk8kGTDKdb5NjQUoDsalA/fmC0QfmmxohKYbWt/g5A83gfdSwOfubhSWfbTbyTuTXl0OXamq70a40yygcKyh32uWnEVZxHZZI8DFlxhhdJTPgVlir1Z+nLJRul2kxV1DiyjOMPJDzhZKxYk/CnmxyHfOYvLRvE1h8c4f4Y/XlNhs2mnqefEHbpXZ5O0Pf//QfLQu051pXxoeZ41n1GgCKfntTsjFuLEFyic2QDTbuoOI2divq0ELH/BX5/ak5vJJz6XAlUZxKmaLd0=",
   "encryption": "AES.GCM",
   "format": "quoteit-pack",
   "formatVersion": 1,
@@ -8,6 +8,6 @@
     "displayName": "Sufi Poetry Heart",
     "packId": "sufi-poetry-heart"
   },
-  "nonce": "2ZUmmRJLQhKAs2wr",
-  "tag": "eBmDEFj+YGiHwfmz40pN3g=="
+  "nonce": "6OkWPfDB0zvFzetl",
+  "tag": "fyMNGnM+mjz+CSnU018/cw=="
 }

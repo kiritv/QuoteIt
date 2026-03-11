@@ -2,7 +2,7 @@
   "kind": "packs",
   "language": "ar",
   "count": 2,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "packId": "sufi-poetry-heart",
@@ -14,7 +14,7 @@
       "isFeatured": true,
       "priority": 7,
       "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
-      "packSha256": "b06990a460e370264e951ff6033992c4eae2b659c93d0ef732b84c928ad1d638"
+      "packSha256": "cb4897650b5711a7fe890649c2278050eb1829fd760eba3bb778f697fdd7f5a5"
     },
     {
       "packId": "arabic-heritage",
@@ -26,7 +26,7 @@
       "isFeatured": true,
       "priority": 12,
       "relativePath": "Datasets/Packs/arabic-heritage.quoteitpack",
-      "packSha256": "cc6e2aee8b61642db85d8f07cd6129bd6cd5ddac7775a12e64d0f43e22217f01"
+      "packSha256": "861ce0b6bafa901dfa7672f6a8a69681a764badf4eb58094ed0892b8be505812"
     }
   ]
 }

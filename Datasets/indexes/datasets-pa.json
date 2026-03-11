@@ -1,0 +1,39 @@
+{
+  "kind": "datasets",
+  "language": "pa",
+  "count": 1,
+  "generatedAt": "2026-03-11T17:40:19Z",
+  "items": [
+    {
+      "sourceId": "gurGranthSahib",
+      "displayName": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ",
+      "version": "1.0",
+      "languageCode": "pa",
+      "displayNameEnglish": "Guru Granth Sahib — Gurbani",
+      "script": "Gurmukhi",
+      "isRTL": false,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "Punjabi",
+      "edition": "Sri Guru Granth Sahib Ji — Gurbani",
+      "primaryCategory": null,
+      "subcategory": "Sikh Scripture",
+      "audienceTags": [
+        "tradition:sikh",
+        "genre:gurbani",
+        "script:gurmukhi",
+        "theme:devotion",
+        "theme:oneness"
+      ],
+      "itemCount": 600,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "author",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pa/gurGranthSahib.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "f4d8689d4f9761e6997a1defdd7b2e0775e3f25e9b091854d2b5c470d85bd0d8"
+    }
+  ]
+}

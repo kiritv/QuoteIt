@@ -2,7 +2,7 @@
   "kind": "packs",
   "language": "en",
   "count": 8,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "packId": "calm-focus-starter",
@@ -14,7 +14,7 @@
       "isFeatured": true,
       "priority": 2,
       "relativePath": "Datasets/Packs/calm-focus-starter.quoteitpack",
-      "packSha256": "c473e185e9aadc8fa875a92776b75b09901a2a07040ebecf4c5e6c3565e581fb"
+      "packSha256": "1653d7f01897e2ff4f01cb605d7600933695eb81b657fac96954c99cd565093d"
     },
     {
       "packId": "healing-recovery",
@@ -26,7 +26,7 @@
       "isFeatured": true,
       "priority": 3,
       "relativePath": "Datasets/Packs/healing-recovery.quoteitpack",
-      "packSha256": "4f380994213172712acdba706f695491c9b846ffc00b90b5fa1059d2cbde89ab"
+      "packSha256": "851a03ec36a3d7bde34c6dd61d20994f9c28bc2a41d9cbb2f8ca7d42498df28b"
     },
     {
       "packId": "sobriety-support",
@@ -38,7 +38,7 @@
       "isFeatured": false,
       "priority": 4,
       "relativePath": "Datasets/Packs/sobriety-support.quoteitpack",
-      "packSha256": "35df46537987b1b9b7108ef1e7370bd26a0c341c3ca240eeafcac55c5b64ee02"
+      "packSha256": "984ae5199c17d1d9b4c64683bc3c68a6f367f9fd40f40a08d1540618c4a4ef91"
     },
     {
       "packId": "stoic-execution",
@@ -50,7 +50,7 @@
       "isFeatured": false,
       "priority": 5,
       "relativePath": "Datasets/Packs/stoic-execution.quoteitpack",
-      "packSha256": "c469280eea272928fc7ac7487495e2b0e098a2bd30a1947840ed1c3c3f14f489"
+      "packSha256": "3934f48b8411ed22431715e7bfcfefbc9bfc744cc473016fea3f45204107640d"
     },
     {
       "packId": "eastern-wisdom-core",
@@ -62,7 +62,7 @@
       "isFeatured": true,
       "priority": 6,
       "relativePath": "Datasets/Packs/eastern-wisdom-core.quoteitpack",
-      "packSha256": "72134b38c4e06b009208a3bac46f4ab17040f70492036d65c031c93ebc7ed3a6"
+      "packSha256": "e29fa72e25a15eae0fb845efb098d4ccfca129caa433d50e11b47850ab88d8b3"
     },
     {
       "packId": "sufi-poetry-heart",
@@ -74,7 +74,7 @@
       "isFeatured": true,
       "priority": 7,
       "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
-      "packSha256": "b06990a460e370264e951ff6033992c4eae2b659c93d0ef732b84c928ad1d638"
+      "packSha256": "cb4897650b5711a7fe890649c2278050eb1829fd760eba3bb778f697fdd7f5a5"
     },
     {
       "packId": "buddhist-path",
@@ -86,7 +86,7 @@
       "isFeatured": false,
       "priority": 8,
       "relativePath": "Datasets/Packs/buddhist-path.quoteitpack",
-      "packSha256": "9b68f681adf8fb4c6d58acd6576192af4547fc6886a7e0cfec18fc98e7b71c3c"
+      "packSha256": "b2dca1b8be66ed91be131334729b51bc29f114efe29f389c3ac19b59ca5d0f10"
     },
     {
       "packId": "african-wisdom",
@@ -98,7 +98,7 @@
       "isFeatured": false,
       "priority": 9,
       "relativePath": "Datasets/Packs/african-wisdom.quoteitpack",
-      "packSha256": "0fc48035988a10612faf1c45a18e927f73b1bc12c55f9024758771d2938d32e6"
+      "packSha256": "db0afbefd73dcb1b63908f699ed431eda4b7f2e10b839213df1e4b4c3e4df24f"
     }
   ]
 }

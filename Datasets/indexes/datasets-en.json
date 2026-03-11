@@ -1,8 +1,8 @@
 {
   "kind": "datasets",
   "language": "en",
-  "count": 49,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "count": 50,
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "sourceId": "hadithNawawi",
@@ -29,8 +29,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/hadithNawawi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "aba9e0f08b062cf4a1a250a5d60bc80d4af9b8cb04041d51a3ec2db489616fc8"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "6b02f6fe7d0e6ee6a50f1689be8b81cd30da154a87d8de6c6f1ab7c29be18d6c"
     },
     {
       "sourceId": "africanProverbs",
@@ -57,8 +57,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/africanProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "08c51ae732d507c131f5962aad33b4a6e5776fe44dc78ab1dd065c88fe3a2450"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "894db2000bd7253bf9c62f79290d2ec323fcd60b2073dd1a4788a85c2f3849f6"
     },
     {
       "sourceId": "akanProverbs",
@@ -86,8 +86,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/akanProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "f37d0c407d66e5b196b3d6224bfb7b882e32ba0553a81b974b0a18a47c115599"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "c38cd5ed72ec31f691f23bb91d42937433b029a51836f9cb6e669d454e9fb4aa"
     },
     {
       "sourceId": "confuciusAnalects",
@@ -114,8 +114,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/confuciusAnalects.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "0e03f982f81ca3db4b14a68fe6fe88abe8c2e13cf125344dd21f806c60255d9b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "098e3dfc3ad340522f5614c4b9f0c51c9808f1323133967248a8a478ec560cfb"
     },
     {
       "sourceId": "aristotleEthics",
@@ -142,8 +142,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/aristotleEthics.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "fc38f96afe046733e45ebd29bd8e01c1df7ac753a1e376cf762f1fa01acad651"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "29e2a2b5a42a83cedcf2afb0c5f25ffbc59c1e24178e47081f07db54154658d4"
     },
     {
       "sourceId": "attarBirds",
@@ -172,8 +172,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/attarBirds.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "6a40dd49f41a0dd4f3ecaa6044a71ce5edf88e5df92b585630173b6ac909cb73"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "885be51525d7a31273a9d09b601bcd9ae50ddf097cf35c23b66af844040a2bc7"
     },
     {
       "sourceId": "bookOfFiveRings",
@@ -200,8 +200,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/bookOfFiveRings.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "53506f95331e3b631f70e383902cf6f85006da292fe327e6b842db10b3ae2743"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "09ebbffe796f17cf8196b0e37015627b8e61e70250c7cfce61cc58e5853b6676"
     },
     {
       "sourceId": "chanakyaNiti",
@@ -230,8 +230,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/chanakyaNiti.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "2d7fed3d6874ede62708f14184aa57ef311d9450fb26c138be673fb52fd56eed"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "19c7edadfb43f8cf72780c683eed0fc135c032449a7ddc91ad3aaaee45e33a53"
     },
     {
       "sourceId": "dickinsonPoems",
@@ -258,8 +258,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/dickinsonPoems.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "729c60b24a7bdd66ac072a9d082d5bda66ab966e1e71e09437ecc301fad9518e"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "cfcfa3ed809d046a40689b7e933516177f98e14f7f429cf23dd5e36d7e69f989"
     },
     {
       "sourceId": "amharicWisdom",
@@ -287,8 +287,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/amharicWisdom.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "230a1c2dcd8de1bc8989edb0401b210789d925e5c632184b9ad6042dcb2737dd"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "21357617eb51961d2b5b2cc566263d592211ba3c0fadda79f8db1c71abb7ce22"
     },
     {
       "sourceId": "hafizDivan",
@@ -317,8 +317,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/hafizDivan.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "366336db4be48f57479dfd11c88f07571bdda42c5f4afb3277b66f32ca3c6880"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "df2ef725738bfef33a72e010b206d7ddb23d56bf46d59d812d4f140061ff1618"
     },
     {
       "sourceId": "haikuMasters",
@@ -345,8 +345,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/haikuMasters.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "a7dc5301a805519fd780fb31e481ecdcd21ce00a4a5e370323007b36b7107fd4"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "8bbe354dc4ef3d96df7dc0a64d971413623cece0174ad94bd722c8b3ce69c7c3"
     },
     {
       "sourceId": "igboProverbs",
@@ -374,8 +374,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/igboProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "62d8dc54463c873a8d16fefc9f201959f28e3c7159920ec022678189cad2f1f2"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "111a27016d8e2178d6e5d23f240d38f40d4f44e8e89669c813bab5f38ceae5e1"
     },
     {
       "sourceId": "imitationOfChrist",
@@ -402,8 +402,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/imitationOfChrist.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "62da2fabb9b0273bd49bed0fd3cad9e5728b5fa6f2aadce396a3b0c799ef4daf"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "fc554792bd5d5e739f57ea18745a184b732356ef3346d562e3889266aefb1edb"
     },
     {
       "sourceId": "koreanSeon",
@@ -433,8 +433,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/koreanSeon.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "27b69b50a0f2239e8d510dfe5c77786202ae8554f3487edbd6d068bad9e14e6b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "389d5c1781f8b95fa7bf40d9519f1ce383dff9bf103fac0ce2b260cabbc8bbea"
     },
     {
       "sourceId": "latinAmericanVoices",
@@ -465,8 +465,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/latinAmericanVoices.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "f1da80a7dc84928a4f69b18d6c38ce09cca36a9bdba5b7fb359419aa5a53eb84"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "1a9bc2299aee73ae3b68864d4461c7237712539a73ac78e038c71ba4493f221d"
     },
     {
       "sourceId": "lifeSituationPacks",
@@ -493,8 +493,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/lifeSituationPacks.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "79a4e1b2bffc3bafe9f6fc0c1fa46f6f9cc8165f815b3387f6253d197c094ab6"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "40532ebc508afa939e82e198204663310c7e6481cafec85f81f2a9ca1173c135"
     },
     {
       "sourceId": "mencius",
@@ -521,8 +521,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/mencius.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "a7fd7b8e792f3afba63a3548f5363f4310ab9e8373a09d343e81c4490ec8b965"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "9c67850fa246aa17c2f1ac632739c03c76b8bb34a60d9c5d299cdbded5ff7828"
     },
     {
       "sourceId": "mirabaiBhakti",
@@ -551,8 +551,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/mirabaiBhakti.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "3aa553a51ceed4e02b3e5d6ff50de974d37ddb92d6449467792a5ed3ef8fb63e"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "fe1c8f13542ef4a24f701013a91171f5d3e80affdf53a455b511a92ab67fcfec"
     },
     {
       "sourceId": "modernAfricanVoices",
@@ -581,8 +581,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/modernAfricanVoices.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "fe764df0f7c58f6e14901244b4cdc3ab3aa375ecef666318074f4772169a6d58"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "e7c7fe921236e1d66300dcce22c47473f648c12ce6384b016e889504584bc51d"
     },
     {
       "sourceId": "nietzscheWorks",
@@ -609,8 +609,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/nietzscheWorks.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "8d5fd4ccfceb3e0a6bf99dc063e39cb8440aaffac9cf6668fd5c85f05b8ef8fc"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "d55a1b30555aacdf96d6249d1b7ad4bb3811cafc42625909d8f9b479765692be"
     },
     {
       "sourceId": "paliSuttas",
@@ -640,8 +640,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/paliSuttas.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "4f906449f79df6eb42cf71d28c6a9c70770cda4fdfe70e8c252c11f596c15339"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "797a1205b0b7512f2a91cef5c4a8f287ade1ca51ff7ca303bd31d2192335df7d"
     },
     {
       "sourceId": "pemaChodron",
@@ -671,8 +671,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/pemaChodron.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "aa6d6468e75607d47222dfe29e864915cdabe9158688b3eb5789f31c83c3a58a"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "339c9ba8e49a6736e74e4bb51f7384109d29e0997607305c1e8d7e62092f09c3"
     },
     {
       "sourceId": "platoDialogues",
@@ -699,8 +699,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/platoDialogues.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "03cb6cad125d3e849280e15acaecaec1ae2a51ea5594c2eb9333927aa48af23c"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "46c57f07506d31b865013ede05aa264346a8c04ed623f99d0ad05e0e8cdc986e"
     },
     {
       "sourceId": "worldProverbs",
@@ -727,8 +727,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/worldProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "a98427d52d382ec14f818609750e27f1d2259fafdd82909836eb0c0d2d007c92"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "0c691e0de290b706a77cd1b32a061345cfdb8cbe87521528574ac8c007f8b5eb"
     },
     {
       "sourceId": "rabiaAlAdawiyya",
@@ -757,8 +757,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/rabiaAlAdawiyya.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "2edf335b62c51734d92583bdbd6d99f9614c298184e1b0d77310491d9ed0358b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "1fa95cb21b7496ad83c7916f080916c719a262cbca059f10afd4998797f26bbd"
     },
     {
       "sourceId": "sobrietyRecovery",
@@ -787,8 +787,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/sobrietyRecovery.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "07f95e4973a18eb02dd9e4174761a28f5f87dae5249bb2a299b37c1ced88ddb3"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "fab8dd56efece9e90e0455d139682442e7ee43220799878a47b15a51077184aa"
     },
     {
       "sourceId": "ryadSalihin",
@@ -815,8 +815,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/ryadSalihin.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "7569f953de3ad5f24838e0e120cb5758436e9a035d6ba799509c3bba4c3e3970"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "a47e1bfb8501ea5b6e891e1844ac07f36627130d213e7bf856de28212bc3d477"
     },
     {
       "sourceId": "khayyamRubaiyat",
@@ -843,8 +843,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/khayyamRubaiyat.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "f016e8c3f9924e82b3fd2b059e01f9148646377c0a1bb5ab669bf30f54bc777b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "801293189052fd097be5211a5831fa111f37854c325b247f11215e0877aae294"
     },
     {
       "sourceId": "rumiMasnavi",
@@ -873,8 +873,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/rumiMasnavi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "14dfd7348a9d1df1fdfd9aa5a2e9da77986f933bc1039a3ce56449fe477d408f"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "f98fad7145dcc91059f582798a11577400ad4fa0b5734f00214f14338f8d3fdf"
     },
     {
       "sourceId": "saadiGulistan",
@@ -903,8 +903,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/saadiGulistan.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "d90ec4eae33267ea6089079bec57fd1610ac3264a431e0889c45b13b1ef8e229"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "dbc4b9904315fcba931f10a041fbeff4bd74e2bf8a02852732af7ad39e04b867"
     },
     {
       "sourceId": "shakespeareWorks",
@@ -931,8 +931,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/shakespeareWorks.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "e0d7a999bc66646ba6c126061525ce9251d4bc566d6917aa8408c4df25e9c6be"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "ddc901d811f20e813e1bc4513175cf3b1a70206face1b44be77e555e9ef71f57"
     },
     {
       "sourceId": "shunryuSuzuki",
@@ -962,8 +962,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/shunryuSuzuki.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "a89eac857694a0e518f30becdb5ba1d7dc1f54e81d800ae3f7d6e465f2f2ba1b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "9cb57358eddd9882c5a192490825d121b1804eb61f603503a6a97ac04048759a"
     },
     {
       "sourceId": "kabirSongs",
@@ -993,8 +993,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/kabirSongs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "40bb8e59262785a99741b91e7dc15f8d4e9217a8ca0a2f7b0798bef6e3bc3c93"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "66938f9b61fafe83d42a67d748a9702d15e23f3806cd1493e2bfaab295278e5c"
     },
     {
       "sourceId": "ramakrishnaTeachings",
@@ -1023,8 +1023,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/ramakrishnaTeachings.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "36aac80c5ce75666e0c82f991fec6775e1763ff80aefc0f333f14168c9d53675"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "4b693af0655c36982aab55c4d92e7536539e27382467a8ebf31c341723440d22"
     },
     {
       "sourceId": "swahiliProverbs",
@@ -1052,8 +1052,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/swahiliProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "e2ef3ce516bf537a80f4b9b60ae2da81e10c1dbf26b86b8d484ab21a6cb48241"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "c59c62ad53c5518125316b519f4709ecc33f006ed1a438547527dffca2b38633"
     },
     {
       "sourceId": "vivekanandaWisdom",
@@ -1083,8 +1083,40 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/vivekanandaWisdom.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "20fac2292b3d4db54a6b6979479d130a8306929acc1ff4ab829e3d72a020bdab"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "053709464be191adebec9b018139a3e62f58d5faa3f2db7d971a5cc8fb7d7224"
+    },
+    {
+      "sourceId": "sikhGurus",
+      "displayName": "Teachings of the Sikh Gurus",
+      "version": "1.0",
+      "languageCode": "en",
+      "displayNameEnglish": "Teachings of the Sikh Gurus",
+      "script": "Latin",
+      "isRTL": false,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "English",
+      "edition": "Guru Nanak to Guru Gobind Singh",
+      "primaryCategory": null,
+      "subcategory": "Sikh Scripture",
+      "audienceTags": [
+        "tradition:sikh",
+        "genre:guru-teachings",
+        "language:english",
+        "theme:wisdom",
+        "theme:equality",
+        "theme:service"
+      ],
+      "itemCount": 400,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "author",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/sikhGurus.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "4d12b0bf1bc6b7366d5ece0cb5cb7560657a158876d1e596c2c67e6bddd79b8f"
     },
     {
       "sourceId": "artOfWarEnglish",
@@ -1111,8 +1143,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/artOfWarEnglish.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "adac047dcc9972b93b5d16b23363533588760fadabb3f81183c009848e73a38e"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "94d81415dab98fe2ee3ee3ed5b37bbed339a3b31145984b88cb5eef39bcd29e5"
     },
     {
       "sourceId": "gibranProphet",
@@ -1139,8 +1171,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/gibranProphet.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "6fd6397df7552ccff681ba5d591d57cee44d9b283377d2a5e6182f85d03e0fee"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "10b0a750419c683531c0b7332ad6f2ccfccd79d4771ce81e32b274a36c5e3ab8"
     },
     {
       "sourceId": "thichNhatHanh",
@@ -1171,8 +1203,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/thichNhatHanh.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "9526fc39cf11f2ed009f01168393084154bb1310d63becefc50eaba65899b1fa"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "3979a28aaace622ba501647098869b32b001a76524730224939e01b9023c6018"
     },
     {
       "sourceId": "tibetanBuddhism",
@@ -1203,8 +1235,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/tibetanBuddhism.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "683368b44125cdefdbebd3d857482544184ce1b04905186c4eed93e24f5fbd09"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "1a8182e2de03985f5bc31fd50829ef5a7164e06c13b25b79c816c992739ae80b"
     },
     {
       "sourceId": "tirukural",
@@ -1234,8 +1266,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/tirukural.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "ef753e4fe3ca935e4e2375d7d3746a7b5f08356681b47ed95558b11e5e383374"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "b405e7b14eb5437f87e189857c25bf5b9bddd72a01a3332c2a0a5bfd758b2960"
     },
     {
       "sourceId": "upanishadsEnglish",
@@ -1262,8 +1294,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/upanishadsEnglish.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "d65dc200f1d059aa18cd1a3aa71cfefe8fd651791355b127c5b292f7804de47a"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "70ef5e4754d25f2a1c76589280ae1860fc457fd1f27067fbf525a478c02a05cb"
     },
     {
       "sourceId": "whitmanLeaves",
@@ -1290,8 +1322,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/whitmanLeaves.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "d9d38e13fc490d5036cad2ff50ea2fe266009a962458364b3544dbad09a61056"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "749e73c0ae18818fd7982ddf75f0c357755b10d1062cf3ed6092326dff2b30f9"
     },
     {
       "sourceId": "yogaSutras",
@@ -1321,8 +1353,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/yogaSutras.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "6c0d994c5e7d37c6004b807c630f1634c31d225fdc5d8ad15dc5c2ae5cf9a4c8"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "2891b7d96077f939440b2d443648d4399ee6080b71b6173cbcd06896538d1cb0"
     },
     {
       "sourceId": "yogaSutrasEnglish",
@@ -1352,8 +1384,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/yogaSutrasEnglish.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "ec0860475c4cd6a4ef284acf17ce343e2ea98a7cee422b16b3229534cb14dbc6"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "a6c26ae2840bd7821fdf251060bd75998b1f4c4d708b010a842e7704679e2d8e"
     },
     {
       "sourceId": "yorubaProverbs",
@@ -1381,8 +1413,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/yorubaProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "ed9404a5f69a2084e8cec2f362f429479da188afeba48c54c1a68cca20f3e988"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "c0541a1d66d4fc63ccd627c79590ee0b8b5db433430105fc71a281db88d6a731"
     },
     {
       "sourceId": "zenTexts",
@@ -1413,8 +1445,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/zenTexts.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "ab345c318e1dff1cd559c096c51e69c9e2c3ea181604f490683773c9d2bbab53"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "8429a44929a01af47e25ac6484fb258429d3681e8fca40343ed2d57e0de02611"
     },
     {
       "sourceId": "zuluProverbs",
@@ -1442,8 +1474,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/zuluProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "97df32830f261ca04e85f1b09631b6e31003c3afacbaba377805959f0898b117"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "b7a85ca0522679dbdfc02b16f1eefdbf626e1b19ec166e893c07162341449aca"
     }
   ]
 }

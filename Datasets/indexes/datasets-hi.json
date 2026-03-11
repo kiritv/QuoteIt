@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "hi",
   "count": 3,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "sourceId": "kabir-hi",
@@ -33,8 +33,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/hi/kabir-hi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "57359d5821d75e85897dbc6ca13dd9bb91037a0a6d17e04960cc1e20ebedf8b3"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "2936849b601559c52c161d47bb5da14a1422705715e043c0d608cd9fa05b44eb"
     },
     {
       "sourceId": "chanakya-hi",
@@ -65,8 +65,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/hi/chanakya-hi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "cc36870417f6a76f33af976b8745e179bc797eb7e0d6905fa96b09e7f305ea0c"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "cefa7f275533778f4764bf558df18ed133ef3bdccb96e876d2ac704d4f9f77a0"
     },
     {
       "sourceId": "mirabai-hi",
@@ -97,8 +97,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/hi/mirabai-hi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "6f97c39e4b3d17a6a8ec7b4dc073a0981ff9b919597d7787b28e4f8f29535b0b"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "cb9d6c0180f30b29933f9ce4bbccbf00138bcd35ed327ffe84acea9a03caa837"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "ur",
   "count": 2,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "sourceId": "faiz-ur",
@@ -33,8 +33,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ur/faiz-ur.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "de53869859c41e54731e209d95c391208aa988b1a75afb2851e98a0a5dddefe5"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "8c137db4a5c475aa43e4a42ae1f67c6259f1439a79b78067e494588fa0180062"
     },
     {
       "sourceId": "ghalib-ur",
@@ -65,8 +65,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ur/ghalib-ur.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "faa29f74fc1914edd92f0c3d5e11e96532c29ac1e2077296db07820a7d081261"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "284f066c79039313ae95958b389c06571e07d8d919e0795cb1cdb0058f98e73d"
     }
   ]
 }

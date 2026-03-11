@@ -18,13 +18,13 @@
     "theme:innovation",
     "theme:creativity"
   ],
-  "itemCount": 56,
+  "itemCount": 601,
   "supportsRandom": true,
   "supportsBrowse": true,
   "browseOrder": "author",
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/modernJapanese.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T03:23:38Z",
-  "packageHash": "fbc1820dfbd5f66386918fa20e395a3b4758272e9ce0ad3be01aa4f433a05054"
+  "generatedAt": "2026-03-11T17:40:19Z",
+  "packageHash": "e06e3f488b31dd68ce83d8bfdc9611c91e1ecc0713b1206a81a44c21b0d46d95"
 }

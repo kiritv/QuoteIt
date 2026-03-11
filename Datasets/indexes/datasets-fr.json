@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "fr",
   "count": 3,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "sourceId": "philosophesFrancais",
@@ -31,8 +31,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/philosophesFrancais.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "6082ba7acbf6ac527a840898b46ea5dd811a2fc1f00842036d9247d8c3f9f9ee"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "a21eab2acbc783eba0fa765f31dfcde498f60cd0e4ff46ae75fd041417e35180"
     },
     {
       "sourceId": "proverbesFrancais",
@@ -61,8 +61,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/proverbesFrancais.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "a285a4d8995d326bd8db110fdf5ba37050c971490f1b5086dde0e11f4a8991d8"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "2a91f14ec2ce362ca2965139dfee986fc5163f6579bc8ac091139a56b8632b16"
     },
     {
       "sourceId": "sagesseFricaine",
@@ -91,8 +91,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/sagesseFricaine.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T03:23:38Z",
-      "packageHash": "ba7bfba038677282d036b5009388edf5683bbb920c5d1428b8560a63dc7dfb6f"
+      "generatedAt": "2026-03-11T17:40:19Z",
+      "packageHash": "963db33fa318e81cd5ba6e0ea32fba3a2b159ba5a55466037113f583ebcd28e4"
     }
   ]
 }

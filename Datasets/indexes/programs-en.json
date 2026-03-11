@@ -2,7 +2,7 @@
   "kind": "programs",
   "language": "en",
   "count": 7,
-  "generatedAt": "2026-03-11T03:23:38Z",
+  "generatedAt": "2026-03-11T17:40:19Z",
   "items": [
     {
       "programId": "21-days-latin-america",
@@ -16,7 +16,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/21-days-latin-america.quoteitprogram",
-      "programSha256": "5ca7dcc8a3dbec9c43894799e3308c7f3e8d9aa0414e7a371c73df756b326bdf"
+      "programSha256": "b83ff7a70fe124dbf8ea58db5720b44dc4c1d59b25cae52c8e4793a1c3c69183"
     },
     {
       "programId": "21-days-rumi",
@@ -31,7 +31,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/21-days-rumi.quoteitprogram",
-      "programSha256": "1542a28c0c5c2b5cb42b011d58597762ba73ca77cca14caf7577ccda45ff46f1"
+      "programSha256": "fe330f2a9ec94a48fc2c0b0f9caf3ac516dc0f51f9bf783243fb3bf6de660497"
     },
     {
       "programId": "30-days-buddhism",
@@ -47,7 +47,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-buddhism.quoteitprogram",
-      "programSha256": "981fe2e2d145e72c9ecdf81c0ba3f058a56f17a4155298571adf30fbd5749c4d"
+      "programSha256": "d9131a4518429770ae9d0ca4cdecf3a64c5d4d4f3472b8f65e6944a78ec8ab32"
     },
     {
       "programId": "30-days-vedic",
@@ -63,7 +63,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/30-days-vedic.quoteitprogram",
-      "programSha256": "001772563acf34af45b564bacc6a4ee2923a1225da284020f1f887bce4326a5b"
+      "programSha256": "795c9ad522c7315db066457c48c78c1b58777ebd00252792b7d63634c568ccb1"
     },
     {
       "programId": "7-days-africa",
@@ -83,7 +83,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/7-days-africa.quoteitprogram",
-      "programSha256": "ecf8812d661fa2058085da3a29dec8f3577122bf6e5352458969d3e745cafcde"
+      "programSha256": "29867768f2a5f282871ac071b73e3f9d2e54131bd99bcce847e39fb78dd0add1"
     },
     {
       "programId": "eastern-wisdom",
@@ -99,7 +99,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/eastern-wisdom.quoteitprogram",
-      "programSha256": "84509c0d79f6ae685bfcd9be8adc05af1ee5565127012d1b8f788577f719d1d1"
+      "programSha256": "8368a5ac4c0cdeda34070a8af6247269f07d6bf2ad492e541e6376ce825747d8"
     },
     {
       "programId": "thirukkural-journey",
@@ -113,7 +113,7 @@
       "isFeatured": false,
       "priority": 9999,
       "relativePath": "Datasets/Programs/thirukkural-journey.quoteitprogram",
-      "programSha256": "ef6328a29053e98d494d1d0cc441c47e1b93328cd3e55c53867a30bb2434c204"
+      "programSha256": "b21db2e6cd50d430222ea647afe2efd82330cf4698b9fbf2388c02c4e70be868"
     }
   ]
 }

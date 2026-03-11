@@ -1,0 +1,32 @@
+{
+  "sourceId": "sikhGurus",
+  "displayName": "Teachings of the Sikh Gurus",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Teachings of the Sikh Gurus",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Guru Nanak to Guru Gobind Singh",
+  "primaryCategory": null,
+  "subcategory": "Sikh Scripture",
+  "audienceTags": [
+    "tradition:sikh",
+    "genre:guru-teachings",
+    "language:english",
+    "theme:wisdom",
+    "theme:equality",
+    "theme:service"
+  ],
+  "itemCount": 400,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/sikhGurus.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T17:40:19Z",
+  "packageHash": "4d12b0bf1bc6b7366d5ece0cb5cb7560657a158876d1e596c2c67e6bddd79b8f"
+}
