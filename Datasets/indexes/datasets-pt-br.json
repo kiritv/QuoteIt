@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "pt-br",
   "count": 4,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "drummond",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/drummond.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "58bd1818bcbcaea6e97a6f779691272412c1cd96cba8aac0b1aad83c61ee129b"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "d7229775f371c41a346d630122e76e9b263cc7ef15a1389537e1b859b62d54f4"
     },
     {
       "sourceId": "clariceIspector",
@@ -51,8 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/clariceIspector.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "4589aa7ee9e447f3551e12fc6d8666c8653c29a4468b8eeccf74e037b89087cb"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "ef9482d95b953c402aba6aa00d049145ab6db75f6ed1d35fdef1b729f6d289d2"
     },
     {
       "sourceId": "pauloCoelhoPortugues",
@@ -76,8 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/pauloCoelhoPortugues.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "6bb4bcf70262a865a5225345319dc1a9a5e29ed127820876b4bb90876218c725"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "33e78ab21870a92caedfe5cbb4c3e2f6e05f8038b77101f76ff28075ea8149ca"
     },
     {
       "sourceId": "proverbiosBrasileiros",
@@ -101,8 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/proverbiosBrasileiros.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "b8de94954b05e3930d9d63d9f65a48868539f8c1b41c6567c8c9e90ef8e69bcd"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "5d63efb4ae6c6e0427b9c29497192997ead21e5351eae42bed1539ee9143d9e0"
     }
   ]
 }

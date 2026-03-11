@@ -1,0 +1,32 @@
+{
+  "sourceId": "gujaratiBhakti",
+  "displayName": "ગુજરાતી ભક્તિ",
+  "version": "1.0",
+  "languageCode": "gu",
+  "displayNameEnglish": "Gujarati Bhakti — Narsi, Dayaram, Surdas and other saints",
+  "script": "Gujarati",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "Gujarati",
+  "edition": "Vaishnav Bhakti Poetry (Public Domain)",
+  "primaryCategory": null,
+  "subcategory": "Bhakti",
+  "audienceTags": [
+    "language:gu",
+    "script:gujarati",
+    "tradition:hindu",
+    "genre:bhakti",
+    "theme:devotion",
+    "theme:krishna"
+  ],
+  "itemCount": 116,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/gu/gujaratiBhakti.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T23:10:21Z",
+  "packageHash": "8e5439f88f66be343933110691f2ca18dd6933d835f58c951417cb0e856d05ec"
+}

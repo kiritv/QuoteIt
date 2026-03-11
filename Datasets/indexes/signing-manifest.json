@@ -1,63 +1,67 @@
 {
   "formatVersion": 1,
   "algorithm": "ed25519",
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:13:54Z",
   "keyId": "54c7a4b1c1c0a0d4",
   "files": {
     "datasets-ar.json": {
-      "sha256": "8e214dadf94281c2fbea88df665cd7867182fca66d8556edbfe1b2c377b614ec",
+      "sha256": "6d08aadb5a5162b15bbf06c34694f935109a415e8e76ec0dce6312df5d211b10",
       "signatureFile": "datasets-ar.json.sig"
     },
     "datasets-de.json": {
-      "sha256": "c353fb6da59d9f59a2d39c523ef1ec8432e4064daecebdc421db6a2ff596b8b5",
+      "sha256": "72fae0ccac0488392ec11500c22fa2091166e98ba8c7f04f68c9409e84725340",
       "signatureFile": "datasets-de.json.sig"
     },
     "datasets-en.json": {
-      "sha256": "897dd62759b96612e58eef96eae6ec7e312327f7a2446ffc33d97b954550cf55",
+      "sha256": "31450d374e542bb4a8fb8f9371eab4f899ac382a7029538e3d00aee6fb43082c",
       "signatureFile": "datasets-en.json.sig"
     },
     "datasets-es.json": {
-      "sha256": "c32af0813ae8bbd0ab52754780e793608e3f8ce3ae5d95b6ef46f237224807b5",
+      "sha256": "5e1aa133020e0b1dfcb7bf68cbd1380a360c3d0900b6c7b97b2c2996f73d0049",
       "signatureFile": "datasets-es.json.sig"
     },
     "datasets-fr.json": {
-      "sha256": "af7037fcb3d73ace5d3327b4b308784f513cdb4a799aa6f59129fa747b12895e",
+      "sha256": "53b41ccbcf165f4e1172ae779bcbb637be8420adf128a6241de8c66d6f3213de",
       "signatureFile": "datasets-fr.json.sig"
     },
+    "datasets-gu.json": {
+      "sha256": "25327b4f764ef78d6f8d43599a5dbc419e25b8e037d892d9e5141fd5eeb421ee",
+      "signatureFile": "datasets-gu.json.sig"
+    },
     "datasets-hi.json": {
-      "sha256": "d6bf17cafbd085133ef99cc96e426654bff07f03d2b272a7b3cc45b278eaa936",
+      "sha256": "5d4b5c865399f90378661ea5df3550754ecf0456a183f6af2d7331cba085e85f",
       "signatureFile": "datasets-hi.json.sig"
     },
     "datasets-id.json": {
-      "sha256": "921a12d2d7427a3befa36403f7ccc52990ed1cba5d499b1e3bb5cf7824dc0b44",
+      "sha256": "5d47ee1bba9c18c278955f094d2158f3eae1116bb5baf56c6c1d72f7e5ad65ad",
       "signatureFile": "datasets-id.json.sig"
     },
     "datasets-ja.json": {
-      "sha256": "db8d792ce9e7899ae8ba4d12a2075800e748ca15c69f95a0c03f62474dfd9a23",
+      "sha256": "574657200f0361484f2105e14c248715970fb01f363d1c02e54f20f31e291946",
       "signatureFile": "datasets-ja.json.sig"
     },
     "datasets-pa.json": {
-      "sha256": "690941935c01ecd7af3ccf62674a08f93511b8aea21198136c144b711985cd64",
+      "sha256": "ecffbeb3164c4c95ee85cbc345d235420b89fbcc7446254e616877718ce70170",
       "signatureFile": "datasets-pa.json.sig"
     },
     "datasets-pt-br.json": {
-      "sha256": "c1b2a3b1c7b6916290bfa69167d6760c3add638d8778e1ac8bbe7dcd77a21cc4",
+      "sha256": "bdc7e472b51f383a9463d1c85adaf7d46f078050bc427160fdcdf84fc8521adc",
       "signatureFile": "datasets-pt-br.json.sig"
     },
     "datasets-pt.json": {
-      "sha256": "f473c5ac3463c86306831f9423efce9b68d4d29380b042bc521e861cf272bd0f",
+      "sha256": "c6afb2622cfdd67060fa70daecb7ed5493670904a3bb7e841a02ddd61ec5cd0b",
       "signatureFile": "datasets-pt.json.sig"
     },
     "datasets-tr.json": {
-      "sha256": "4e4dad7d092e57fe2e68f0f2da229a2abbaf5092cde382ad917ae3dbc9321bd7",
+      "sha256": "63e5e3f8fe222bee025d2ae66851b23557079db39545d8132a89c0f3ec6bbad6",
       "signatureFile": "datasets-tr.json.sig"
     },
     "datasets-ur.json": {
-      "sha256": "64cc4ba0c2c4ce3b0b3432aff9aa8b2b5a26276ea98e4aa04e1beeccc199e23e",
+      "sha256": "9771c49355e7e3f79d877e266ebf8dfc03be65ca8e7968a24f0939f272dfcbb1",
       "signatureFile": "datasets-ur.json.sig"
     },
     "index-manifest.json": {
-      "sha256": "a11d8049265c7e8362be8778b560c5115104d12bcc32aef173cdd418d45fd459",
+      "sha256": "be70875d3cbf7c2881165997ca40c87b02f95590b6c19cd107160ce690707076",
       "signatureFile": "index-manifest.json.sig"
     },
     "packs-ar.json": {

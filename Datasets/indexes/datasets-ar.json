@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "ar",
   "count": 5,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "hadithExpanded",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/hadithExpanded.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "1d00bcd609bd556a50265f5760214453eec604af6717e1d1fd5e6f2673ee824c"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "7abe478143d064dfe54b8a517f3218bb0075f668a66b881dd41ddb00e0c9f064"
     },
     {
       "sourceId": "arabicProverbs",
@@ -51,8 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/arabicProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "ee95412281413348b572218f2253289ca134f058177c46ba16c367c75b231978"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "dd6be8d2729707307e811b1c9e9e8cefdda8f6cd702ff7501d347e655b5e47db"
     },
     {
       "sourceId": "shaerArabiKlasiki",
@@ -76,8 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaerArabiKlasiki.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "78e0e699a44e46a405c7130f28139e7fb38f59d0af39f7b89fd36e337fc7072c"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "44c0a28becaee436fbedf92a021b0e748b880e2d3b0f3d0227c16aa90bd8d504"
     },
     {
       "sourceId": "gibranArabi",
@@ -101,8 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/gibranArabi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "e3c25373e7f05461cd0c59f522ed066c997351ef3566cd2b2296eff93893ea19"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "90da57881dc23daa1d3c15e0dd39d7e54f13d39f8dc625ffd1ac7d45c0cfbf27"
     },
     {
       "sourceId": "shaeraMuassirun",
@@ -126,8 +126,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaeraMuassirun.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "2044fb63407cf00cf0f9324534d2abe4d7928097231f77f3a14bcadcccea6762"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "22a920dd85515c6525ac5b62963a989774c466950b76a2c3d314949a55157661"
     }
   ]
 }

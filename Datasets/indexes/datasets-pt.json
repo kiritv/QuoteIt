@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "pt",
   "count": 1,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "fernandoPessoa",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt/fernandoPessoa.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "29d020484983cef71fa0843161820faba22aceb828f9354d19f945119907c9dc"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "0e092e53e6601468046fd047298d782df1fda6f479bab3eb33b9a009656be978"
     }
   ]
 }

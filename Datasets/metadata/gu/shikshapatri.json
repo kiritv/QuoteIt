@@ -1,0 +1,32 @@
+{
+  "sourceId": "shikshapatri",
+  "displayName": "શિક્ષાપત્રી",
+  "version": "1.0",
+  "languageCode": "gu",
+  "displayNameEnglish": "Shikshapatri — Swaminarayan",
+  "script": "Gujarati",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Gujarati",
+  "edition": "Swaminarayan Dharma Scripture",
+  "primaryCategory": null,
+  "subcategory": "Swaminarayan",
+  "audienceTags": [
+    "language:gu",
+    "script:gujarati",
+    "tradition:swaminarayan",
+    "genre:shikshapatri",
+    "theme:dharma",
+    "theme:conduct"
+  ],
+  "itemCount": 212,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/gu/shikshapatri.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T23:10:21Z",
+  "packageHash": "04f77066c9e583f0972ea08d25bff97bc63b413bc88a1f7734c3d4c4491f96dc"
+}

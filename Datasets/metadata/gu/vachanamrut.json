@@ -1,0 +1,32 @@
+{
+  "sourceId": "vachanamrut",
+  "displayName": "વચનામૃત",
+  "version": "1.0",
+  "languageCode": "gu",
+  "displayNameEnglish": "Vachanamrut — Swaminarayan",
+  "script": "Gujarati",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Gujarati",
+  "edition": "Swaminarayan Scripture (Gujarati)",
+  "primaryCategory": null,
+  "subcategory": "Swaminarayan",
+  "audienceTags": [
+    "language:gu",
+    "script:gujarati",
+    "tradition:swaminarayan",
+    "genre:vachanamrut",
+    "theme:bhakti",
+    "theme:dharma"
+  ],
+  "itemCount": 500,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/gu/vachanamrut.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T23:10:21Z",
+  "packageHash": "dc8cef61f1d428fd1a8e87275aa2944b1e06f6a08a3b743778abce43f5370958"
+}

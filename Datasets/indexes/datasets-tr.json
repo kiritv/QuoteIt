@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "tr",
   "count": 4,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "mevlanaTurkce",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/mevlanaTurkce.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "1e5d7c0a89e57a0cd192c59f71f7038b7723476d9d0dfdb8accc463eff86f2dd"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "5aca16cef27ab862cdf4c88d0647e4636862cd28576a8ae8c46267924e88519e"
     },
     {
       "sourceId": "nazimHikmet",
@@ -51,8 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/nazimHikmet.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "c0ad5775f64ea2eef03b2a4f3c4bb8e1dabf5bc1a2b4e437f959135295e6ff59"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "ae79118bc78556995d7db6a0764501c804212d4da09bacac1197882a3816f528"
     },
     {
       "sourceId": "turkAtasozleri",
@@ -76,8 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/turkAtasozleri.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "1514ca4fd7485b82185bf3ee6144e383f5c4df6d779070e3171ea3018541e26f"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "5d2d6a75a0e7d1573b237e880a76ec2486641400ba012e0ca6953435c350427b"
     },
     {
       "sourceId": "turkEdebiyati",
@@ -101,8 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/turkEdebiyati.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "4627556161f5c1087c0a56b759993723ae5a290fd3d7079b2993e9f253e39c1e"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "8cf8c0edcc49313ac283a330aabde3c09ddadb4bcf2d8b61f2110f8d98a41572"
     }
   ]
 }

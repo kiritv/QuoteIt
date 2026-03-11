@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "id",
   "count": 3,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "kataMutiaraMelayu",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/id/kataMutiaraMelayu.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "a54296a372702d47675c65d88791df28e46e88a277e9590f3891a959ceba7552"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "6fad7a8cdde33f71a30ee407cf544d473238a1f363e33f5b6f4c98ffa3bec2b0"
     },
     {
       "sourceId": "peribahasaIndonesia",
@@ -51,8 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/id/peribahasaIndonesia.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "256f608bd24ea94d9c0cd291423272fab806ef24b7b8202be60bf105cf524d6c"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "d4fa4a1a181da2ff361ceb0a381e60e18660cdcb63f080bea78af8b30a2d49b4"
     },
     {
       "sourceId": "tokohIndonesia",
@@ -76,8 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/id/tokohIndonesia.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "cd69dcad6fefb336a4b51f67c551b09f91343fbc0fc8a0a5ff8c159857ffc03c"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "113572f31aed9263b866b1a9f5a29370f09642bc627091a60c60de004ef4dad6"
     }
   ]
 }

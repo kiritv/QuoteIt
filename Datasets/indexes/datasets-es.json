@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "es",
   "count": 5,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "filosofiaEnEspanol",
@@ -26,8 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/filosofiaEnEspanol.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "86585cb67ec1801297f0efd50de3cc7ea27ccf071629283e7d975901612fb579"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "8055a4c585dd2d273932bfc2508ae0c0e4626e323ad091d034df96bd3f74d900"
     },
     {
       "sourceId": "fridaKahloEspanol",
@@ -51,8 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/fridaKahloEspanol.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "30796bf61212d98891f55ebc58999f75b29b714a560b07065d3e4c28afcd36a0"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "57fdb9f84f7439b5c51291252d1a3a42ad8a861a099cd5c3db93586821d4e1f3"
     },
     {
       "sourceId": "poetasLatinoamericanos",
@@ -76,8 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/poetasLatinoamericanos.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "733f0f5f1bed3499025001c28a67fdda72993ec30e4280e29b1ec51f35856ba2"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "55dd970709cad8de1ae67688565a32ce1101d80e10fa3164367cd767a0be3f58"
     },
     {
       "sourceId": "proverbiosHispanicos",
@@ -101,8 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/proverbiosHispanicos.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "19a688d9dee8ce3a03737654bcd296c3d7ba6f6e43e754d48c15dfdcdd11bd33"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "a2207297fd20eb7979a82a744973d10fde43ed8a1eb905a28da27f0a2d332425"
     },
     {
       "sourceId": "modernasVocesLatinas",
@@ -126,8 +126,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/modernasVocesLatinas.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "f504dee713baf968cc3b810072c5ca4eea5f968b318ff0796226f54514e598cb"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "4846eb2d58245ef0380f3f7fa904f88f5799811fcb6ef93a3cef49fec6682d69"
     }
   ]
 }

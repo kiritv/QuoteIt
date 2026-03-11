@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "ja",
   "count": 4,
-  "generatedAt": "2026-03-11T17:40:19Z",
+  "generatedAt": "2026-03-11T23:10:21Z",
   "items": [
     {
       "sourceId": "bashoHaiku",
@@ -30,8 +30,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/bashoHaiku.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "d6e189dba6b574b4108700ab5b759668622e295689f94eca723d814d3015fae3"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "e884bfa482dab541ba08cf4f2a0788c377bde44c8ac34bedc2091ff0e4e1db2f"
     },
     {
       "sourceId": "bushidoWisdom",
@@ -60,8 +60,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/bushidoWisdom.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "c1fe355afd353ca543650a6d5838c8ab70e8bb819c12d4b2e2741a83476fd780"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "47e294d9d1195530b2873048b3c03728d66623415dc80f26c5e838af7a154571"
     },
     {
       "sourceId": "modernJapanese",
@@ -90,8 +90,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/modernJapanese.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "e06e3f488b31dd68ce83d8bfdc9611c91e1ecc0713b1206a81a44c21b0d46d95"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "f7b13a76fc4ff05b2e8236faddce0eacbd3439ac5959540e31cbaa423ada0323"
     },
     {
       "sourceId": "zenJapanese",
@@ -120,8 +120,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/zenJapanese.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T17:40:19Z",
-      "packageHash": "ee34e3feeb1cecbef38803f8215bac5596dec25d221ac75a865986090474f7c6"
+      "generatedAt": "2026-03-11T23:10:21Z",
+      "packageHash": "3e3d3eed10e5be7f0472d93f24471fa53d2b018ae5ddd5c26a14bde7d4b4e86d"
     }
   ]
 }
