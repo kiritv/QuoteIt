@@ -1,0 +1,27 @@
+{
+  "sourceId": "gibranProphet",
+  "displayName": "The Prophet (Kahlil Gibran)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Kahlil Gibran, 1923 (Public Domain)",
+  "primaryCategory": null,
+  "subcategory": "Spiritual Literature",
+  "audienceTags": [
+    "literature",
+    "reflection"
+  ],
+  "itemCount": 30,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/gibranProphet.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

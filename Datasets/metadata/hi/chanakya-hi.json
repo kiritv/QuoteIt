@@ -1,0 +1,31 @@
+{
+  "sourceId": "chanakya-hi",
+  "displayName": "चाणक्य नीति",
+  "version": "1.0",
+  "languageCode": "hi",
+  "displayNameEnglish": "Chanakya Niti — Hindi",
+  "script": "Devanagari",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Hindi",
+  "edition": "Public Domain & Curated / Hindi Wikiquote",
+  "primaryCategory": null,
+  "subcategory": "Hindi Wisdom",
+  "audienceTags": [
+    "language:hi",
+    "script:devanagari",
+    "tradition:chanakya",
+    "tradition:hindi",
+    "theme:wisdom",
+    "theme:statecraft"
+  ],
+  "itemCount": 349,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/hi/chanakya-hi.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

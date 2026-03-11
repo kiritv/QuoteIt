@@ -1,0 +1,31 @@
+{
+  "sourceId": "latinAmericanVoices",
+  "displayName": "Latin American Voices",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Latin American Voices",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Wikiquote Verified & Public Domain Sources",
+  "primaryCategory": null,
+  "subcategory": "Latin American",
+  "audienceTags": [
+    "tradition:latinAmerican",
+    "theme:wisdom",
+    "theme:love",
+    "theme:storytelling",
+    "audience:morning",
+    "audience:inspiration"
+  ],
+  "itemCount": 869,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/latinAmericanVoices.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

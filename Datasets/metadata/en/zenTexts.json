@@ -1,0 +1,31 @@
+{
+  "sourceId": "zenTexts",
+  "displayName": "Zen Masters",
+  "version": "2.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Zen Masters",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified & Public Domain Translations",
+  "primaryCategory": null,
+  "subcategory": "Zen Buddhism",
+  "audienceTags": [
+    "tradition:zen",
+    "tradition:buddhism",
+    "theme:mindfulness",
+    "theme:impermanence",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 1100,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/zenTexts.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

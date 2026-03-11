@@ -1,0 +1,29 @@
+{
+  "sourceId": "deutscheSprichwoerter",
+  "displayName": "Deutsche Sprichwörter",
+  "version": "1.0",
+  "languageCode": "de",
+  "displayNameEnglish": "German Proverbs",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "German",
+  "edition": "Deutsche Sprichwörter & Volksweisheit",
+  "primaryCategory": null,
+  "subcategory": "German",
+  "audienceTags": [
+    "language:de",
+    "genre:proverb",
+    "tradition:german",
+    "theme:wisdom"
+  ],
+  "itemCount": 500,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutscheSprichwoerter.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

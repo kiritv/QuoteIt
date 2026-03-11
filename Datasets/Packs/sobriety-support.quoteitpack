@@ -1,0 +1,13 @@
+{
+  "ciphertext": "rxxYcU0SAl5Et/bT8aQXu9dFZe/gTSXLEK8u4Uwzy7y/CBFXNopGY91j45GtR0iJayZxZlFcXmGY5D7EDmoVDQtxNJ2jaWbZUOUxRAfKj8ec1i+9tbJmt+URZ7AkYOO1BGiK1Cp6qFqXpXFPVo5Oab1LgowTxtvg0stwFnzYnGmyQLS4jOiubrEGJuJouT87C5hDRZGZnHoJs5gPTfzdvsfqjxRX3xniCUScWI/RMIeWxixZB81G1odv+WODzUjnbf53HG0hqLN6qNcLTBq4HdEspHDekFTeMndFX9PjQq27n4E1JYhauL6inQTkIN5K0NIQA9WV83p3toKO81TdoENWyDsdURXbF520WfDV2obj+CEUKYDkBwtWrV/0yshe6IP0pRowYsj5TPC0o8ZAGV4zVXXSUKvWxQI8jjjbKqwKlg56BBk=",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Sobriety Support",
+    "packId": "sobriety-support"
+  },
+  "nonce": "43zI+m4jUa88dsvd",
+  "tag": "jU4wSQCoGSKNNWd+0RPAGw=="
+}

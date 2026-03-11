@@ -1,0 +1,32 @@
+{
+  "kind": "packs",
+  "language": "ar",
+  "count": 2,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "packId": "sufi-poetry-heart",
+      "displayName": "Sufi Poetry Heart",
+      "languageCode": "ar",
+      "audience": "Poetry and devotional readers",
+      "objective": "Heart-centered reflection and inner depth",
+      "estimatedItemCount": 3568,
+      "isFeatured": true,
+      "priority": 7,
+      "relativePath": "Datasets/Packs/sufi-poetry-heart.quoteitpack",
+      "packSha256": "cab7303fe063d189d2cde1952598bfff7ce3bba354d629665936b77a7d764d8c"
+    },
+    {
+      "packId": "arabic-heritage",
+      "displayName": "Arabic Heritage",
+      "languageCode": "ar",
+      "audience": "Arabic readers",
+      "objective": "Classical and modern Arabic wisdom and poetry",
+      "estimatedItemCount": 893,
+      "isFeatured": true,
+      "priority": 12,
+      "relativePath": "Datasets/Packs/arabic-heritage.quoteitpack",
+      "packSha256": "7e223cd080afcda80cbcebdbf4f23542ed7a896f6349ad648854f9319793fb7d"
+    }
+  ]
+}

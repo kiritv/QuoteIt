@@ -1,0 +1,70 @@
+{
+  "kind": "datasets",
+  "language": "ur",
+  "count": 2,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "sourceId": "faiz-ur",
+      "displayName": "فیض احمد فیض",
+      "version": "1.0",
+      "languageCode": "ur",
+      "displayNameEnglish": "Faiz Ahmed Faiz — Selected Poems",
+      "script": "Nastaliq",
+      "isRTL": true,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "Urdu",
+      "edition": "Public Domain & Curated / Hindi Wikiquote",
+      "primaryCategory": null,
+      "subcategory": "Urdu Poetry",
+      "audienceTags": [
+        "language:ur",
+        "script:nastaliq",
+        "tradition:urdu",
+        "theme:hope",
+        "theme:justice",
+        "theme:love"
+      ],
+      "itemCount": 30,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "sequence",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ur/faiz-ur.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T01:50:42Z"
+    },
+    {
+      "sourceId": "ghalib-ur",
+      "displayName": "ग़ालिब ग़ज़लें",
+      "version": "1.0",
+      "languageCode": "ur",
+      "displayNameEnglish": "Mirza Ghalib — Ghazals",
+      "script": "Nastaliq",
+      "isRTL": true,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "Urdu",
+      "edition": "Public Domain & Curated / Hindi Wikiquote",
+      "primaryCategory": null,
+      "subcategory": "Urdu Poetry",
+      "audienceTags": [
+        "language:ur",
+        "script:nastaliq",
+        "tradition:urdu",
+        "theme:love",
+        "theme:poetry",
+        "theme:wisdom"
+      ],
+      "itemCount": 61,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "sequence",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ur/ghalib-ur.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T01:50:42Z"
+    }
+  ]
+}

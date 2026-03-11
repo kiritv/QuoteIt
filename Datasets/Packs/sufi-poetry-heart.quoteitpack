@@ -1,0 +1,13 @@
+{
+  "ciphertext": "6ddiEDRgcQUNu/kLbwDYpw635zAAtTj0Ni05aGjD25toq6TmCfnA2HMermgfEnXRnaYQI5Li6go2Oh0mQsvVnikVXgGlLqzJOWnxvl7HqH6LFGlOAD4TZr0YgHQTn56sGpHzB7aPE23UzUJd0Bf+0XK/PaiZob7A8ARdcLzXXWyLnZXlTj+nazDYPtawPsS/crNvIiES49ld1ook8tZmwIIw9UOHxpGcNI9ozGU08EC5qkyX3Jptnr9m2isFTeW0Wz11ZB/myru5JNizEMZc6Pc6tiY73fsUVrcQ7+1O470aiKfDCjZ2yQHbBQTCg3eSBZqRYn8Im8lepAZ6XL+s4sjZnqD8C+ssGciwcr/duhNmZke14640D5ZPbtsFqXWuXeaAzfb3ADf1kEKgFkaA3x3a/xr85Oz29ux+8cnUD/VsBrhe3O0i8z6Ins76AE8PgvfV34p0re5px7VdjmqnfSk14jSdpw3Fw7g=",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Sufi Poetry Heart",
+    "packId": "sufi-poetry-heart"
+  },
+  "nonce": "8SeWaL4Ppui/2mQc",
+  "tag": "8bwd4+pvsHJg/9qaNgWBgg=="
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "packs",
+  "language": "es",
+  "count": 1,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "packId": "latin-voices",
+      "displayName": "Latin Voices",
+      "languageCode": "es",
+      "audience": "Spanish and Latin American readers",
+      "objective": "Poetic and philosophical voices from Latin America",
+      "estimatedItemCount": 1785,
+      "isFeatured": true,
+      "priority": 10,
+      "relativePath": "Datasets/Packs/latin-voices.quoteitpack",
+      "packSha256": "3ddc14b32e519e8bc6317fe4ca376200bd8e17dff451db670be9d8d1ae8d7830"
+    }
+  ]
+}

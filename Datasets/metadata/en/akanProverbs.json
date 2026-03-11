@@ -1,0 +1,28 @@
+{
+  "sourceId": "akanProverbs",
+  "displayName": "Akan Proverbs",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Akan Proverbs",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Christaller, Rattray & Burton Collections",
+  "primaryCategory": null,
+  "subcategory": "African",
+  "audienceTags": [
+    "tradition:animism",
+    "theme:wisdom",
+    "theme:truth"
+  ],
+  "itemCount": 167,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/akanProverbs.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

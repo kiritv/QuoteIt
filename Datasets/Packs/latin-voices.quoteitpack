@@ -1,0 +1,13 @@
+{
+  "ciphertext": "qc9J2TCmvgeSDyV3g1wQSWmUArtmV793voIZWWZ4qvNR8KLH+o4fviHIWXxVpF6uNBsz3hRb0acW68csMaYTQbBnYJ6ARPBeXrv2Sw1dXm3slgbyjKdA76gDJbaUQpcLZCJbwdg6oHy04pN/pNdyeHIzffIqCzKUF63Wp8arkjG1c/zDd0zL5RjknwqDJ7uSvCFRls+ANUnWWXziLEkhYrckULytGoWXx4Qilc4Xc7BO/PDPNQZDatWHuOlwAj2P19SXr4NCoCUp2KynoI7DUULXLbF7cKP090geY4/9H9vdbRwAmNQAuaQnCmnOswGUPpsW2QbdXU0ufizccTWh1ccxj66ieRPWq6ZCmUaRoH/begEKkYRgK1ASv0QI64qlMeaTNMcRIL6cMoBC50JAwhETyPGyh64Yv9d1DJvGode/aFYWc+rnM2QQgyLjr9QyK5MVh0TAXUoirsidokBxkNcRM+yVmb65KrS3mPoMm57ZaUrLg1NtSdzEfE0D6xLoEWw5hQHyHQ==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Latin Voices",
+    "packId": "latin-voices"
+  },
+  "nonce": "rW0YcpXaI3z72YaA",
+  "tag": "n1U+e643swaMebzHXyKRFQ=="
+}

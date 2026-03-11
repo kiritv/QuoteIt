@@ -1,0 +1,27 @@
+{
+  "sourceId": "bookOfFiveRings",
+  "displayName": "Book of Five Rings (Musashi)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Public Domain Translation",
+  "primaryCategory": null,
+  "subcategory": "Strategy",
+  "audienceTags": [
+    "strategy",
+    "discipline"
+  ],
+  "itemCount": 30,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/bookOfFiveRings.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

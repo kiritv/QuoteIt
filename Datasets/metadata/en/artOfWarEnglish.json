@@ -1,0 +1,27 @@
+{
+  "sourceId": "artOfWarEnglish",
+  "displayName": "The Art of War",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Lionel Giles Translation",
+  "primaryCategory": null,
+  "subcategory": "Strategy",
+  "audienceTags": [
+    "strategy",
+    "leadership"
+  ],
+  "itemCount": 381,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/artOfWarEnglish.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

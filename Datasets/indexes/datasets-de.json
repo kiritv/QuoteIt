@@ -1,0 +1,67 @@
+{
+  "kind": "datasets",
+  "language": "de",
+  "count": 2,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "sourceId": "deutschePhilosophen",
+      "displayName": "Deutsche Philosophen",
+      "version": "1.0",
+      "languageCode": "de",
+      "displayNameEnglish": "German Philosophers",
+      "script": "Latin",
+      "isRTL": false,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "German",
+      "edition": "Goethe, Schiller, Kant, Nietzsche & More",
+      "primaryCategory": null,
+      "subcategory": "German Philosophy",
+      "audienceTags": [
+        "language:de",
+        "genre:philosophy",
+        "theme:reason",
+        "theme:freedom",
+        "tradition:german-idealism"
+      ],
+      "itemCount": 1000,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "author",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutschePhilosophen.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T01:50:42Z"
+    },
+    {
+      "sourceId": "deutscheSprichwoerter",
+      "displayName": "Deutsche Sprichwörter",
+      "version": "1.0",
+      "languageCode": "de",
+      "displayNameEnglish": "German Proverbs",
+      "script": "Latin",
+      "isRTL": false,
+      "transliterationAvailable": false,
+      "contentRating": "general",
+      "language": "German",
+      "edition": "Deutsche Sprichwörter & Volksweisheit",
+      "primaryCategory": null,
+      "subcategory": "German",
+      "audienceTags": [
+        "language:de",
+        "genre:proverb",
+        "tradition:german",
+        "theme:wisdom"
+      ],
+      "itemCount": 500,
+      "supportsRandom": true,
+      "supportsBrowse": true,
+      "browseOrder": "sequence",
+      "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutscheSprichwoerter.quoteit",
+      "isFeatured": false,
+      "priority": 9999,
+      "generatedAt": "2026-03-11T01:50:42Z"
+    }
+  ]
+}

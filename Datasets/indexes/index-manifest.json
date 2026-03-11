@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "files": {
+    "datasets": [
+      "datasets-ar.json",
+      "datasets-de.json",
+      "datasets-en.json",
+      "datasets-es.json",
+      "datasets-fr.json",
+      "datasets-hi.json",
+      "datasets-id.json",
+      "datasets-ja.json",
+      "datasets-pt-br.json",
+      "datasets-pt.json",
+      "datasets-tr.json",
+      "datasets-ur.json"
+    ],
+    "packs": [
+      "packs-ar.json",
+      "packs-en.json",
+      "packs-es.json",
+      "packs-fa.json",
+      "packs-hi.json",
+      "packs-pt.json",
+      "packs-ur.json"
+    ],
+    "programs": [
+      "programs-en.json"
+    ]
+  }
+}

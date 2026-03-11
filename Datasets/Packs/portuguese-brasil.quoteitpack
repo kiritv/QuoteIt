@@ -1,0 +1,13 @@
+{
+  "ciphertext": "unpcAUqu2J3uchefz0k8SoiH8usqUtx+8OCRO4Yv6WE3P4XAEggURzhfnsWpgM5Ps3UvM/AlfB+q0WYx9QJd6r5h6C0EIZ71VvHN9OQPxwc6ZkIMcBJls4PW9iD9QHdAiJXB4+NjJjnb7Zd7+88GV/SRmoQIUwIYm+yo9O3+aENeosEVy1xYQxykvolXTnNmx8SV34i1fo+RrB83B6UCawTgHw6F4ZdgFhtBsnggbPM+mfx7Crbla3p5meb8EPCTcwrFgw13fT2fz2IpN9l3TKIi8XrpNEAZtOsB2wg06lkLHSw86om2HAZ37Y0I4Rz/v/bzjuMznO9RIJkpw2QnfhCFga89q0OqIhoUeJdfwopZ9POMaJR3doDqS1IbUfY6fjA1k3vSCbBfamBJuBGYZIwDgWZj7gDuJt0VWTmL/gSMHAsWehKgTCkfsowXai86isgTgNBQ7tuQSTTlNtLce1Vydz4shIQaXkw7JRvVTklC6QQGJ14TtT5oGzYcw+CfVsUWntvVp95x8kjWktQG",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Portuguese Brasil",
+    "packId": "portuguese-brasil"
+  },
+  "nonce": "EfRNUofoEyxcGKoN",
+  "tag": "KJMx2rbc9UDFtpqfjq0UAQ=="
+}

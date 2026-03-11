@@ -1,0 +1,30 @@
+{
+  "sourceId": "tirukural",
+  "displayName": "Tirukural",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Tirukural",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "G.U. Pope Translation, 1886",
+  "primaryCategory": null,
+  "subcategory": "Tamil Classical",
+  "audienceTags": [
+    "tradition:hindu",
+    "tradition:tamil",
+    "theme:wisdom",
+    "theme:ethics",
+    "audience:inspiration"
+  ],
+  "itemCount": 1330,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/tirukural.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

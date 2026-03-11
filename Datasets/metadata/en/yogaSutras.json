@@ -1,0 +1,30 @@
+{
+  "sourceId": "yogaSutras",
+  "displayName": "Yoga Sutras of Patanjali",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Yoga Sutras of Patanjali",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Johnston Translation, 1912",
+  "primaryCategory": null,
+  "subcategory": "Yoga",
+  "audienceTags": [
+    "tradition:hindu",
+    "tradition:yoga",
+    "theme:meditation",
+    "theme:consciousness",
+    "audience:spiritual"
+  ],
+  "itemCount": 193,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/yogaSutras.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

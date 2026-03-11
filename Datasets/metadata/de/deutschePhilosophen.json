@@ -1,0 +1,30 @@
+{
+  "sourceId": "deutschePhilosophen",
+  "displayName": "Deutsche Philosophen",
+  "version": "1.0",
+  "languageCode": "de",
+  "displayNameEnglish": "German Philosophers",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "German",
+  "edition": "Goethe, Schiller, Kant, Nietzsche & More",
+  "primaryCategory": null,
+  "subcategory": "German Philosophy",
+  "audienceTags": [
+    "language:de",
+    "genre:philosophy",
+    "theme:reason",
+    "theme:freedom",
+    "tradition:german-idealism"
+  ],
+  "itemCount": 1000,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutschePhilosophen.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

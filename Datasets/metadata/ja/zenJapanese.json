@@ -1,0 +1,29 @@
+{
+  "sourceId": "zenJapanese",
+  "displayName": "禅の言葉",
+  "version": "1.0",
+  "languageCode": "ja",
+  "displayNameEnglish": "Zen Masters — Japanese",
+  "script": "CJK",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "Japanese",
+  "edition": "Dogen, Hakuin, Bankei & Classical Masters",
+  "primaryCategory": null,
+  "subcategory": "Zen",
+  "audienceTags": [
+    "tradition:zen",
+    "tradition:buddhist",
+    "theme:mindfulness",
+    "theme:awakening"
+  ],
+  "itemCount": 80,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/zenJapanese.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

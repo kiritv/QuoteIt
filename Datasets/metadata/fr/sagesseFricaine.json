@@ -1,0 +1,29 @@
+{
+  "sourceId": "sagesseFricaine",
+  "displayName": "Sagesse Africaine",
+  "version": "1.0",
+  "languageCode": "fr",
+  "displayNameEnglish": "Francophone African Wisdom",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "French",
+  "edition": "Senghor, Césaire, Hampâté Bâ & Negritude Voices",
+  "primaryCategory": null,
+  "subcategory": "Francophone Africa",
+  "audienceTags": [
+    "language:fr",
+    "tradition:african",
+    "theme:identity",
+    "theme:negritude"
+  ],
+  "itemCount": 600,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/sagesseFricaine.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

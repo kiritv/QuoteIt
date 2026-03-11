@@ -1,0 +1,31 @@
+{
+  "sourceId": "tibetanBuddhism",
+  "displayName": "Tibetan Wisdom",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Tibetan Wisdom",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified & Evans-Wentz Translation",
+  "primaryCategory": null,
+  "subcategory": "Tibetan Buddhism",
+  "audienceTags": [
+    "tradition:buddhism",
+    "tradition:tibetan",
+    "theme:liberation",
+    "theme:compassion",
+    "audience:meditation",
+    "audience:morning"
+  ],
+  "itemCount": 268,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/tibetanBuddhism.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

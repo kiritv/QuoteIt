@@ -1,0 +1,31 @@
+{
+  "sourceId": "kabir-hi",
+  "displayName": "कबीर दोहे",
+  "version": "1.0",
+  "languageCode": "hi",
+  "displayNameEnglish": "Kabir Dohas — Hindi",
+  "script": "Devanagari",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "Hindi",
+  "edition": "Public Domain & Curated / Hindi Wikiquote",
+  "primaryCategory": null,
+  "subcategory": "Hindi Wisdom",
+  "audienceTags": [
+    "language:hi",
+    "script:devanagari",
+    "tradition:bhakti",
+    "tradition:hindi",
+    "theme:wisdom",
+    "theme:devotion"
+  ],
+  "itemCount": 92,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/hi/kabir-hi.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

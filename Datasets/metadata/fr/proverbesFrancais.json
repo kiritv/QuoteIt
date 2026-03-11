@@ -1,0 +1,29 @@
+{
+  "sourceId": "proverbesFrancais",
+  "displayName": "Proverbes Français",
+  "version": "1.0",
+  "languageCode": "fr",
+  "displayNameEnglish": "French Proverbs",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "French",
+  "edition": "Proverbes Traditionnels Français",
+  "primaryCategory": null,
+  "subcategory": "French",
+  "audienceTags": [
+    "language:fr",
+    "genre:proverb",
+    "tradition:french",
+    "theme:wisdom"
+  ],
+  "itemCount": 210,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/proverbesFrancais.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "modernAfricanVoices",
+  "displayName": "Modern African Voices",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Modern African Voices",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Mandela, Adichie, Achebe, Tutu, Maathai & More",
+  "primaryCategory": null,
+  "subcategory": "African",
+  "audienceTags": [
+    "tradition:secular",
+    "theme:justice",
+    "theme:leadership",
+    "theme:resilience"
+  ],
+  "itemCount": 614,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/modernAfricanVoices.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

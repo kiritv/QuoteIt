@@ -1,0 +1,30 @@
+{
+  "sourceId": "vivekanandaWisdom",
+  "displayName": "Swami Vivekananda",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Swami Vivekananda",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified",
+  "primaryCategory": null,
+  "subcategory": "Vedanta",
+  "audienceTags": [
+    "tradition:hindu",
+    "tradition:vedanta",
+    "theme:philosophy",
+    "theme:spirituality",
+    "audience:inspiration"
+  ],
+  "itemCount": 226,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/vivekanandaWisdom.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

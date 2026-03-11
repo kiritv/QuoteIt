@@ -1,0 +1,28 @@
+{
+  "sourceId": "bashoHaiku",
+  "displayName": "松尾芭蕉 俳句",
+  "version": "1.0",
+  "languageCode": "ja",
+  "displayNameEnglish": "Haiku Masters — Japanese",
+  "script": "CJK",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Japanese",
+  "edition": "Basho, Buson, Issa & Shiki",
+  "primaryCategory": null,
+  "subcategory": "Haiku",
+  "audienceTags": [
+    "tradition:japanese",
+    "genre:haiku",
+    "theme:nature"
+  ],
+  "itemCount": 108,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/bashoHaiku.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

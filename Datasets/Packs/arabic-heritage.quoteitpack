@@ -1,0 +1,13 @@
+{
+  "ciphertext": "ImO/0oBNpHPcQzZUFXi/Z2Bi5yLtntBkIjIwCavEAqOZni/nC6n2WMiLqPJZM9T1qPsXxJrhHWL5boS6DiByr/2zq+Y6DJcNN7R0s1KKDKD0oT17ff40WxhIs9DprcbK5OWPVKUmvvtVJblnUekjQNG32o6c3npMDcegTzQISbOBzaC7/9nvRqN4vD+n5/BbtW44y4HI3VZmQPZUjvpR2KtcqbycHMS+/SGybWessUlTXpqDzIYv4SBVyvThuARsFxgyd4Q8Ua3xOnRpAbqD7OcpGqyBLzAm8RLTsbgJl62QQkX5BqnGl92osK/b+TUgQNLVCBYMAdpofNv4+m+imdkyWkywxZ5+w31e8m81cXYjD8wz4+yCApmlIQ2dO1H5B5hVADly5x9p7+rHnxLqpqupZzzPwDtynRcR0scXwXyhq3e4nh8nDc1O0pSlgpnG6XIKCVQH+I5q7gDLEN1DimbrZAg=",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Arabic Heritage",
+    "packId": "arabic-heritage"
+  },
+  "nonce": "AyhXpDvtnZ+sVJo5",
+  "tag": "bVRnHd3IrH5RyILtSsDREw=="
+}

@@ -1,0 +1,13 @@
+{
+  "ciphertext": "WAz9kX/mF6/Ri92GjmrfWWC77RdQhTnKPOWN4M2bSODNArBe9cYYmQtcIeh91aa/PMOQVpMw3/6UuhgToE2KCna20VwR8/DtSlc3t0a7XpZ500c8a9Gok8ZRFxKkgkkY5ZeEl6r2OnuZYqi5rWtCjzequBkAo0SCU/JZ4hPI9QJF9UkDfshgVVuf/WDfJjdFIFk20yQxS7VSACLzbed1SjjWl1fQrpKweSane5/O/l7XFi1b9Jk74rwoAbxza6Txl6/ShCkeWbqpwN5heJFK4eSuBjwFymLImEKNG27SOIPTXtUG4SHSI0ZOtOQlhG3R0KUll9iri2WCladCgt0j39JpX+afJ1TuSuZWWlWcuST6Bg3ZdhoZMFwV7U1mlzh746CWoH/bwMml1Kun7/LFqg1GinUbTQK7gE6x1g+RO288H6tBHW5pmaA06H+44Q==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Calm & Focus Starter",
+    "packId": "calm-focus-starter"
+  },
+  "nonce": "Fl+sFAWY8CAPL5Rq",
+  "tag": "AjgnCy4KTsF0/Qt5i1BwzQ=="
+}

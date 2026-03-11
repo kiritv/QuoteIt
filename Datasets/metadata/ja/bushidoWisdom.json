@@ -1,0 +1,29 @@
+{
+  "sourceId": "bushidoWisdom",
+  "displayName": "武士道の知恵",
+  "version": "1.0",
+  "languageCode": "ja",
+  "displayNameEnglish": "Bushido — The Way of the Warrior",
+  "script": "CJK",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Japanese",
+  "edition": "Hagakure, Musashi & Nitobe",
+  "primaryCategory": null,
+  "subcategory": "Bushido",
+  "audienceTags": [
+    "tradition:samurai",
+    "tradition:bushido",
+    "theme:honor",
+    "theme:discipline"
+  ],
+  "itemCount": 70,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/bushidoWisdom.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

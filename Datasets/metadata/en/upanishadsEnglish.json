@@ -1,0 +1,27 @@
+{
+  "sourceId": "upanishadsEnglish",
+  "displayName": "Upanishads (English)",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Max Muller Translation, Sacred Books of the East, 1879",
+  "primaryCategory": null,
+  "subcategory": "Hindu",
+  "audienceTags": [
+    "scripture",
+    "study"
+  ],
+  "itemCount": 301,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/upanishadsEnglish.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

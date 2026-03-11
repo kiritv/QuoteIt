@@ -1,0 +1,20 @@
+{
+  "kind": "packs",
+  "language": "pt",
+  "count": 1,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "packId": "portuguese-brasil",
+      "displayName": "Portuguese Brasil",
+      "languageCode": "pt",
+      "audience": "Portuguese-speaking readers",
+      "objective": "Daily motivation and literary depth in Portuguese",
+      "estimatedItemCount": 679,
+      "isFeatured": true,
+      "priority": 11,
+      "relativePath": "Datasets/Packs/portuguese-brasil.quoteitpack",
+      "packSha256": "7e91797128beb9cc1d97bea10cb728f8c81411f31e95674a1d0bb0dfc58ece82"
+    }
+  ]
+}

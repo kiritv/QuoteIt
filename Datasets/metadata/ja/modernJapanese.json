@@ -1,0 +1,29 @@
+{
+  "sourceId": "modernJapanese",
+  "displayName": "現代日本語の名言",
+  "version": "1.0",
+  "languageCode": "ja",
+  "displayNameEnglish": "Modern Japanese Voices",
+  "script": "CJK",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "Japanese",
+  "edition": "Murakami, Miyazaki, Honda & More",
+  "primaryCategory": null,
+  "subcategory": "Japanese",
+  "audienceTags": [
+    "era:modern",
+    "tradition:japanese",
+    "theme:innovation",
+    "theme:creativity"
+  ],
+  "itemCount": 56,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "author",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/modernJapanese.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

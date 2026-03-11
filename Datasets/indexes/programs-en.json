@@ -1,0 +1,119 @@
+{
+  "kind": "programs",
+  "language": "en",
+  "count": 7,
+  "generatedAt": "2026-03-11T01:50:42Z",
+  "items": [
+    {
+      "programId": "21-days-latin-america",
+      "displayName": "21 Days in Latin America",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "latinAmericanVoices"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/21-days-latin-america.quoteitprogram",
+      "programSha256": "64bbce4695dea880f6a3afcd9439638dae01e656131711fa27a939d8eeb3c733"
+    },
+    {
+      "programId": "21-days-rumi",
+      "displayName": "21 Days with Rumi",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "hafizDivan",
+        "rumiMasnavi"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/21-days-rumi.quoteitprogram",
+      "programSha256": "5c01cb45ae088abf369098448aed693cbf5cbc116aba09a4bcf83ca2787908a8"
+    },
+    {
+      "programId": "30-days-buddhism",
+      "displayName": "30 Days of Buddhist Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "dhammapadaEnglish",
+        "paliSuttas",
+        "zenTexts"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-buddhism.quoteitprogram",
+      "programSha256": "40e39e6dac79ee241b201e8d24426ba994a034450372c453b181744dc1b2158f"
+    },
+    {
+      "programId": "30-days-vedic",
+      "displayName": "30 Days of Vedic Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "bhagavadGitaSanskrit",
+        "vivekanandaWisdom",
+        "yogaSutras"
+      ],
+      "dayCount": 30,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/30-days-vedic.quoteitprogram",
+      "programSha256": "29a323bb37763a352fcc5d825da2ecdc7d2898e5697fb259ec8f3885e88d8754"
+    },
+    {
+      "programId": "7-days-africa",
+      "displayName": "7 Days of African Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "akanProverbs",
+        "amharicWisdom",
+        "igboProverbs",
+        "modernAfricanVoices",
+        "swahiliProverbs",
+        "yorubaProverbs",
+        "zuluProverbs"
+      ],
+      "dayCount": 7,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/7-days-africa.quoteitprogram",
+      "programSha256": "d15cc27e6a0f80eb4abec802eef9e90053c85e545bd9e6415c9f92e66bcf85a3"
+    },
+    {
+      "programId": "eastern-wisdom",
+      "displayName": "Eastern Wisdom",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "confuciusAnalects",
+        "dhammapadaEnglish",
+        "taoTeChingEnglish"
+      ],
+      "dayCount": 21,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/eastern-wisdom.quoteitprogram",
+      "programSha256": "e28357c2245d55ceab6e4dd81bf225d566de48ba79efb27ca1edb714fd08880a"
+    },
+    {
+      "programId": "thirukkural-journey",
+      "displayName": "The Thirukkural Journey",
+      "languageCode": "en",
+      "requiredSourceIds": [],
+      "allSourceIds": [
+        "tirukural"
+      ],
+      "dayCount": 45,
+      "isFeatured": false,
+      "priority": 9999,
+      "relativePath": "Datasets/Programs/thirukkural-journey.quoteitprogram",
+      "programSha256": "f2b2eb68a4890994bd19ae43e9f2e643c103cb66635cc169a330926a8a4d16db"
+    }
+  ]
+}

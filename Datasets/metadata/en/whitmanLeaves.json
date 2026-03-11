@@ -1,0 +1,27 @@
+{
+  "sourceId": "whitmanLeaves",
+  "displayName": "Walt Whitman — Leaves of Grass",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "1891-92 Deathbed Edition, Public Domain",
+  "primaryCategory": null,
+  "subcategory": "Poetry",
+  "audienceTags": [
+    "literature",
+    "poetry"
+  ],
+  "itemCount": 2028,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/whitmanLeaves.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

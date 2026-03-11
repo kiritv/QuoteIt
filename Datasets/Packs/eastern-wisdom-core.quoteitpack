@@ -1,0 +1,13 @@
+{
+  "ciphertext": "PBnlAJY1bUSKxesBiVZZ9tuIZD1sCz2KH7NV9pYAvn06tVd/lOg6ng4NShRVt4UcZvk94L6m4DEjoEmYIvMLzsm779Hi2H/g1Z53VwwcDynphJjfHu5uYKxkovYRLgB3OO4kEGZoK9hXUS3ILpsnS5fqY6mIgn6R7ULHVZgLmrGUu+/8nvobCrebGGdVF8B5Be4R7yk9kHQ1VDlWm7c+/wbdjkLahtt+mhMRz8H3VDB/KR8JcROem60QQmYLmNsXs2isRXHOIK3y2klzhNC3wJcam2GBNxKsBLO8dw3xM+AWr3qfuewQU2EzkUxlOcDVaKH0sqN/Uvq2jnPtQR4DNbwxWqh/bf/7zngWw1Ciq+YZRa+Mp2Y0GyrlQwhApeXIXYGZ80R10LoiriyuUqz/VdPGTnsWahjnGcpFqPt0VEVktEzfgHCB",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Eastern Wisdom Core",
+    "packId": "eastern-wisdom-core"
+  },
+  "nonce": "rU6l5fCoORkX6CYP",
+  "tag": "p6Z/yrdIKOuvAyP8rWP1OQ=="
+}

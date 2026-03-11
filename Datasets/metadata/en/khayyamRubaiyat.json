@@ -1,0 +1,27 @@
+{
+  "sourceId": "khayyamRubaiyat",
+  "displayName": "Rubaiyat of Omar Khayyam",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Edward FitzGerald 5th Edition, 1889",
+  "primaryCategory": null,
+  "subcategory": "Poetry",
+  "audienceTags": [
+    "literature",
+    "poetry"
+  ],
+  "itemCount": 213,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/khayyamRubaiyat.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

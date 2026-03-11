@@ -6,7 +6,30 @@ This guide covers end-user features only.
 
 ---
 
-## Current Build Highlights
+## Start Here
+
+### Quick Start (First 2 Minutes)
+1. Open **Quote** and tap the right arrow to read your next item.
+2. Tap **Choose Dataset** to switch dataset.
+3. Tap **Heart** to save one favorite.
+4. Open **Explore** and run one search.
+5. Open **Settings > About & Help** and bookmark **User Guide** / **Deep Link Index**.
+
+### Guide Map
+- **Start Here**: first-use orientation and key highlights
+- **Daily Reading**: quote screen, reader mode, action bar
+- **Find and Explore**: search and browse
+- **Save, Collect, and Share**: favorites, collections, sharing
+- **Discover Library**: install online datasets, packs, and programs
+- **Personalization**: For Me, reflection, mood, and programs
+- **Settings Quick Reference**: paths for all key controls
+- **Import and Advanced Tools**: import wizard and AI model flow
+- **Platform Notes**: iPad, Mac, Safari, iMessage, CarPlay, Watch, Widgets
+- **Troubleshooting**: quick fixes
+- **Deep Link and Route Reference**: link out to deep-link index
+
+<details>
+<summary><strong>What’s New in 6.0.0 (Expandable)</strong></summary>
 
 - Multi-dataset reading with quick dataset switching from the Quote screen
 - Explore search scope control: current dataset or all visible datasets
@@ -20,6 +43,9 @@ This guide covers end-user features only.
 - Collections create/share/import flow with deep-link import support
 - About Author panel from long-press with lightweight context and web links
 - Organized Choose Dataset with Quick Access + collapsible category/subcategory library
+- Discover Library supports multilingual online dataset, pack, and program installs
+- Catalog import deep links (`quoteit://catalog/import?...`) open direct install flow
+- Preferred Content Language boosts recommendation relevance across For Me and quote-of-day
 - Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
 - Swipe up/down in Card mode to enter Reader mode quickly
@@ -46,9 +72,11 @@ This guide covers end-user features only.
 - Safari New Tab extension with "Open in QuoteIt" deep-link handoff
 - CarPlay quote playback with `For Me`, `Discover`, `Favorites`, and `Themes` tabs plus `Now Quote` text view
 
+</details>
+
 ---
 
-## Getting Started
+### Getting Started
 
 When you first open Quote It, you'll see a random quote displayed over a background image. The app has five main sections accessible from the floating tab bar at the bottom of the screen:
 
@@ -63,7 +91,7 @@ You can replay the tour anytime from **Settings > About & Help > Replay App Tour
 
 ---
 
-## Quote Screen
+## Daily Reading
 
 The Quote screen is where you'll spend most of your time. It displays a full-screen quote with a background photograph.
 
@@ -124,7 +152,7 @@ Tap the download icon to instantly render a styled quote card and save it to you
 
 ---
 
-## Explore
+## Find and Explore
 
 The Explore screen lets you discover quotes by browsing and searching.
 
@@ -165,7 +193,7 @@ Tap any quote in a list to view it full-screen with a background image. From the
 
 ---
 
-## Favorites
+## Save, Collect, and Share
 
 The Favorites screen shows all quotes you've saved by tapping the heart icon. Favorites are stored locally on your device and persist between app launches.
 
@@ -195,13 +223,33 @@ Collections let you group quotes and share/import them with deep links.
 
 ---
 
-## For Me
+## Discover Library (Online Install)
+
+Use **Choose Dataset > Discover Library** to install online datasets, packs, and guided programs.
+
+- Discover Library includes **Datasets**, **Packs**, and **Programs** tabs.
+- Apply **Dataset Language** before searching to reduce noise.
+- When a language filter is active, Choose Dataset shows a visible filter chip and a one-tap **Show All** action.
+- Choose Dataset also shows a quick count summary (`Showing X of Y datasets`) so it is clear why the list is smaller.
+- Install flows are consistent: dataset, pack, and program installs stay in Discover Library and show toast status.
+- Installed rows move into installed/ready groupings where applicable.
+- Deleted online datasets can be re-installed from Discover Library anytime.
+
+Recommended deep-link format for direct install handoff:
+- `quoteit://catalog/import?sourceId={sourceId}&lang={languageCode}`
+
+---
+
+## Personalization
 
 `For Me` is the personalization surface for quote discovery.
 
 - Uses your interactions (favorites, reading behavior, and search/open signals) to improve suggestions over time
 - Adds semantic affinity so recommendations can match intent even when wording differs
 - Uses the `sparkles` tab entry (`#F7C04A`) for clear discovery
+- Uses a staged feed:
+  - Fast first pass for immediate responsiveness
+  - Background expansion across all datasets appended below **More from all datasets**
 - Shows a recommendation feed with reason chips (no separate search mode in this tab)
 - Includes runtime controls:
   - **More Like This** — boosts similar items
@@ -209,10 +257,11 @@ Collections let you group quotes and share/import them with deep links.
   - **Refresh** — regenerates recommendations from current signals
   - **Reset** — clears For Me tuning signals
 - Opens any selected item directly in the main Quote screen for normal reading flow
+- To bias recommendations by language, set **Settings > Reading & Display > Content Language**.
 
 ---
 
-## Reflection, Mood, and Journal
+### Reflection, Mood, and Journal
 
 Quote It includes guided reflection features designed for daily consistency.
 
@@ -237,7 +286,7 @@ Quote It includes guided reflection features designed for daily consistency.
 
 ---
 
-## Reading Programs
+### Reading Programs
 
 Reading Programs help you follow a structured daily sequence of quotes/items.
 
@@ -262,7 +311,7 @@ Sharing/import:
 
 ---
 
-## Settings
+## Settings Quick Reference
 
 Settings is organized into grouped sections:
 - **General**
@@ -335,6 +384,9 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 - **Choose Dataset (Full Screen)** — Built for daily switching and list management (outside Settings):
   - `QuoteIt` is always first and required (cannot be hidden)
   - Starts with a **Quick Access** block that combines core, pinned, and recent datasets in one compact list (no subsection headers)
+  - A **Dataset Language** filter sits above **Search datasets** and filters the visible list before search
+  - When language filter is active, a highlighted chip appears with one-tap **Show All** reset
+  - A visible summary shows how many datasets are currently shown under the active language filter
   - Main dataset library is organized into collapsible **Category** and **Subcategory** groups
   - Swipe left on dataset rows for **Pin/Unpin** and **Hide/Unhide**
   - Swipe left on eligible downloaded online datasets for **Delete** to remove local copy (built-in datasets cannot be deleted)
@@ -343,11 +395,10 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
   - **Show Hidden** defaults to off each time the screen opens, so users see their focused visible list
   - Tapping a hidden dataset auto-unhides it and switches immediately
   - Dataset rows show visual state badges (for example **Online**, **Hidden**, **Pinned**) for quick scanning; built-in datasets do not show the **Online** badge
-  - **Discover Online Datasets** is available directly inside Choose Dataset and only shows datasets not installed on this device
-  - Deleted online datasets can be downloaded again anytime from Discover Online Datasets
+  - **Discover Library** is available directly inside Choose Dataset for online installs
+  - See **Discover Library (Online Install)** for full install workflow details
 
-### Dataset Import & Import Models
-- Open **Choose Dataset > Discover Online Datasets** for quick install of missing public GitHub datasets.
+## Import and Advanced Tools
 - Open **Settings > Dataset Import > Import Wizard** to import local datasets.
 - Import Wizard flow:
   - **File**: select dataset package/folder or raw file (`.txt`, `.md`, `.csv`, `.tsv`, `.json`, `.pdf`)
@@ -365,6 +416,8 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 - Discover Datasets supports install/update from `.quoteit` package URLs defined in catalog metadata.
 - Online pack installs use encrypted `.quoteitpack` payloads (pack source lists are decrypted at install time).
 - Online program installs use encrypted `.quoteitprogram` payloads with SHA-256 verification before import.
+
+## Settings Quick Reference (continued)
 
 ### Export & Sharing
 - **Layout** — Export framing/aspect preset
@@ -387,6 +440,8 @@ Background images are stored locally for faster loading and offline use, with se
 - **Help** — In-app quick reference for key app workflows
 - **About** — App name and current version
 - **Replay App Tour** — Relaunches the interactive tour on demand
+- **User Guide** — Opens the full online guide
+- **Deep Link Index** — Lists supported `quoteit://` and universal link routes
 
 ### Export Behavior
 - Export cards now prefer QR identity over legacy branding marks.
@@ -421,7 +476,10 @@ Previously downloaded images are available offline from the cache. The app grace
 
 ---
 
-## iPad & Landscape
+## Platform Notes (Expandable)
+
+<details>
+<summary><strong>iPad & Landscape</strong></summary>
 
 Quote It works on both iPhone and iPad, in portrait and landscape orientations. The action bar and tab bar stay compact and centered on wider screens so the background image remains visible.
 
@@ -429,16 +487,20 @@ For supported study datasets on iPad, Quote It presents supplemental context as:
 - Side panel in landscape
 - Top/bottom split in portrait
 
-## Mac (Apple Silicon)
+</details>
+
+<details>
+<summary><strong>Mac (Apple Silicon)</strong></summary>
 
 Quote It can run on Apple silicon Mac using the iOS app runtime.
 
 - Core reading, Explore, Favorites, For Me, and Settings flows remain the same.
 - Apple Watch bridge features are iPhone/watch specific and are skipped on Mac runtime.
 
----
+</details>
 
-## Safari Extension (New Tab)
+<details>
+<summary><strong>Safari Extension (New Tab)</strong></summary>
 
 If Safari extension is enabled, new tabs can show a Quote It quote card with an **Open in QuoteIt** action.
 
@@ -454,9 +516,10 @@ Behavior:
 - **Open in QuoteIt** routes to the matching source/item when available.
 - If exact routing metadata is unavailable, Quote It opens safely with fallback navigation.
 
----
+</details>
 
-## iMessage Extension
+<details>
+<summary><strong>iMessage Extension</strong></summary>
 
 Use Quote It inside iMessage to send quote cards/messages with deep links.
 
@@ -466,9 +529,10 @@ Behavior:
 - If exact item is unavailable, Quote It falls back safely.
 - Link payload is optimized for deterministic IDs first (`sourceId` + `quoteId`) to avoid oversized URLs.
 
----
+</details>
 
-## CarPlay
+<details>
+<summary><strong>CarPlay</strong></summary>
 
 Quote It supports in-car quote playback and text display surfaces.
 
@@ -484,9 +548,10 @@ Playback behavior:
 - Back from **Now Quote** stops active playback.
 - Rendered-audio path is default for stable physical head-unit playback.
 
----
+</details>
 
-## Accessibility
+<details>
+<summary><strong>Accessibility</strong></summary>
 
 Quote It supports VoiceOver and other assistive technologies:
 - All action bar buttons have descriptive accessibility labels (e.g., "Add to favorites", "Read aloud", "Share quote", "Save to Photos")
@@ -494,13 +559,14 @@ Quote It supports VoiceOver and other assistive technologies:
 - Quote content is combined for VoiceOver as "quote text, by author"
 - The back button is labeled "Go back"
 
----
+</details>
 
-## watchOS Companion
+<details>
+<summary><strong>watchOS Companion</strong></summary>
 
 After installing Quote It on iPhone, open Apple's **Watch** app and install **Quote It** from the available apps list.
 
-### Watch Features
+Watch features:
 - **Quote glance app**: one-quote reading optimized for quick sessions.
 - **Next quote action**: tap **Next** (or tap the quote) to move forward with haptic feedback.
 - **Favorite on watch**: tap heart to save/remove favorites from watch.
@@ -514,14 +580,15 @@ After installing Quote It on iPhone, open Apple's **Watch** app and install **Qu
 - **Siri shortcut / App Intent**: "Get Quote" intent with optional mood.
 - **Streak tracking**: watch app tracks consecutive inspiration days.
 
-### Watch + iPhone Sync
+Watch + iPhone sync:
 - Favorites are synced through the watch/iPhone bridge.
 - Watch favorite changes are sent to iPhone.
 - iPhone favorites are mirrored back to watch for consistency.
 
----
+</details>
 
-## Home Screen Widget
+<details>
+<summary><strong>Home Screen Widget</strong></summary>
 
 Add a **Quote It** widget to your home screen for quick discovery.
 
@@ -540,6 +607,42 @@ Tap behavior:
 - If the target is no longer available, Quote It opens safely with a fallback message.
 
 To add the widget: long-press your home screen, tap the **+** button, search for "Quote It", choose size, then long-press the widget and tap **Edit Widget** to choose mode/dataset.
+
+</details>
+
+---
+
+## Troubleshooting
+
+### Search returns no results
+- Confirm scope is correct: **All Datasets** vs **Current Dataset**.
+- If using all-datasets search, tap keyboard **Search** to execute.
+- Ensure the target dataset is not hidden.
+
+### Online install fails
+- Check network connectivity.
+- Re-open **Choose Dataset > Discover Library** and retry.
+- If a dataset was deleted, reinstall it from Discover Library.
+
+### Deep link did not open expected target
+- Verify the link includes correct `sourceId`.
+- For catalog links, include `lang` when possible.
+- Try opening from **Safari** if another app strips query parameters.
+
+### Recommendations feel off-language
+- Set **Settings > Reading & Display > Content Language**.
+- Use **For Me > Reset** to clear prior tuning signals.
+
+### Notification opened fallback instead of exact quote
+- The original quote may no longer exist in the active dataset version.
+- Update/install the expected dataset and retry.
+
+---
+
+## Deep Link and Route Reference
+
+For full route syntax and examples, use:
+- [Deep Link Index](./DEEP_LINK_INDEX.md)
 
 ---
 

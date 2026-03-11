@@ -1,0 +1,13 @@
+{
+  "ciphertext": "Rg34aG1yucVY7dX7JKFc/KMECr83RYoGpGfewDv4sOISq6ebtPc+uHmgVqKPnTZCFqrolSeicKAIbBctrgOx5bv5XW89eHACPStCwJ0Y0dNLFQXey/YtwVQJ5DQFy2aR/cA9W12Tch/wTLt1eLYY9KbXRybctZ6XtOdZpxTnzdzesCkeca6GbVxqf+13Ic+uX8+RGjm8VcnjKmG1/ToNHdx6o5h41dsTHc9ZrKTIbQ+FJpFHbasjqSW5+IsF7nGmm4XNqhvZNNdg8e0TuzmY09WhvB1PLfzjQKGYaY7R4LzFjCZhZYtn3YPNrYahhmSucOyC7d3X7aylQRrCw6BUYKEpjWvo6/uGEbKqUrOyojU4BuemM5x6mK4pA67tA1FhJ3km+bjUZrHSYUgpkp1hGFpv4AOcSMZ8qn2zuxnJ1VAeQ3CGL/1fOgEB5k08RJpY9BCvVq2gPiqh7w==",
+  "encryption": "AES.GCM",
+  "format": "quoteit-pack",
+  "formatVersion": 1,
+  "kdfVersion": 1,
+  "meta": {
+    "displayName": "Healing & Recovery",
+    "packId": "healing-recovery"
+  },
+  "nonce": "pYc6RzC7Ai7F9DiJ",
+  "tag": "L/wFyHogi8t8VI+SHCJfiw=="
+}

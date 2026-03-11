@@ -1,0 +1,27 @@
+{
+  "sourceId": "aristotleEthics",
+  "displayName": "Aristotle — Ethics & Politics",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": null,
+  "script": null,
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": null,
+  "language": "English",
+  "edition": "Ross & Welldon Translations, 1890s-1920s",
+  "primaryCategory": null,
+  "subcategory": "Ancient Greek",
+  "audienceTags": [
+    "philosophy",
+    "ethics"
+  ],
+  "itemCount": 1739,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/aristotleEthics.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

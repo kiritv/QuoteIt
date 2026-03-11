@@ -1,0 +1,28 @@
+{
+  "sourceId": "amharicWisdom",
+  "displayName": "Ethiopian Wisdom",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Ethiopian Wisdom",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "general",
+  "language": "English",
+  "edition": "Amharic & Tigrinya Oral Traditions",
+  "primaryCategory": null,
+  "subcategory": "African",
+  "audienceTags": [
+    "tradition:animism",
+    "theme:wisdom",
+    "theme:resilience"
+  ],
+  "itemCount": 30,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/amharicWisdom.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}

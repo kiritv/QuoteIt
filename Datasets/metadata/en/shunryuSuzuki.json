@@ -1,0 +1,30 @@
+{
+  "sourceId": "shunryuSuzuki",
+  "displayName": "Shunryu Suzuki",
+  "version": "1.0",
+  "languageCode": "en",
+  "displayNameEnglish": "Shunryu Suzuki",
+  "script": "Latin",
+  "isRTL": false,
+  "transliterationAvailable": false,
+  "contentRating": "devotional",
+  "language": "English",
+  "edition": "Wikiquote Verified",
+  "primaryCategory": null,
+  "subcategory": "Zen Buddhism",
+  "audienceTags": [
+    "tradition:zen",
+    "tradition:buddhism",
+    "theme:mindfulness",
+    "theme:beginner-mind",
+    "audience:meditation"
+  ],
+  "itemCount": 20,
+  "supportsRandom": true,
+  "supportsBrowse": true,
+  "browseOrder": "sequence",
+  "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/shunryuSuzuki.quoteit",
+  "isFeatured": false,
+  "priority": 9999,
+  "generatedAt": "2026-03-11T01:50:42Z"
+}
