@@ -23,5 +23,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/platoDialogues.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "03cb6cad125d3e849280e15acaecaec1ae2a51ea5594c2eb9333927aa48af23c"
 }

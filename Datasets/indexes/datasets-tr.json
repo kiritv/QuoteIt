@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "tr",
   "count": 4,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "sourceId": "mevlanaTurkce",
@@ -26,7 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/mevlanaTurkce.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "779be6d8637d77e3c7b915a8fd0f840577a33eeb22ded53a90dd8c09b9928ebc"
     },
     {
       "sourceId": "nazimHikmet",
@@ -50,7 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/nazimHikmet.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "2f403ef25b15acf03a183bdd3968feeb153343d452f3610e8cccf30eae97e123"
     },
     {
       "sourceId": "turkAtasozleri",
@@ -74,7 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/turkAtasozleri.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "b58c4bb679e28bc0e2ec93100fe4bd28e9356d27e1a06d64a4287049a6ec0104"
     },
     {
       "sourceId": "turkEdebiyati",
@@ -98,7 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/tr/turkEdebiyati.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "05f2645505acd14c9fc589ab5f4f62622be7dcdeeaf7d78b4ae7960d9e9bbf20"
     }
   ]
 }

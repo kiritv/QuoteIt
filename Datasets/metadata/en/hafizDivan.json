@@ -25,5 +25,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/hafizDivan.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "366336db4be48f57479dfd11c88f07571bdda42c5f4afb3277b66f32ca3c6880"
 }

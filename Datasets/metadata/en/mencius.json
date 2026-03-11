@@ -23,5 +23,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/mencius.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "a7fd7b8e792f3afba63a3548f5363f4310ab9e8373a09d343e81c4490ec8b965"
 }

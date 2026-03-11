@@ -18,12 +18,13 @@
     "tradition:french",
     "theme:wisdom"
   ],
-  "itemCount": 210,
+  "itemCount": 500,
   "supportsRandom": true,
   "supportsBrowse": true,
   "browseOrder": "sequence",
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/proverbesFrancais.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "a285a4d8995d326bd8db110fdf5ba37050c971490f1b5086dde0e11f4a8991d8"
 }

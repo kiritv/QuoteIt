@@ -27,5 +27,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/zenTexts.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "ab345c318e1dff1cd559c096c51e69c9e2c3ea181604f490683773c9d2bbab53"
 }

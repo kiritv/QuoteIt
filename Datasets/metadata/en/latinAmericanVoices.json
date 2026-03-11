@@ -27,5 +27,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/latinAmericanVoices.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "f1da80a7dc84928a4f69b18d6c38ce09cca36a9bdba5b7fb359419aa5a53eb84"
 }

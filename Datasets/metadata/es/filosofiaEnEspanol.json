@@ -20,5 +20,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/filosofiaEnEspanol.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "352e496764ca2cf617f9cd7e6a6136087f1efdda09002f61c1adf9bc4366d789"
 }

@@ -20,5 +20,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaeraMuassirun.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "ec6fe1802bc45c6a6141dd9b8cd211beafa444cab0d836cd4ed02a507eab467c"
 }

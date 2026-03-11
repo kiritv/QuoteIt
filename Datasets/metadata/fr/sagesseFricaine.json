@@ -25,5 +25,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/fr/sagesseFricaine.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "ba7bfba038677282d036b5009388edf5683bbb920c5d1428b8560a63dc7dfb6f"
 }

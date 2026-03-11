@@ -23,5 +23,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/aristotleEthics.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "fc38f96afe046733e45ebd29bd8e01c1df7ac753a1e376cf762f1fa01acad651"
 }

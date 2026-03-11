@@ -1,5 +1,5 @@
 {
-  "ciphertext": "5XMZqoma5OGy3YTNvHZDdoJwgMnulHAXoBU1hHNZ3yiQO5w/vFfAW/Tnw4LeibV2fiRMIOAm6Hh4BHC2wziR0t81QIpk9ecYxoZCbGJUEL3B6H7mQ36B8uPHSQ775OTVBzlPSFaRBwmV+SwOXCK5lECrdy32b5frlk4/xAP1PFHP+7plyzqcHmrQ+qiQfcOxvv5D9MS4a5qr1huDivlgmuihoZcrlRFdMKieyY7EaMewMf/Ez9U/aAUpKFsMSQWXv/rLQlSnv4WZllx/JLilgatn7c8sjFrggkZS2Cl9wxphrGF6msfHlmh2hpMGm7EbkRq3ndNjEvAaI7r1Uu3+GaimzUJg1tt2gyIvEehVnJn4Zib3fCXEhq59Pap4DXMUk1OGwz2vYIDe0tPwYqH69trCFnof4D5Rw3nCgi6llpjzAhAmxlsSB7g6hJ6HEQReUAV/Hh6/1DU=",
+  "ciphertext": "nb2SSiiWmIcbe6uFwAbwvwws6OpJqgZSa+WsulwBK+7vaUIRZt4gozHeeMzWpDIaH7Il5BdeeNa33sks+OgtCKwBeH0NG2VvoIUFUAwxCaZkDJvr95AiWLeanwkuvOqvAI/c/qvL0AHXKZ5GPN9lh0ZU4tN6jQQx4aTeFzddYg9+CvcEcQwvtt7w9nhEvzB2FGbL+CSKPLJUs8mumhryHJQBY7qBYF9PkeNUAl0zPBdXkW6onRirPVJkcJI55HhSpZzy0NMwRmeolcAXq6sBZll1K2IfqJO8lNjdf+Bm3YLwfzMfFKulXmyhvDmS9W9E+ll63XnVlSrIQnfIjbzFpu3rDBNAO5WO1n9MM/KEW7tJrFuoui/CxDUwTLoDm+BCKx1I0dSQ8Mz4YYcQvWEbSp9OCVvQnrf5EwQgWJFo27V4XZCYO3ztEw+FM4kV/RPA6NbEnePp8/4=",
   "encryption": "AES.GCM",
   "format": "quoteit-pack",
   "formatVersion": 1,
@@ -8,6 +8,6 @@
     "displayName": "Buddhist Path",
     "packId": "buddhist-path"
   },
-  "nonce": "SACnF0A2W5rxlUx2",
-  "tag": "VSh4Lrn2claAoF98giEvGQ=="
+  "nonce": "XwwZk7KaatGUHl4G",
+  "tag": "HLoEFn0BR5lIZRCr5icSsg=="
 }

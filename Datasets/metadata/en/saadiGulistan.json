@@ -25,5 +25,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/saadiGulistan.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "d90ec4eae33267ea6089079bec57fd1610ac3264a431e0889c45b13b1ef8e229"
 }

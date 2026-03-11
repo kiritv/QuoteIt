@@ -24,5 +24,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/akanProverbs.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "f37d0c407d66e5b196b3d6224bfb7b882e32ba0553a81b974b0a18a47c115599"
 }

@@ -23,5 +23,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/artOfWarEnglish.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "adac047dcc9972b93b5d16b23363533588760fadabb3f81183c009848e73a38e"
 }

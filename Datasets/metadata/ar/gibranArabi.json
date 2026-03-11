@@ -20,5 +20,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/gibranArabi.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "cda9be7aec27106cd905c495c63743189e145adde5c8e27bd534b3102f712e5d"
 }

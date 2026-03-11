@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "de",
   "count": 2,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "sourceId": "deutschePhilosophen",
@@ -32,7 +32,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutschePhilosophen.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "845712d1804ae2e5f1cfc44b0092fc8139a6a9589bf514282383efc898ac2571"
     },
     {
       "sourceId": "deutscheSprichwoerter",
@@ -61,7 +62,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutscheSprichwoerter.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "19b9ece6cadfd28aaf1ac7f7c32660f48e53e24080ab25a816543e3c89b5a6e6"
     }
   ]
 }

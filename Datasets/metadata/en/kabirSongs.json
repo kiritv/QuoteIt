@@ -26,5 +26,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/kabirSongs.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "40bb8e59262785a99741b91e7dc15f8d4e9217a8ca0a2f7b0798bef6e3bc3c93"
 }

@@ -25,5 +25,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/de/deutscheSprichwoerter.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "19b9ece6cadfd28aaf1ac7f7c32660f48e53e24080ab25a816543e3c89b5a6e6"
 }

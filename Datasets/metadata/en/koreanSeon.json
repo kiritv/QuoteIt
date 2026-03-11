@@ -26,5 +26,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/koreanSeon.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "27b69b50a0f2239e8d510dfe5c77786202ae8554f3487edbd6d068bad9e14e6b"
 }

@@ -23,5 +23,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/imitationOfChrist.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "62da2fabb9b0273bd49bed0fd3cad9e5728b5fa6f2aadce396a3b0c799ef4daf"
 }

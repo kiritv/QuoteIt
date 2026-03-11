@@ -25,5 +25,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/modernAfricanVoices.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "fe764df0f7c58f6e14901244b4cdc3ab3aa375ecef666318074f4772169a6d58"
 }

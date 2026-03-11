@@ -2,7 +2,7 @@
   "kind": "packs",
   "language": "pt",
   "count": 1,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "packId": "portuguese-brasil",
@@ -14,7 +14,7 @@
       "isFeatured": true,
       "priority": 11,
       "relativePath": "Datasets/Packs/portuguese-brasil.quoteitpack",
-      "packSha256": "7e91797128beb9cc1d97bea10cb728f8c81411f31e95674a1d0bb0dfc58ece82"
+      "packSha256": "bb142303b0120f2fa4ebc7ec3e9e955e5580adf55b1a92217f6c98bf7883bdd6"
     }
   ]
 }

@@ -17,12 +17,13 @@
     "genre:haiku",
     "theme:nature"
   ],
-  "itemCount": 108,
+  "itemCount": 300,
   "supportsRandom": true,
   "supportsBrowse": true,
   "browseOrder": "author",
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/bashoHaiku.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "34c7a57280374b92f798c72da58fc9b22b4e714fbdc3c599511a5d2d7a5ea051"
 }

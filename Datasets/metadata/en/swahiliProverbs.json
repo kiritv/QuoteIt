@@ -24,5 +24,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/swahiliProverbs.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "e2ef3ce516bf537a80f4b9b60ae2da81e10c1dbf26b86b8d484ab21a6cb48241"
 }

@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "ar",
   "count": 5,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "sourceId": "hadithExpanded",
@@ -26,7 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/hadithExpanded.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "69287ea4b96b9f47c56039559a6d8d620c520171928c92279c68b3cc2668e400"
     },
     {
       "sourceId": "arabicProverbs",
@@ -50,7 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/arabicProverbs.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "92406c37f8abe1ad37d4869890e001d2d9e147b42384c724e74c71709d9a1da8"
     },
     {
       "sourceId": "shaerArabiKlasiki",
@@ -74,7 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaerArabiKlasiki.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "4201dd49764b5cd6357968d16825d68b1a92939266c8ed806daa832981567946"
     },
     {
       "sourceId": "gibranArabi",
@@ -98,7 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/gibranArabi.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "cda9be7aec27106cd905c495c63743189e145adde5c8e27bd534b3102f712e5d"
     },
     {
       "sourceId": "shaeraMuassirun",
@@ -122,7 +126,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaeraMuassirun.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "ec6fe1802bc45c6a6141dd9b8cd211beafa444cab0d836cd4ed02a507eab467c"
     }
   ]
 }

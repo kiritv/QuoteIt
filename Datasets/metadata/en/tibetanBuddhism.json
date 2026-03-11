@@ -27,5 +27,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/tibetanBuddhism.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "683368b44125cdefdbebd3d857482544184ce1b04905186c4eed93e24f5fbd09"
 }

@@ -20,5 +20,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ar/shaerArabiKlasiki.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "4201dd49764b5cd6357968d16825d68b1a92939266c8ed806daa832981567946"
 }

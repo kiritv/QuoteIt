@@ -27,5 +27,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/thichNhatHanh.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "9526fc39cf11f2ed009f01168393084154bb1310d63becefc50eaba65899b1fa"
 }

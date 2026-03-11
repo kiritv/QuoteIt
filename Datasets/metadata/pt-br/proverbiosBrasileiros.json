@@ -20,5 +20,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/proverbiosBrasileiros.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "68abe4bfb0d5ed92646f8499b97591996eef0a7d01f955da558dc9690b32e57e"
 }

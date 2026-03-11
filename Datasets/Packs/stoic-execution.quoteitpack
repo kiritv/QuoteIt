@@ -1,5 +1,5 @@
 {
-  "ciphertext": "z2xUXeugnGnjPIYssxz9okzNMm4Y2lP+Kd80K17fMIrTNV4cTNGzbTox4A/nxBWwTAsJeYConiXKpd8xnWHlyE60luferqXL8TgPXX1CeXdmV58X4moyF/8W+rovspscB5bOXXQAhOZVPZNbnLuOE9hWwNk8yP8sqHeEemnYY6Jr+On7P/ykQchHUSHT34wbHyeykYftCVq7jgTOoJ8SwbdXTzvWjZgZeI4zOUEVS/3wSpNeatdULXtMyPrGd+FMZRTRAl56kaMXxkfZVyGV60NbAP1ovgeSLO6p/IxoJ/WBevy8kaGuTiQBATuhkfK1haJ89NMo/HG9wtDNPlIS5l6yyQbafFQbFVRuT+o029QROrLoFQyB4W3juHM+4K+jv2M2kz9FTFXRng9fmp7w8Kyd6rUDvUVfEeFU/i5IaEtZm9kejWkcNso2eTuW+74G8GgSI/KXKw==",
+  "ciphertext": "1uV1kcFZ4qxyrbvhqS5E9GVZ9zZ8mzMben9xs7J6IbXXgckW1MTyw2eCglSqtAGPHlT3ZfhsgWTaXXo69OhPt11pLMJ6PJPSc163OQ4fwGy+1RG0oQ417lFa46LsuppD25XZbnaKBqrF5d1E4JVvwHAMdDoL198cv6QCLn3XSMjonRf89z/9fLDIDaHkAV0QekFjMy25QSNq/zlFPkzde8BVxb5vtrhXEd6Fsuz62tS9r2sQH3WHKnsAYhiluh4I/DnGI2gu3hJMGT9R8Y1lgWJokpL2doTqcdwJHLNGdaGqOFiUk/0d7WweLiNc9mYGyt6asRxQAOUldpg7tpTCJObHemEegiLDf8+8RiaS2JX3SIZfGd+luY1ucxRHM9ikRJNeijp6/9HWkccuN7G5L02cBgrV4eGFI6ghzcQ+LbX+lfLLe8tdN0G1jDf7eLwmJ/qDwkOIMA==",
   "encryption": "AES.GCM",
   "format": "quoteit-pack",
   "formatVersion": 1,
@@ -8,6 +8,6 @@
     "displayName": "Stoic Execution",
     "packId": "stoic-execution"
   },
-  "nonce": "lp5rd0kQYiYIRVcS",
-  "tag": "gt9Ckey0jF2elR1How2hBQ=="
+  "nonce": "yAGj3Oy8Jo3iUJXk",
+  "tag": "yxA0HXkrRbLGlgZ18QaZaA=="
 }

@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "es",
   "count": 5,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "sourceId": "filosofiaEnEspanol",
@@ -26,7 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/filosofiaEnEspanol.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "352e496764ca2cf617f9cd7e6a6136087f1efdda09002f61c1adf9bc4366d789"
     },
     {
       "sourceId": "fridaKahloEspanol",
@@ -50,7 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/fridaKahloEspanol.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "8a40166bca9099395efcee5644bb561c182f953db49d8e456d8351fd4c3c7044"
     },
     {
       "sourceId": "poetasLatinoamericanos",
@@ -74,7 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/poetasLatinoamericanos.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "eef965b20e24ea4594d6dfab85030f93467a122c2855bb44a31e53e18d5d1a26"
     },
     {
       "sourceId": "proverbiosHispanicos",
@@ -98,7 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/proverbiosHispanicos.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "2c51c7f5390a2389e805c263b2431a96c108a3edb764dcfafdb1ba5899aeabd7"
     },
     {
       "sourceId": "modernasVocesLatinas",
@@ -122,7 +126,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/es/modernasVocesLatinas.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "30de7602a290ac3b8922fc5703e138490436c7a358355700bc71c151c6447e90"
     }
   ]
 }

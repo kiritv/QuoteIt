@@ -24,5 +24,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/igboProverbs.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "62d8dc54463c873a8d16fefc9f201959f28e3c7159920ec022678189cad2f1f2"
 }

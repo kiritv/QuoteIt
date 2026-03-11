@@ -26,5 +26,6 @@
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/en/shunryuSuzuki.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "a89eac857694a0e518f30becdb5ba1d7dc1f54e81d800ae3f7d6e465f2f2ba1b"
 }

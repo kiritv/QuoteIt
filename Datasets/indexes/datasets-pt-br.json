@@ -2,7 +2,7 @@
   "kind": "datasets",
   "language": "pt-br",
   "count": 4,
-  "generatedAt": "2026-03-11T01:50:42Z",
+  "generatedAt": "2026-03-11T03:23:38Z",
   "items": [
     {
       "sourceId": "drummond",
@@ -26,7 +26,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/drummond.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "200c0dd524ba54ded6b65fa2c6ce20a3a1aa4dce1e86b1eb48666f20704b5c1f"
     },
     {
       "sourceId": "clariceIspector",
@@ -50,7 +51,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/clariceIspector.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "73821bfea335a40cc5b397388609ba2167e3f7a7a3a6a98df0b66407d1adbf94"
     },
     {
       "sourceId": "pauloCoelhoPortugues",
@@ -74,7 +76,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/pauloCoelhoPortugues.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "3ea1a5b6ce727e3d8fec988f24f3e1a14e1956767f73d66aca31f860969c5fb3"
     },
     {
       "sourceId": "proverbiosBrasileiros",
@@ -98,7 +101,8 @@
       "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/pt-br/proverbiosBrasileiros.quoteit",
       "isFeatured": false,
       "priority": 9999,
-      "generatedAt": "2026-03-11T01:50:42Z"
+      "generatedAt": "2026-03-11T03:23:38Z",
+      "packageHash": "68abe4bfb0d5ed92646f8499b97591996eef0a7d01f955da558dc9690b32e57e"
     }
   ]
 }

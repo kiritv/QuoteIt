@@ -18,12 +18,13 @@
     "theme:mindfulness",
     "theme:awakening"
   ],
-  "itemCount": 80,
+  "itemCount": 500,
   "supportsRandom": true,
   "supportsBrowse": true,
   "browseOrder": "author",
   "packageUrl": "https://raw.githubusercontent.com/kiritv/QuoteIt/main/Datasets/packages/ja/zenJapanese.quoteit",
   "isFeatured": false,
   "priority": 9999,
-  "generatedAt": "2026-03-11T01:50:42Z"
+  "generatedAt": "2026-03-11T03:23:38Z",
+  "packageHash": "dde88d069e585312991916bb9b2df37ea5a95b677df6be343c722652ccb2a4b2"
 }
