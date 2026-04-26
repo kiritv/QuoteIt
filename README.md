@@ -13,7 +13,7 @@ This guide covers end-user features only.
 2. Tap **Choose Dataset** to switch dataset.
 3. Tap **Heart** to save one favorite.
 4. Open **Explore** and run one search.
-5. Open **Settings > About & Help** and bookmark **User Guide** / **Deep Link Index**.
+5. Open **Create > New** to start an Image Post or Video Post. Premium users can use **Creator Assist** during supported text steps, and **Settings > Premium** shows plan and restore status.
 
 ### Guide Map
 - **Start Here**: first-use orientation and key highlights
@@ -27,6 +27,59 @@ This guide covers end-user features only.
 - **Platform Notes**: iPad, Mac, Safari, iMessage, CarPlay, Watch, Widgets
 - **Troubleshooting**: quick fixes
 - **Deep Link and Route Reference**: link out to deep-link index
+
+<details>
+<summary><strong>What's New in 6.4.0 (Expandable)</strong></summary>
+
+- Video Post backgrounds can now use short clips from **Files**, **Photos**, or the in-app **camera recorder**.
+- Trim clips visually, save multiple scenes, and reorder them before export.
+- One video project can mix scenes from more than one imported clip.
+- Keep original clip audio with its own level control and narration ducking.
+- **Shared** history is now archived independently, so deleting a rendered video does not silently remove the related Shared item.
+- Long-press in **Create > Drafts**, **Videos**, or **Shared** to select multiple items for deletion.
+- **Settings > Premium** now shows live subscription status, restore purchases, and App Store subscription management.
+
+</details>
+
+<details>
+<summary><strong>What's New in 6.3.0 (Expandable)</strong></summary>
+
+- New **Creator Assist** inside the guided Create flow.
+- Turn a rough thought into AI-assisted quote drafts, hooks, and share captions.
+- Start from your own text or use a QuoteIt source as inspiration while keeping the original source text unchanged.
+- Use refinement hints such as **Keep my meaning**, **Sharper**, **Warmer**, **Simpler words**, **More caption-like**, **More immediate**, and **Make it mine**.
+- Send drafts to quote text, video hook, or share caption depending on the creator step.
+- Accepted drafts are labeled as AI-assisted and can be reviewed, edited, or undone before saving or sharing.
+- Creator Assist is Premium-only and uses the QuoteIt backend when cloud generation is configured.
+- Premium is available through the active monthly and annual subscription plans.
+
+</details>
+
+<details>
+<summary><strong>What’s New in 6.2.0 (Expandable)</strong></summary>
+
+- New **Create** tab for all creator work.
+- Unified creator wizard for **Image Post** and **Video Post**.
+- Create workspace adds **New**, **Drafts**, **Videos**, and **Shared** tabs.
+- Rendered video projects remain editable in **Drafts** until you delete them, and also appear in **Videos** for quick sharing.
+- Video creator now supports templates, platform presets, hooks, subtitle styles, soundtrack selection, recorded narration, imported audio, and motion backgrounds.
+- Template thumbnails make it easier to choose a video style before rendering.
+- Narration controls now include import, record, countdown, live meter, inline playback, re-record, and remove.
+- Background music now includes 12 bundled instrumental tracks, including sitar, bansuri, tabla, and santoor options.
+- Music selection uses a compact grouped picker with preview controls, so the list can grow without taking over the screen.
+- Music level now supports Subtle, Balanced, and Prominent quick picks, with manual control up to 0.75 and a default of 0.35.
+- Video hooks now include more presets, custom hook text, independent hook animation, expanded motion backgrounds, motion intensity, and a short mix preview before full render.
+
+</details>
+
+<details>
+<summary><strong>What’s New in 6.0.1 (Expandable)</strong></summary>
+
+- Fixed image sharing on Facebook and Instagram — UIImage is now the primary share item, restoring correct photo previews.
+- Cleaner social captions — stripped raw attribution URLs that were overriding custom link previews on social platforms.
+- Universal link routing verified: quoteit.biz/q/[id] opens the matched item when the app is installed.
+
+</details>
 
 <details>
 <summary><strong>What’s New in 6.0.0 (Expandable)</strong></summary>
@@ -49,7 +102,7 @@ This guide covers end-user features only.
 - Surprise Me shortcut (double-tap QuoteIt tab) for random visible dataset + item + background
 - Continuous Reader mode with Card/Reader transitions
 - Swipe up/down in Card mode to enter Reader mode quickly
-- Full-screen Quote Builder Wizard with style presets
+- Unified Create workspace with Image Post and Video Post flows
 - Full-screen Dataset Import Wizard with model-assisted review
 - iPad supplemental details panel for supported study datasets
 - Expanded Voice & Dictation controls with system and Personal Voice support
@@ -78,13 +131,14 @@ This guide covers end-user features only.
 
 ### Getting Started
 
-When you first open Quote It, you'll see a random quote displayed over a background image. The app has five main sections accessible from the floating tab bar at the bottom of the screen:
+When you first open Quote It, you'll see a random quote displayed over a background image. The app has six main sections accessible from the floating tab bar at the bottom of the screen:
 
 1. **Quote** — The main screen with daily inspiration
 2. **Explore** — Search and browse quotes/items across dataset scopes
 3. **For Me** — Personalized feed surface (favorites and reading-behavior recommendations)
-4. **Favorites** — Your saved collection
-5. **Settings** — Preferences and help
+4. **Create** — Image-post and video-post creation plus creator workspace
+5. **Favorites** — Your saved collection
+6. **Settings** — Preferences and help
 
 On first install (and once after major upgrades), Quote It can show a guided feature wizard and interactive tour.
 You can replay the tour anytime from **Settings > About & Help > Replay App Tour**.
@@ -122,6 +176,7 @@ The floating action bar appears at the bottom of the screen with these actions:
 | Photo | **Choose Background** | Open background picker and refresh/favorite image options |
 | Share | **Share** | Share the quote as text or as a styled image card |
 | Download | **Save to Photos** | Save a styled quote card image to your Photos library |
+| Reflect | **Reflect** | Open a reflection prompt and save a journal entry for the current quote |
 
 The toolbar automatically hides after a few seconds to give you an unobstructed view of the quote. Tap the screen to bring it back.
 
@@ -136,12 +191,24 @@ On large iPad layouts, supported study datasets can show a details panel.
 - When details are hidden, use the top-right **Details** button (visible with toolbar) to bring the panel back
 
 ### Sharing a Quote
-When you tap the share button, you'll see two options:
+When you tap the share button, you'll see three options:
 
 - **Share Text** — Shares quote text and author only
 - **Share Image** — Creates a styled card and includes dataset photo credit links when using Unsplash/Pexels backgrounds
+- **Share as Video (15s)** — MP4 export with animated text, narration, and optional ambient music (can be Premium-gated depending on rollout)
 
 Shared images are cached to disk, so sharing the same quote again is instant.
+
+Video export notes:
+- The app opens a full-screen **Video Preview** first (with built-in playback controls, Regenerate, and Play/Stop action buttons), then exports a 1080×1920 H.264 MP4.
+- Audio uses quote narration and can include an optional ambient bed grouped by mood, including Calm, Focus, Uplifting, Lo-fi, Warm Piano, Cinematic Swell, Meditative Drone, Soft Guitar, Sitar Dawn, Bansuri Breeze, Tabla Pulse, and Santoor Rain.
+- Music can be previewed before export. Use **Subtle**, **Balanced**, or **Prominent** quick picks, or tune the level manually up to 0.75. The default stays at 0.35.
+- Background music automatically lowers under narration so spoken quote audio remains clear.
+- Preview uses an opaque, image-tone-matched gradient background for better contrast and readability.
+- Video duration follows narration length and is capped for social compatibility (up to 15s).
+- After a successful share action from the preview, the preview screen closes automatically. If share is canceled, it stays open.
+- When guarded features are enabled, free users are shown the Premium upgrade sheet before video export starts.
+- The upgrade sheet includes monthly and annual Premium plans plus restore purchases.
 
 ### Saving to Photos
 Tap the download icon to instantly render a styled quote card and save it to your device's Photos library. The card includes:
@@ -156,10 +223,12 @@ Tap the download icon to instantly render a styled quote card and save it to you
 
 The Explore screen lets you discover quotes by browsing and searching.
 
-### Create Your Own
-- Use the **Create Your Own** action in Explore to add your own text and image.
-- You can import an image from Photos or capture one with Camera.
-- New personal quotes are saved locally and automatically added to Favorites.
+### Create
+- Open the **Create** tab to build your own content.
+- **New** starts either an **Image Post** or a **Video Post**.
+- **Image Post** creates a saved personal quote with your own text, author, styling, and background image.
+- **Video Post** uses the same guided setup first, then adds video-specific controls such as template, platform, narration, subtitles, and motion.
+- Personal image posts are saved locally and also appear in your personal items and favorites workflow.
 
 ### Browse by Author
 When you first open Explore, you'll see grouped/browsable entries based on the active dataset. Tap any entry to view matching quotes.
@@ -200,18 +269,92 @@ The Favorites screen shows all quotes you've saved by tapping the heart icon. Fa
 - Tap any favorite to view it full-screen
 - Tap the heart icon again on any quote to remove it from favorites
 - Your favorites are never uploaded or shared — they stay on your device
-- Use the **Create Your Own** action to add a personal item directly from Favorites
 - Use the **My Items** filter (person badge icon) to show only your personal items
 - Swipe personal quotes to **Edit** or **Delete**
 - Use **Dataset Scope** to switch between:
   - **All Datasets** (favorites across every dataset)
   - **Current Dataset** (favorites only for the active dataset)
+- When guarded features are enabled, free tier is limited to 50 favorites. Attempting to add more opens the Premium upgrade sheet.
 
 ### Favorites Sub-tabs
 Favorites includes dedicated sub-tabs for:
 - **Favorites**: your saved quote/item list
-- **Journal**: your reflection entries
+- **Journal**: your reflection entries (Premium when guarded features are enabled)
 - **Collections**: your curated quote collections
+
+Favorites no longer carries creator lifecycle management. Use **Create** for drafts, rendered videos, and shared video history.
+
+---
+
+## Create
+
+The Create screen is the home for all creator work.
+
+### Create Tabs
+- **New**: start a new **Image Post** or **Video Post**
+- **Drafts**: reopen editable video projects
+- **Videos**: rendered local video outputs
+- **Shared**: previously shared video history
+
+### Image Post
+- Enter your own quote text and author
+- Choose a background image
+- Adjust style and layout
+- Save the item back into your personal quote library
+
+When an image post is saved, it becomes your current quote and is available in your personal items flow.
+
+### Video Post
+- Start from:
+  - **Current Quote**
+  - **Recently Viewed**
+  - **Enter Your Own**
+- Reuse the shared content, background, style, and layout steps
+- Then choose video settings such as:
+  - template
+  - platform preset
+  - narration source
+  - soundtrack
+  - hook and subtitle style
+  - background motion
+
+Creator Studio tools:
+- **Creator Assist** — Premium users can generate AI-assisted quote drafts, video hooks, and share captions while keeping source text unchanged until a draft is accepted.
+- **Background Video Clips** — Use a still image or a short clip from Files, Photos, or the in-app recorder, then trim and sequence scenes before export.
+- **Templates** — Choose from six thumbnail templates, grouped for fast selection.
+- **Hooks** — Pick a ready-made opening hook or write a custom hook. Hook animation can be turned on or off.
+- **Narration** — Use voice-over, import an audio file, or record directly in the app. Recording includes a countdown, live level meter, inline playback, re-record, and remove controls.
+- **Subtitles** — Enable subtitles and choose how they appear in the video.
+- **Motion** — Select background motion presets and adjust intensity.
+- **Music** — Choose from the 12-track ambient library, including Eastern-culture instruments such as sitar, bansuri, tabla, and santoor.
+- **Music Level** — Start from Subtle, Balanced, or Prominent, or fine-tune from 0.02 to 0.75. Balanced remains the default at 0.35.
+- **Scene Sequencing** — Save, reorder, duplicate, and remove trimmed scenes from one or more clips without switching to a full timeline editor.
+- **Clip Audio** — Keep the original video clip audio if desired and control its level under narration.
+
+### Creator Assist
+Creator Assist helps refine user-created wording without replacing the source text automatically.
+
+- Open **Create > New**, choose **Image Post** or **Video Post**, then use **Refine with Creator Assist** on supported text steps.
+- Start from your own text, the current QuoteIt item, or a recently viewed item.
+- The original text remains unchanged until you accept a generated draft.
+- Use **Send Draft To** to target quote text, video hook, share caption, or scratch ideas when available.
+- Use refinement hints to ask for clearer, sharper, warmer, simpler, caption-ready, or hook-ready wording.
+- Accept only the draft you want, then review and edit it before saving or sharing.
+- Accepted drafts are labeled as AI-assisted in the creator flow.
+- If web context is enabled, web-derived context should appear with citations before acceptance.
+- Creator Assist requires Premium when guarded Creator Assist is active.
+
+### Draft and Render Behavior
+- A video project stays in **Drafts** until you explicitly delete it.
+- After a successful render, the same project also appears in **Videos**.
+- After a successful share, a history row appears in **Shared** with its own archived copy.
+- Long-press any card in **Drafts**, **Videos**, or **Shared** to select multiple items for deletion.
+
+### Delete Behavior
+- In **Drafts**, swipe left to delete a draft project.
+- In **Videos**, swipe left to delete the rendered video file.
+- In **Shared**, swipe left to remove only the share-history row and its archived Shared copy.
+- Deleting a rendered video does not remove the related Shared history entry.
 
 ### Collections
 Collections let you group quotes and share/import them with deep links.
@@ -282,6 +425,7 @@ Quote It includes guided reflection features designed for daily consistency.
 ### Journal
 - Save reflections as journal entries linked to quote context.
 - Access entries from **Favorites > Journal**.
+- When guarded features are enabled, opening the Journal tab requires Premium (unless Developer Mode override is enabled).
 - Use Wisdom Timeline to review mood + reflection history over time.
 
 ---
@@ -303,6 +447,7 @@ What you can do:
 Progress behavior:
 - Program progress is day-based and persists across relaunches
 - Active program progress appears on the main quote screen as a progress chip
+- When guarded features are enabled, free tier includes one 7-day program trial; additional or expired enrollments require Premium.
 
 Sharing/import:
 - Generated programs can be exported/imported as `.quoteitprogram`
@@ -371,6 +516,9 @@ Disable both Unsplash and Pexels to view items without background images.
 - **Personal Voice** — Dedicated picker for Personal Voice when available and authorized
 - **System Voice** — Choose a specific built-in system voice
 - **Speech Rate** — Adjust read-aloud speed
+- **Audiogram Locale** — Override language/locale used for exported video narration
+- **Audiogram Background Music** — Enable ambient music in exported video posts
+- **Music Track / Music Level** — Select a grouped ambient track, preview the selected track, and adjust music from 0.02 to 0.75. Quick picks are Subtle, Balanced, and Prominent; Balanced defaults to 0.35. Music ducks under narration automatically.
 - **Preview Voice** — Test current voice settings
 - **Dictation** — In Create/Edit, use Dictate to transcribe speech into item text
 
@@ -419,10 +567,18 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 
 ## Settings Quick Reference (continued)
 
+### Premium
+- **Subscription Status** — See whether Premium is active, grandfathered, or currently free
+- **Plan Selection** — Choose the monthly or annual Premium plan when available from StoreKit
+- **Restore Purchases** — Re-check past purchases for the current Apple Account
+- **Manage Subscription** — Open App Store subscription management when an active StoreKit subscription exists
+
 ### Export & Sharing
 - **Layout** — Export framing/aspect preset
 - **Quality** — Output quality and size
 - **Style** — Export presentation style
+- **Video Export** — `Share as Video (15s)` from the quote share sheet exports MP4 audiograms (may be Premium-gated depending on rollout)
+- **Video Preview Flow** — Full-screen preview with playback controls, regenerate support, and auto-dismiss on successful share
 - **Include Photo Attribution** — Adds photo credit in exported card when enabled
 - **Accessibility Export Mode** — Improves readability in exported images
 - **Include QR Code in Exports** — Adds a scannable deep-link QR in the card (bottom-right)
@@ -437,7 +593,7 @@ Background images are stored locally for faster loading and offline use, with se
 - **Dataset Performance Cache** — Large datasets use on-device cache databases for faster load/search; you can clear and rebuild this cache in Storage
 
 ### About & Help
-- **Help** — In-app quick reference for key app workflows
+- **Help** — In-app quick reference for key app workflows, including **What's New in 6.4.0**
 - **About** — App name and current version
 - **Replay App Tour** — Relaunches the interactive tour on demand
 - **User Guide** — Opens the full online guide
@@ -601,6 +757,7 @@ Widget modes:
 Supported families:
 - Home Screen: **small**, **medium**, **large**
 - Lock Screen: **inline**, **circular**, **rectangular** (where supported by iOS/watch face context)
+- When guarded features are enabled, free tier includes **small** Home Screen widget only; **medium/large** show a Premium lock state until upgraded.
 
 Tap behavior:
 - If the exact target exists, the app opens directly to that item or destination.
@@ -653,6 +810,7 @@ For full route syntax and examples, use:
 - **Use Programs daily** — Enroll in a program and track progress from the Quote screen chip
 - **Reflect consistently** — Follow prompt cards and save short journal entries
 - **Share beautifully** — Use "Share Image" to create styled cards perfect for social media
+- **Share as video** — Use "Share as Video (15s)" for narrated MP4 posts
 - **Listen while you work** — Use the speaker icon to hear quotes read aloud
 - **Dictate faster** — In Create/Edit Quote, use Dictate Quote to transcribe your voice
 - **Save storage** — Adjust the image cache size in Settings if storage is a concern
