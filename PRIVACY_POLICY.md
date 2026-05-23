@@ -9,7 +9,7 @@ Quote It ("we", "our", or "us") respects your privacy. This Privacy Policy descr
 - Quote It does not require account creation.
 - Most Quote It activity is local to your device.
 - We do not sell your personal data.
-- Some optional features send limited information to QuoteIt services or third parties. These include Creator Assist, remote dataset discovery/downloads, web background images, and push notification registration.
+- Some optional features send limited information to QuoteIt services or third parties. These include Creator Assist, remote dataset discovery/downloads, web background images, Google Photos selection, and push notification registration.
 
 ## Information Stored On Your Device
 
@@ -21,7 +21,7 @@ Quote It stores app data locally on your device. Depending on the features you u
 - journal entries, mood check-ins, and streak/progress data
 - creator drafts and creator workspace state
 - imported datasets and related metadata
-- downloaded background images and selected photo backgrounds
+- downloaded background images and selected photo backgrounds, including cached copies of photos explicitly selected from Google Photos
 - locally selected or recorded media used in creator flows
 - Premium status cache and related app settings
 
@@ -69,6 +69,14 @@ Their privacy policies are:
 - Unsplash: https://unsplash.com/privacy
 - Pexels: https://www.pexels.com/privacy/
 
+### Google Photos
+
+If you choose a background from Google Photos, Quote It opens Google's picker and asks you to sign in with Google if needed. Quote It requests only Google Photos Picker access for media items you explicitly select. Quote It downloads a local cached copy of the selected image so it can be used as a background. Removing that background from Quote It removes only Quote It's cached copy; it does not delete or modify the original item in Google Photos.
+
+Google's privacy policy is:
+
+- Google: https://policies.google.com/privacy
+
 ### Remote Dataset Discovery And Downloads
 
 If you browse or install remote datasets, Quote It may contact QuoteIt-hosted delivery infrastructure, GitHub-hosted resources, or related content endpoints to fetch catalog metadata and dataset packages. Those services may receive standard network information needed to complete the request.
@@ -93,7 +101,7 @@ The following flows are designed to stay on-device unless you explicitly use a n
 - favorites, collections, journal entries, and most settings
 - local creator drafts and edits
 - imported local files and datasets
-- selected Photos backgrounds and locally recorded media
+- selected Photos or Google Photos backgrounds and locally recorded media
 - video export and local audio mixing
 
 Quote It does not upload your imported files, local media, or journal content by default.
