@@ -10,10 +10,11 @@ This guide covers end-user features only.
 
 ### Quick Start (First 2 Minutes)
 1. Open **Quote** and tap the right arrow to read your next item.
-2. Tap **Choose Dataset** to switch dataset.
+2. Tap the **dataset pill** to switch dataset.
 3. Tap **Heart** to save one favorite.
 4. Open **Explore** and run one search.
-5. Open **Create > New** to start an Image Post or Video Post. Premium users can use **Creator Assist** during supported text steps, and **Settings > Premium** shows plan and restore status.
+5. Open **Settings > Reading & Display** if you want QuoteIt to follow **System** appearance or stay pinned to **Light** or **Dark** mode.
+6. Open **Create > New** to start an Image Post or Video Post. Premium users can use **Creator Assist** during supported text steps, and **Settings > Premium** shows plan and restore status.
 
 ### Guide Map
 - **Start Here**: first-use orientation and key highlights
@@ -27,6 +28,65 @@ This guide covers end-user features only.
 - **Platform Notes**: iPad, Mac, Safari, iMessage, CarPlay, Watch, Widgets
 - **Troubleshooting**: quick fixes
 - **Deep Link and Route Reference**: link out to deep-link index
+
+<details>
+<summary><strong>What's New in 7.0.0 (Expandable)</strong></summary>
+
+- QuoteIt 7.0.0 is the major library and recitation release since 6.5.2.
+- **89 community datasets** are now bundled directly in the app, and **Gujarati Bhakti** is bundled as a first-class source too.
+- Imported copies that are now replaced by bundled app versions are automatically cleaned up, so your library stays simpler after upgrade.
+- The **Choose Dataset** language sheet now sorts installed languages alphabetically while keeping **All Languages** pinned first.
+- Source picker search matches the **English name** of bundled datasets, and non-Latin-script datasets show an English secondary label for easier discovery.
+- The **Choose Dataset** pill is slimmer, the **tab bar** stays visible after chrome auto-hides, and the **Reading Program** chip opens today's programmed item directly.
+- Scripture jump pickers now show clearer navigation, including **Bhagavad Gita chapter names** where available.
+- **Bhagavad Gita chapter recitation video playback** is now available, and the full **Quran** sidecar includes all **114 surah recitations**.
+- QuoteIt now supports **40+ media-enabled sources** through hybrid resolution: bundled/group media first, then curated picks, then search-based fallback where supported.
+- When a verse or quote has playable media, a **video/play control** appears on the reading action bar.
+- You can **save your preferred recitation video** for a verse/quote, and those curated choices now persist reliably across relaunches and sync deletions correctly across your devices when iCloud key-value sync is available.
+- Recitations support **background audio**, mini-player behavior, and working lock-screen / Control Center play-pause controls.
+- The expanded recitation player now keeps advanced controls behind a compact **...** menu, including **Show Text**, **Playback Speed**, **Sleep Timer**, and **AirPlay**, so the main reading screen stays uncluttered.
+- **iPad floating recitation player** — on iPad, the recitation player opens as a compact draggable window. Drop it anywhere on screen and your position is remembered across launches, rotation, Split View, and Stage Manager. The card is clamped so it can't slip behind the floating tab bar.
+- **iOS 26 Liquid Glass** — on devices running iOS 26, the floating **action bar** and **tab bar** adopt the new Liquid Glass materials. Older OSes keep the existing chrome unchanged.
+- **What's Lifting You Up insight (Wisdom Timeline)** — a new insight card surfaces the themes from quotes you journaled on your best-mood days. It activates once you have at least three positive-mood days with matching journal entries.
+- **Quotes are first-class in Shortcuts and Apple Intelligence** — *Read Me a Quote* now returns a structured Quote entity, so you can chain follow-up actions (share, journal, copy) and compose with Apple Intelligence workflows on iOS 26.
+- **AI-assisted reflection starters (iOS 26)** — on devices running Apple Intelligence, the **Reflect** prompt now includes a short on-device sentence starter generated from the current quote. The deterministic prompt still appears instantly; the AI starter fades in beneath it when available. No network calls, no data leaves the device.
+- **Streak Live Activity** — when you open QuoteIt with an active reading streak, your day count and a snippet of today's quote appear on the **Lock Screen** and (where supported) the **Dynamic Island** for up to four hours. Enable in **iOS Settings → Face ID & Passcode → Live Activities**.
+- **Journaling Suggestions in the Journal toolbar (iOS 17.2+)** — a wand icon now sits in the **Journal** toolbar, opening the system Journaling Suggestions picker. Pick a moment from your day (a photo, workout, location, podcast) and pair it with a quote you'd like to reflect on.
+- Reader continuity is smoother: details stay aligned more reliably, reader-mode transitions preserve position better, and cross-item reading feels less jumpy.
+- Search and dataset browsing received additional polish and stability improvements.
+
+</details>
+
+<details>
+<summary><strong>What's New in 6.5.2 (Expandable)</strong></summary>
+
+- **Source picker** search now matches the English name of bundled datasets — type "Gita", "Bhagavad", "Iqbal", and similar Latin-script terms to surface datasets whose primary title is in Devanagari, Arabic, Urdu, Japanese, or another non-Latin script.
+- Non-Latin-script datasets now show their English name as a secondary line in the picker, so they are easier to spot at a glance.
+- The bottom **tab bar** now stays visible after the rest of the on-canvas chrome auto-hides, so navigation is always one tap away.
+- **Reading & Display** now includes an **Appearance** control, so QuoteIt can follow System or stay pinned to Light or Dark mode.
+- The **Choose Dataset** pill is slimmer: just the books icon, the dataset name, and the chevron.
+- The **verse-jump shortcut** for scriptures (Bhagavad Gita and similar) now sits as a quieter labeled chip right next to the source pill.
+- Tap the **Reading Program** chip to jump directly to today's program quote.
+- **Save Image** moved into the Share sheet (Share → Save Image), so the on-canvas action bar has one less button.
+- **Reflect** moved from the action bar into the long-press quick menu (next to Copy Item and About Author), leaving a calmer four-button action bar.
+- A small **info dot** now appears next to the author name to surface the About Author panel for new users.
+- When both a **3+ day streak** and an **active reading program** are running, the two chips merge into a single combined chip in the top-left.
+- The **long-press quick menu** got a polish pass: gradient backdrop, grouping dividers, 44pt row hit targets, a small arrow pointing at your tap, and Escape-key dismissal on iPad.
+- Tapping the **heart** now shows a brief "Saved to Favorites" / "Removed from Favorites" confirmation, matching the copy toast.
+- Minor stability polish.
+
+</details>
+
+<details>
+<summary><strong>What's New in 6.5.0 (Expandable)</strong></summary>
+
+- **Choose Background** now supports **Google Photos** alongside Apple Photos and web images.
+- Sign in with Google only when you choose that source, then pick a photo through Google's picker flow.
+- Quote It stores a local cached copy only for the photos you explicitly select.
+- Removing a saved Google Photos background from Quote It does not delete or modify the original in Google Photos.
+- **Settings > Storage** now shows Google Photos connection status and lets you disconnect local Google authorization on the device.
+
+</details>
 
 <details>
 <summary><strong>What's New in 6.4.0 (Expandable)</strong></summary>
@@ -156,7 +216,8 @@ The Quote screen is where you'll spend most of your time. It displays a full-scr
 - Double-tap quote text to toggle **Reader** / **Card** layout
 - Swipe up/down in **Card** layout to quickly enter **Reader** layout
 - Double-tap the **QuoteIt** tab button to run **Surprise Me** (random visible dataset + item + background)
-- Use the **Choose Dataset | <Current Dataset>** button to open full-screen **Choose Dataset**
+- Use the **dataset pill** on the main screen to open full-screen **Choose Dataset**
+- Use **Settings > Reading & Display > Appearance** to follow System or lock QuoteIt to Light or Dark mode
 
 ### Reader Mode
 - Reader mode shows quotes/items as a continuous stream separated by visual dividers.
@@ -173,12 +234,22 @@ The floating action bar appears at the bottom of the screen with these actions:
 |------|--------|-------------|
 | Heart | **Favorite** | Save or unsave the quote to your Favorites |
 | Speaker | **Listen** | Hear the quote read aloud using text-to-speech |
+| Play | **Recitation Video** | Appears when the current item has supported chapter or verse media and your recitation settings/network allow playback |
 | Photo | **Choose Background** | Open background picker and refresh/favorite image options |
 | Share | **Share** | Share the quote as text or as a styled image card |
-| Download | **Save to Photos** | Save a styled quote card image to your Photos library |
-| Reflect | **Reflect** | Open a reflection prompt and save a journal entry for the current quote |
 
 The toolbar automatically hides after a few seconds to give you an unobstructed view of the quote. Tap the screen to bring it back.
+
+### Chapter Recitations
+- Some scripture and study datasets now support chapter, verse, or item-linked recitation playback.
+- When media is available, the action bar shows a **Play** control for the current item.
+- QuoteIt currently includes Bhagavad Gita chapter recitations, Quran recitation coverage, and additional media support across many bundled/community sources.
+- Playback can continue in the background, and lock-screen / Control Center controls work for supported recitations.
+- Open the expanded recitation player to use the **...** menu for **Show Text**, **Playback Speed**, **Sleep Timer**, and **AirPlay**.
+- **Minimize Player** collapses playback into the mini player while audio continues, and the mini player keeps the same **...** advanced-controls menu available.
+- If more than one source is available for the same item, you can save a preferred video and QuoteIt will prioritize that choice later.
+- Use **Settings > Voice & Dictation > Chapter Recitations** to show or hide recitation videos and to allow or block playback on cellular.
+- The play button is hidden when the current item has no resolved media, the device is offline, or cellular playback is disabled in settings.
 
 ### Study Details (iPad)
 On large iPad layouts, supported study datasets can show a details panel.
@@ -211,11 +282,16 @@ Video export notes:
 - The upgrade sheet includes monthly and annual Premium plans plus restore purchases.
 
 ### Saving to Photos
-Tap the download icon to instantly render a styled quote card and save it to your device's Photos library. The card includes:
+Use **Share > Share Image > Save Image** to render a styled quote card and save it to your device's Photos library. The card includes:
 - The full quote text (centered)
 - The author name
 - The current background image (if available)
 - Adaptive text colors based on image brightness
+
+### Reflection
+- Long-press the quote canvas to open the quick menu.
+- Choose **Reflect** to open a reflection prompt and save a journal entry for the current quote.
+- Reflection prompt cards may still appear automatically after a few seconds of quote stability.
 
 ---
 
@@ -252,7 +328,7 @@ Search behavior:
 
 ### Viewing Quotes
 Tap any quote in a list to view it full-screen with a background image. From there you can:
-- Use the action bar to favorite, listen, share, or save
+- Use the action bar to favorite, listen, change background, or share
 - Navigate forward through the list using the arrow button
 - Tap the back button (top-left) to return to the list
 
@@ -370,8 +446,10 @@ Collections let you group quotes and share/import them with deep links.
 
 Use **Choose Dataset > Discover Library** to install online datasets, packs, and guided programs.
 
+- QuoteIt 7.0.0 also ships with a much larger bundled library, including 89 community datasets plus Gujarati Bhakti, so many sources no longer require a separate install step.
 - Discover Library includes **Datasets**, **Packs**, and **Programs** tabs.
 - Apply **Dataset Language** before searching to reduce noise.
+- Installed-language choices are sorted alphabetically, with **All Languages** always kept first.
 - When a language filter is active, Choose Dataset shows a visible filter chip and a one-tap **Show All** action.
 - Choose Dataset also shows a quick count summary (`Showing X of Y datasets`) so it is clear why the list is smaller.
 - Install flows are consistent: dataset, pack, and program installs stay in Discover Library and show toast status.
@@ -528,7 +606,8 @@ Microphone permission handling for dictation uses the latest iOS APIs and remain
 ### Reading & Display (Navigation)
 - **Reading Mode** — Random or Browse sequence
 - **Auto Mode Switch** — When moving from `QuoteIt` to any other dataset, the app switches Reading Mode to `Browse`
-- **Quick Dataset Button** — On the main card screen (toolbar visible), use **Choose Dataset | <Current Dataset>** to open full-screen **Choose Dataset**
+- **Appearance** — In **Settings > Reading & Display**, choose **System**, **Light**, or **Dark**
+- **Quick Dataset Button** — On the main card screen (toolbar visible), use the **dataset pill** to open full-screen **Choose Dataset**
 - **Choose Dataset (Full Screen)** — Built for daily switching and list management (outside Settings):
   - `QuoteIt` is always first and required (cannot be hidden)
   - Starts with a **Quick Access** block that combines core, pinned, and recent datasets in one compact list (no subsection headers)
@@ -593,11 +672,10 @@ Background images are stored locally for faster loading and offline use, with se
 - **Dataset Performance Cache** — Large datasets use on-device cache databases for faster load/search; you can clear and rebuild this cache in Storage
 
 ### About & Help
-- **Help** — In-app quick reference for key app workflows, including **What's New in 6.4.0**
+- **Help** — In-app quick reference for key app workflows, including **What's New in 7.0.0**
 - **About** — App name and current version
 - **Replay App Tour** — Relaunches the interactive tour on demand
 - **User Guide** — Opens the full online guide
-- **Deep Link Index** — Lists supported `quoteit://` and universal link routes
 
 ### Export Behavior
 - Export cards now prefer QR identity over legacy branding marks.
@@ -612,6 +690,7 @@ Quote It displays beautiful photography behind your quotes. Images are sourced f
 
 - **Unsplash** — High-quality free photos
 - **Pexels** — Free stock photography
+- **Your photos** — Images you explicitly select from Apple Photos or Google Photos
 
 You can enable or disable each source independently in Settings > Reading & Display > Background & Layout.
 
@@ -624,8 +703,9 @@ You can enable or disable each source independently in Settings > Reading & Disp
 - Tap the photo button to open **Choose Background**
 - Use **Refresh from Web** to force a new online fetch attempt
 - Use **Choose from Photos** to add your own image into the chooser
-- Thumbnails show dataset badge: **Your Photo**, **Unsplash**, or **Pexels**
-- Long-press a thumbnail to remove that specific background from Quote It storage
+- Use **Choose from Google Photos** to sign in with Google, select an image through Google's picker, and cache it as a Quote It background
+- Thumbnails show source badges such as **Your Photo**, **Google Photos**, **Unsplash**, or **Pexels**
+- Long-press a thumbnail to remove that specific background from Quote It storage. Removing a selected photo background does not delete the original from Apple Photos or Google Photos.
 
 ### Offline Use
 Previously downloaded images are available offline from the cache. The app gracefully handles no-network situations by using cached images.
@@ -710,7 +790,7 @@ Playback behavior:
 <summary><strong>Accessibility</strong></summary>
 
 Quote It supports VoiceOver and other assistive technologies:
-- All action bar buttons have descriptive accessibility labels (e.g., "Add to favorites", "Read aloud", "Share quote", "Save to Photos")
+- All action bar buttons have descriptive accessibility labels (e.g., "Add to favorites", "Read aloud", "Choose background", "Share quote")
 - Tab bar items announce their label and selected state
 - Quote content is combined for VoiceOver as "quote text, by author"
 - The back button is labeled "Go back"
